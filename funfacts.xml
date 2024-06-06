@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2024-06-06T05:37:23.884Z</updated>
+    <updated>2024-06-06T17:37:22.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Camping_in_Alaska</id>
         <link href="https://en.wikipedia.org/wiki/Camping_in_Alaska"/>
         <updated>2024-06-06T05:37:18.936Z</updated>
-        <content type="html"><![CDATA[... that despite "C U in da Ballpit" being <b><a href="/wiki/Camping_in_Alaska" title="Camping in Alaska">Camping in Alaska</a></b><span class="nowrap">'s</span> best known song, the band says they all hate it?]]></content>
+        <content type="html"><![CDATA[... that despite the success of their song "C U in da Ballpit", <b><a href="/wiki/Camping_in_Alaska" title="Camping in Alaska">Camping in Alaska</a></b> band members say they all hate it?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jacques Poitras]]></title>
