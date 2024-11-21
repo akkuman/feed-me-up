@@ -2,27 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akkuman.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-21T06:37:58.715Z</updated>
+    <updated>2024-11-21T06:51:00.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[为什么很多人说 Linux 包管理器是噩梦？ (绅士喵)]]></title>
         <id>https://blog.hentioe.dev/posts/why-many-people-say-linux-package-managers-are-a-nightmare.html</id>
         <link href="https://blog.hentioe.dev/posts/why-many-people-say-linux-package-managers-are-a-nightmare.html"/>
         <updated>2024-11-21T06:37:57.272Z</updated>
-        <content type="html"><![CDATA[<nav class="text-min-foreground-gray mt-2 pb-desktop-y-spacing">
-  <div class="hidden md:block px-3 xl:px-0">
-    <span>首页</span>
-  </div>
-  <div class="w-full flex md:hidden justify-between items-center">
-    <i class="ri-menu-line sidebar-toggle cursor-pointer text-min-foreground-gray text-2xl"></i>
-    <span class="font-bold text-gray-800/90">绅士喵</span>
-    <span class="w-[1.5rem]">
-      <!-- 暂未实现的移动端搜索框 -->
-    </span>
-  </div>
-</nav>
-    <a href="/posts/why-many-people-say-linux-package-managers-are-a-nightmare.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">为什么很多人说 Linux 包管理器是噩梦？</h2>
         <p class="my-4 line-clamp-2"> 前言 很多 Linux 新人，包括不少有一定经验但仍处于很初级阶段的人，时常会对 Linux 发行版的包管理大批特批。我曾经在知乎上写过一个回答反驳过这些人的言论，而本文我会将它整理这里。
 声音 不可否认，互联网上从以前直到现在都有很多这类声音。这些声音表达的大致意思如下（一些例子）：
@@ -37,10 +24,14 @@
             <span class="ml-2">Linux</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/test-alidns-dnspod-doh-speed-limit.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里 DNS 限速后还能用吗？测试阿里 DNS、DNSPod 的 DoH 速度限制 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/test-alidns-dnspod-doh-speed-limit.html</id>
+        <link href="https://blog.hentioe.dev/posts/test-alidns-dnspod-doh-speed-limit.html"/>
+        <updated>2024-11-21T06:37:57.263Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">阿里 DNS 限速后还能用吗？测试阿里 DNS、DNSPod 的 DoH 速度限制</h2>
         <p class="my-4 line-clamp-2"> 前言 自 2024 年 9 月 30 日起，阿里公共 DNS 宣布对免费版用户进行限速。我一直想找个机会测试一下限速后的可用性，随着本文的发表这次测试已经完成了。我个人是很早就开始使用加密 DNS（DNSCrypt），那时候 DoH 还未发布。
 ...</p>
@@ -54,10 +45,14 @@
             <span class="ml-2">互联网</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/send-emails-via-gmail-for-cloudflare-domain.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Gmail 作为 Cloudflare 域名邮箱的发信服务 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/send-emails-via-gmail-for-cloudflare-domain.html</id>
+        <link href="https://blog.hentioe.dev/posts/send-emails-via-gmail-for-cloudflare-domain.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用 Gmail 作为 Cloudflare 域名邮箱的发信服务</h2>
         <p class="my-4 line-clamp-2"> 前言 在上一篇文章中我介绍了用 Cloudflare 转发邮件到 Gmail，按照该教程我们能用域名邮箱收信但并不能用其发信。本文将介绍利用 Gmail 以自己的域名身份代发邮件的方法，让我们的域名邮箱实现双向通信。
 这是一篇新手向教程。过程十分简单！
@@ -70,10 +65,14 @@
           </div>
           
         </div>
-      </div>
-    </a>
-    <a href="/posts/robots-txt-major-incidents.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录一次 robots.txt 引起的严重事故以及可靠的检查方法 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/robots-txt-major-incidents.html</id>
+        <link href="https://blog.hentioe.dev/posts/robots-txt-major-incidents.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">记录一次 robots.txt 引起的严重事故以及可靠的检查方法</h2>
         <p class="my-4 line-clamp-2"> 前言 最近我的博客经历了一次严重的事故，导致已索引的页面被 Bing 和 Google 大量移除。流量暴跌。它由 robots.txt 引起，和 Hugo 不合理的默认配置有关。本文将详细描述这个过程以及背后的原理。
 发现 11 月 2 日开始，我注意到博客的访问量反常的往下跌，但并没有特别明显。到 11 月 8 日那天跌到了巅峰，独立访客（UV）只勉强过了一百（平时是 3 - 4 倍）。
@@ -88,10 +87,14 @@
             <span class="ml-2">建站</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/sass-module-system-instead-of-import-rule.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Sass 模块化系统取代全局导入，消除 1.80.0 引入的 @import 弃用警告 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/sass-module-system-instead-of-import-rule.html</id>
+        <link href="https://blog.hentioe.dev/posts/sass-module-system-instead-of-import-rule.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">用 Sass 模块化系统取代全局导入，消除 1.80.0 引入的 @import 弃用警告</h2>
         <p class="my-4 line-clamp-2"> 前言 Sass 2.0 即将发布，更多的功能逐渐被弃用并产生警告。我在上一篇文章中介绍了部分不兼容的变化，此文是对该文章的补充。从 1.80.0 版本开始 @import 被弃用，本文将解释其原因、入门模块化系统（替代方案）并提供警告的消除方法。
 如果你想快速解决问题，请优先看解决章节。 问题 将 Sass 升级到 1.80.0 及以上版本后，你可能会遇到如下警告：
@@ -106,10 +109,14 @@
             <span class="ml-2">技术, 前端</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/integrate-video-player-plyr-into-hugo.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给 Hugo 博客添加视频插入功能，集成 Plyr 播放器 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/integrate-video-player-plyr-into-hugo.html</id>
+        <link href="https://blog.hentioe.dev/posts/integrate-video-player-plyr-into-hugo.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">给 Hugo 博客添加视频插入功能，集成 Plyr 播放器</h2>
         <p class="my-4 line-clamp-2"> 前言 这期仍然是索然无味的 Hugo 基础教程，距离我宣布用 Astro 重构博客已经过了一个多月了。好吧，我并没有花足够多的精力在这件事上。本文将介绍在 Hugo 中基于（Plyr）和短代码（Shortcodes）实现视频插入功能。
 这是一篇新手向教程。过程十分简单！
@@ -125,10 +132,14 @@
             <span class="ml-2">技术, 前端</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/rust-1-82-0.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.82.0 更新内容 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/rust-1-82-0.html</id>
+        <link href="https://blog.hentioe.dev/posts/rust-1-82-0.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Rust 1.82.0 更新内容</h2>
         <p class="my-4 line-clamp-2"> 前言 最近 Rust 1.82.0 版本发布了，相比于 1.79 版本，新增了 3634 次提交。本文是对此次更新的大致解读，和官方的博客内容是对应的，但不是简单的翻译。
 本文只起到一个传播作用，不是权威资料，请悉知。由于此版本更新内容过多，我会省略一些细节。
@@ -143,10 +154,14 @@
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/mpv-uosc-control-configuration.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详细配置 MPV 的重量级用户脚本 uosc：控制篇 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/mpv-uosc-control-configuration.html</id>
+        <link href="https://blog.hentioe.dev/posts/mpv-uosc-control-configuration.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">详细配置 MPV 的重量级用户脚本 uosc：控制篇</h2>
         <p class="my-4 line-clamp-2"> 前言 这是本博客第二篇有关 MPV 的文章，在上一篇我整体介绍了 MPV 的各个方面。本文将着重介绍 MPV 最重要的用户脚本之一 uosc 与控制有关的配置方法以及推荐配置。
 uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密的与 MPV 默认操作集成。本文将告诉你怎么做，这是一篇新手向教程。过程十分简单！
@@ -161,10 +176,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具, 多媒体</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/miragend-introduction-tutorial.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于对抗 AI 的通用反向代理 Miragend 的介绍和使用教程（已开源） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/miragend-introduction-tutorial.html</id>
+        <link href="https://blog.hentioe.dev/posts/miragend-introduction-tutorial.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">用于对抗 AI 的通用反向代理 Miragend 的介绍和使用教程（已开源）</h2>
         <p class="my-4 line-clamp-2"> 前言 最近一个月以来，我都在尝试研究一些对抗 AI 爬虫以及 AI 大模型产品的方法。当然我对抗的是有害的那种，例如主动联系也无法停止他们未经授权的数据抓取和使用行为。而不是对抗所有 AI 产品。
 ...</p>
@@ -178,10 +197,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具, 开源</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/use-honeypot-to-collect-ip-of-bad-bots.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用钓鱼的方法收集非法爬虫的 IP 地址 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/use-honeypot-to-collect-ip-of-bad-bots.html</id>
+        <link href="https://blog.hentioe.dev/posts/use-honeypot-to-collect-ip-of-bad-bots.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">用钓鱼的方法收集非法爬虫的 IP 地址</h2>
         <p class="my-4 line-clamp-2"> 前言 最近几个月，我都有研究对抗有害爬虫的方法。我收集到来自几十个不同 ISP 的爬虫，有些已经确认并关联了相关的应用（例如所谓的 AI 搜索产品），有些还在等待调查。
 在本文我将分享一些获取这些有害爬虫 IP 的方法，并预告一些我针对它们采取的措施。
@@ -196,10 +219,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">建站</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/how-to-block-cookie-banner.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教你阻止令人恼火的 Cookie 对话框 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/how-to-block-cookie-banner.html</id>
+        <link href="https://blog.hentioe.dev/posts/how-to-block-cookie-banner.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">教你阻止令人恼火的 Cookie 对话框</h2>
         <p class="my-4 line-clamp-2"> 前言 在 2018 年的时候，欧盟的《通用数据保护条例》（GDPR）被实施。该条例规定网站收集用户个人数据时要明确的告知用户，并给予用户部分拒绝（非必要 Cookie）的权利。随着 GDPR 的影响，Cookie 横幅对话框逐渐在互联网上大规模的流行了起来。
 这个规定的目的是好的，但有些实施者的行为十分恶心人。而且大量的 Cookie 对话框也让人恼火。本文将教你如何阻止这些 Cookie 对话框。
@@ -214,10 +241,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/elixir-1-18.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elixir 1.18 快速一览 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/elixir-1-18.html</id>
+        <link href="https://blog.hentioe.dev/posts/elixir-1-18.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Elixir 1.18 快速一览</h2>
         <p class="my-4 line-clamp-2"> 前言 Elixir 1.18 即将发布，最近 José Valim 在 Elixir WebRTC 上直播讨论了 1.18 版本的新增功能以及一些工作进展。本文将对 Elixir 1.18 中的主要变化以及直播中提到的东西进行简要概述和评论。这里同时要感谢 Reddit 网友的文字总结，节省了我不少时间。
 注意，本文并不会复述所有细节，你应该去看原视频。
@@ -232,10 +263,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/why-favicon-not-showing-in-bing-search.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么你的网站图标不显示在 Bing 搜索的结果中 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/why-favicon-not-showing-in-bing-search.html</id>
+        <link href="https://blog.hentioe.dev/posts/why-favicon-not-showing-in-bing-search.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">为什么你的网站图标不显示在 Bing 搜索的结果中</h2>
         <p class="my-4 line-clamp-2"> 前言 首先自我祝贺一下，近期 Bing 搜索已经能显示我博客的网站图标（Favicon）了。实际上这个不是技术原因，甚至说没有任何「问题」存在，显示与否是 Bing 的机制。而网络上有很多的误导人的错误解释，让你去做无用功。
 ...</p>
@@ -249,10 +284,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">建站</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/rust-html-parsing-modifying.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Rust 解析 HTML 并修改 DOM，给网页打补丁 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/rust-html-parsing-modifying.html</id>
+        <link href="https://blog.hentioe.dev/posts/rust-html-parsing-modifying.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用 Rust 解析 HTML 并修改 DOM，给网页打补丁</h2>
         <p class="my-4 line-clamp-2"> 前言 近期我在开发一款对抗爬虫的反向代理工具，它可以实时的给网页打补丁。是用它代理非法爬虫请求，并修补网页，将网页的有效文本全部改为乱码。要实现这个目的，我们需要一个完善的 HTML 解析器，并支持对 DOM 的操作。
 ...</p>
@@ -266,10 +305,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/fix-line-breaking-by-hugo-plainify-function.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修正 Hugo 的 plainify 函数引入的换行问题 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/fix-line-breaking-by-hugo-plainify-function.html</id>
+        <link href="https://blog.hentioe.dev/posts/fix-line-breaking-by-hugo-plainify-function.html"/>
+        <updated>2024-11-21T06:50:59.110Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">修正 Hugo 的 plainify 函数引入的换行问题</h2>
         <p class="my-4 line-clamp-2"> 前言 自 Hugo 0.134 版本引入的 .Summary 不兼容变化后（参考这里），作为解决方案的 plainify 函数自身又引入了一个新问题。它会把 .Summary 内容中的换行保留下来，这对于标签属性是有害的。尤其是摘要这种较长且重要的信息，会对 SEO 产生负面影响。
 ...</p>
@@ -283,10 +326,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/nginx-conf-multiple-conditions.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Nginx 配置中变相实现多个 if 条件的方法 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/nginx-conf-multiple-conditions.html</id>
+        <link href="https://blog.hentioe.dev/posts/nginx-conf-multiple-conditions.html"/>
+        <updated>2024-11-21T06:50:59.111Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">在 Nginx 配置中变相实现多个 if 条件的方法</h2>
         <p class="my-4 line-clamp-2"> 前言 Nginx 配置文件很独特也很强大，它的 if、set、map 等指令让配置代码看起来像一门脚本语言。当然实际上这些 .conf 文件代码并不是编程语言，它的指令有很多限制。如 if 指令不支持多个条件也无法嵌套使用，这可能会让有一定编程经验的人感到困扰。
 ...</p>
@@ -300,10 +347,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/fix-eslint-warnings-for-unsupported-typescript-versions.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消除 ESLint 对不支持的 TypeScript 版本产生的警告 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/fix-eslint-warnings-for-unsupported-typescript-versions.html</id>
+        <link href="https://blog.hentioe.dev/posts/fix-eslint-warnings-for-unsupported-typescript-versions.html"/>
+        <updated>2024-11-21T06:50:59.112Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">消除 ESLint 对不支持的 TypeScript 版本产生的警告</h2>
         <p class="my-4 line-clamp-2"> 前言 ESLint 是一个用于 JavaScript/JSX 的 linter，它亦可通过插件支持 TypeScript。但当我们使用 typescript-eslint 插件时，若近期 TypeScript 有过升级，ESLint 就可能产生与 TypeScript 版本相关的警告。
 本文旨在帮助大家消除这部份警告，并解释其原因。
@@ -318,10 +369,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 前端</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/why-android-use-mtp-instead-of-ums-mode.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 为什么使用 MTP 取代曾经的 U 盘模式 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/why-android-use-mtp-instead-of-ums-mode.html</id>
+        <link href="https://blog.hentioe.dev/posts/why-android-use-mtp-instead-of-ums-mode.html"/>
+        <updated>2024-11-21T06:50:59.112Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Android 为什么使用 MTP 取代曾经的 U 盘模式</h2>
         <p class="my-4 line-clamp-2"> 前言 不知道是否还有人记得，过去 Android 设备连接电脑时，会以 U 盘模式（USB Mass Storage）的方式挂载到电脑上。这种模式操作文件非常方便和高效，但后来 Android 用 MTP 模式取代了它。本文将从发展的过程角度解读这个变化的原因。
 ...</p>
@@ -335,10 +390,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">科普</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/cargo-vs-mix.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 和 Elixir 的包管理谁更好用？（Cargo vs Mix） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/cargo-vs-mix.html</id>
+        <link href="https://blog.hentioe.dev/posts/cargo-vs-mix.html"/>
+        <updated>2024-11-21T06:50:59.112Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Rust 和 Elixir 的包管理谁更好用？（Cargo vs Mix）</h2>
         <p class="my-4 line-clamp-2"> 前言 Rust 的 Cargo 是一个了不起的包管理兼构建工具，它让 native 语言代码的依赖管理和编译变得容易和轻松。Elixir 的 Mix 也非常优秀。本文将对比这两个工具，谈谈这两门语言包管理之间的异同。
 介绍 如果你是一名 Rust 开发者，请不要误会。这里并没有发明第三方包管理工具，此文提及和对比的 Mix 是另一门叫做 Elixir 的语言工具链，和 Rust 没关系。
@@ -353,10 +412,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/configure-cloudflare-email-forwarding.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[配置 Cloudflare 邮件转发 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/configure-cloudflare-email-forwarding.html</id>
+        <link href="https://blog.hentioe.dev/posts/configure-cloudflare-email-forwarding.html"/>
+        <updated>2024-11-21T06:50:59.112Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">配置 Cloudflare 邮件转发</h2>
         <p class="my-4 line-clamp-2"> 前言 如果你拥有一个域名，但担心收信/发信不稳而不愿自建邮箱服务，那么可以考虑使用 Cloudflare 的邮件转发功能。通过邮件转发，你可以使用可靠的第三方邮箱（如 Gmail）收信，但对外公开的是域名邮箱地址。
 ...</p>
@@ -370,10 +433,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/flash-custom-rom-oneplus-ace2.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给一加 Ace2（OnePlus 11R）刷入类原生系统 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/flash-custom-rom-oneplus-ace2.html</id>
+        <link href="https://blog.hentioe.dev/posts/flash-custom-rom-oneplus-ace2.html"/>
+        <updated>2024-11-21T06:50:59.112Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">给一加 Ace2（OnePlus 11R）刷入类原生系统</h2>
         <p class="my-4 line-clamp-2"> 前言 一加 Ace2 是我近几年来使用过的最恶心的一部手机，它的系统 ColorOS/OxygenOS 基本可以用“垃圾”来形容。当我近期准备淘汰掉它时，发现原来已经有一些成熟的第三方 ROM 了。我便再次给了它一次机会。
 如果你想像我一样，决定让这部手机重获新生。那么这篇文章就是为你准备的。
@@ -388,10 +455,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">硬件</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/encode-placeholder-image-as-short-strings.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将图像编码为短字符串，零网络开销的占位图方案 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/encode-placeholder-image-as-short-strings.html</id>
+        <link href="https://blog.hentioe.dev/posts/encode-placeholder-image-as-short-strings.html"/>
+        <updated>2024-11-21T06:50:59.113Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">将图像编码为短字符串，零网络开销的占位图方案</h2>
         <p class="my-4 line-clamp-2"> 前言 如果前端有大量视频、图片内容，封面/缩略图（后面称作占位图）基本是必不可少的。占位图可以让用户更快的预览内容（如视频第一帧、图像的低清版本），本质是为了提升用户体验。但问题是占位图自身也要通过网络加载，难免存在一些负面体验。
 ...</p>
@@ -405,10 +476,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 前端</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/managing-video-subtitles-with-ffmpeg.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 FFmpeg 管理视频字幕（添加、删除、替换字幕的方法） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/managing-video-subtitles-with-ffmpeg.html</id>
+        <link href="https://blog.hentioe.dev/posts/managing-video-subtitles-with-ffmpeg.html"/>
+        <updated>2024-11-21T06:50:59.113Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用 FFmpeg 管理视频字幕（添加、删除、替换字幕的方法）</h2>
         <p class="my-4 line-clamp-2"> 前言 FFmpeg 是一个强大的多媒体处理工具，但过多的参数很容易劝退人。其实它的使用并没有想象的麻烦，例如通过它管理视频的字幕是很方便的，也很容易理解。
 本文将告诉你应该怎么做。这是一篇新手向教程。过程十分简单！
@@ -424,10 +499,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具, 多媒体</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/harness-v3-released-drone-ci-is-dead.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harness 3.0 发布？不，Drone CI 已死 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/harness-v3-released-drone-ci-is-dead.html</id>
+        <link href="https://blog.hentioe.dev/posts/harness-v3-released-drone-ci-is-dead.html"/>
+        <updated>2024-11-21T06:50:59.114Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Harness 3.0 发布？不，Drone CI 已死</h2>
         <p class="my-4 line-clamp-2"> 前言 最近 Harness 正式发布了 3.0 版本，它是 Drone CI 的后继者（是吗？）。最近我花了一个小时的时间重新认识 Harness，结果却非常失望。我甚至不庆幸 Harness 的正式发布，因为我认为它同时也宣布 Drone CI 已经死了。
 ...</p>
@@ -441,10 +520,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">DevOps</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/sass-2-0-breaking-changes.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sass 2.0 即将到来的不兼容变化 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/sass-2-0-breaking-changes.html</id>
+        <link href="https://blog.hentioe.dev/posts/sass-2-0-breaking-changes.html"/>
+        <updated>2024-11-21T06:50:59.114Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Sass 2.0 即将到来的不兼容变化</h2>
         <p class="my-4 line-clamp-2"> 前言 如果你近期有升级过 Sass，可能会注意到一些警告信息。这是因为 Sass 2.0 发布后某些旧 API 会被删除，故而提醒你迁移到新 API 便于日后升级。
 本文将对一些不兼容变化进行讨论并提供消除警告的迁移方法。
@@ -459,10 +542,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/getting-to-know-mpv.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPV 是一个怎样的播放器？一文带你认识 MPV (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/getting-to-know-mpv.html</id>
+        <link href="https://blog.hentioe.dev/posts/getting-to-know-mpv.html"/>
+        <updated>2024-11-21T06:50:59.115Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">MPV 是一个怎样的播放器？一文带你认识 MPV</h2>
         <p class="my-4 line-clamp-2"> 前言 很多 Windows 用户经常过度吹捧一些平凡的商业软件（例如 PotPlayer），将其称作宇宙最强什么的。一般他们并不知道 Linux/Mac 用户使用什么，也不会了解到开源领域里那些从不营销但实际强大得多的软件产品。本文的主角 MPV 就是开源世界著名的视频播放器，它虽有门槛但总体仍是易于使用的。
 ...</p>
@@ -476,10 +563,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具, 多媒体</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/refactoring-with-astro.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客正在用 Astro 重构 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/refactoring-with-astro.html</id>
+        <link href="https://blog.hentioe.dev/posts/refactoring-with-astro.html"/>
+        <updated>2024-11-21T06:50:59.116Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">博客正在用 Astro 重构</h2>
         <p class="my-4 line-clamp-2"> 前言 本博客还很年轻，一年都没到。最初于 2023 年年底使用 Jekyll 搭建，但很快又改用 Hugo 重建。现在我再次做出决定，本博客即将用 Astro 重构。用 Hugo 重建博客时几乎完全模仿了此前 Jekyll 时期所用的主题（名为 Chirpy）。而即将到来的重构不再如此，我决定完全重新设计。本文会讲述其中原因。
 上次重构 第一次重构前，我对于 SSG 生成器领域的工具使用经验不足而选择了 Jekyll。它非常经典，有很多好看的主题，我使用 Chirpy 主题快速搭建了博客。对于这个选择我是不后悔的，因为它几乎没有成本，只是拿别人的东西来用。
@@ -494,10 +585,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">本博客</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/discussion-analytics-and-avoid-blocking.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈访问分析工具（各种 Analytics）和避免屏蔽的方法 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/discussion-analytics-and-avoid-blocking.html</id>
+        <link href="https://blog.hentioe.dev/posts/discussion-analytics-and-avoid-blocking.html"/>
+        <updated>2024-11-21T06:50:59.117Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">浅谈访问分析工具（各种 Analytics）和避免屏蔽的方法</h2>
         <p class="my-4 line-clamp-2"> 前言 作为网站的运营者/建设者，分析访问数据是很有必要的。日益增强的矛盾在于用户以及各种工具开始加大隐私保护，导致大量分析平台的脚本链接、域名被屏蔽，从而不得不面对数据收集不再全面的问题。
 ...</p>
@@ -511,10 +606,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">建站</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/erlang-beam-languages-elixir-arrays.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erlang 以及 Beam 系列语言（Elixir）中的数组 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/erlang-beam-languages-elixir-arrays.html</id>
+        <link href="https://blog.hentioe.dev/posts/erlang-beam-languages-elixir-arrays.html"/>
+        <updated>2024-11-21T06:50:59.118Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Erlang 以及 Beam 系列语言（Elixir）中的数组</h2>
         <p class="my-4 line-clamp-2"> 前言 在很多编程语言中，数组是一种常见且重要的数据结构，但对于 Erlang/Elixir 等函数式语言却不是如此。这不表示数组不重要，每一种数据结构基本都有独特的优势和适用场景。本文将介绍 Elang 中的数组以及 Elixir 生态中的类似替代品，旨在避免新人们将所有情况都使用列表而带来性能问题。
 ...</p>
@@ -528,10 +627,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/convert-video-to-av1-avif.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将任意视频转换为 AV1 编码和 AVIF 动图 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/convert-video-to-av1-avif.html</id>
+        <link href="https://blog.hentioe.dev/posts/convert-video-to-av1-avif.html"/>
+        <updated>2024-11-21T06:50:59.123Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">将任意视频转换为 AV1 编码和 AVIF 动图</h2>
         <p class="my-4 line-clamp-2"> 前言 在此前的文章中本博客探讨了 AVIF 对 WebP/JPEG 的取代性，它主要使用 ImageMagick 转换原始图像。如果面对各种各样的视频，如何转换为 AV1 编码并制作成 AVIF 动图呢？本文将介绍一些与之相关的方法。
 这是一篇新手向教程。过程十分简单！
@@ -547,10 +650,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/deploy-bitwarden-server.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自行部署 Bitwarden 服务端并免费使用 TOTP 验证码的方法 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/deploy-bitwarden-server.html</id>
+        <link href="https://blog.hentioe.dev/posts/deploy-bitwarden-server.html"/>
+        <updated>2024-11-21T06:50:59.131Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">自行部署 Bitwarden 服务端并免费使用 TOTP 验证码的方法</h2>
         <p class="my-4 line-clamp-2"> 前言 Bitwarden 是一个流行的开源密码管理器，它能以浏览器扩展、网页、Windows/Linux/Android/iOS 客户端等形式提供密码管理服务。长期以来我都是它的用户，并订阅了其付费服务。但最近我改变了注意，我打算取消订阅并将它部署到自己的服务器中。
 ...</p>
@@ -564,10 +671,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/bcachefs-usage.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的分层存储方案兼 COW 文件系统 bcachefs 的使用和体验 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/bcachefs-usage.html</id>
+        <link href="https://blog.hentioe.dev/posts/bcachefs-usage.html"/>
+        <updated>2024-11-21T06:50:59.131Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">新的分层存储方案兼 COW 文件系统 bcachefs 的使用和体验</h2>
         <p class="my-4 line-clamp-2"> 前言 随着 Linux 内核的不断演进，主线包含的东西也越来越多。本文的主角是 6.7 版本内核引入的 bcachefs，对我个人而言它也是近期几个内核版本带来的主要惊喜之一。bcachefs 是一个 COW 文件系统，支持分层存储，可轻易实现类 RAID 方案。
 ...</p>
@@ -581,10 +692,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, Linux</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/getting-started-with-avif-format.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在网站中使用 AVIF 图像格式取代 WebP 和 JPEG (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/getting-started-with-avif-format.html</id>
+        <link href="https://blog.hentioe.dev/posts/getting-started-with-avif-format.html"/>
+        <updated>2024-11-21T06:50:59.132Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">在网站中使用 AVIF 图像格式取代 WebP 和 JPEG</h2>
         <p class="my-4 line-clamp-2"> 前言 最近 Google 搜索已支持索引 AVIF 图片，我想本博客已经到了将 AVIF 作为主力图片格式的时候了。AVIF 相比于 JPEG 具有更高的压缩率和清晰度。它甚至比 WebP 更好，且兼容性与 WebP 相近。本文将介绍这个图像格式，并阐述相关原因。
 ...</p>
@@ -598,10 +713,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">建站</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/windows-chrome-128-noto-cjk-fonts.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恭喜 Chrome 128 在 Windows 上默认使用 Noto 系列的 CJK 字体 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/windows-chrome-128-noto-cjk-fonts.html</id>
+        <link href="https://blog.hentioe.dev/posts/windows-chrome-128-noto-cjk-fonts.html"/>
+        <updated>2024-11-21T06:50:59.133Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">恭喜 Chrome 128 在 Windows 上默认使用 Noto 系列的 CJK 字体</h2>
         <p class="my-4 line-clamp-2"> 前言 最近 Chrome 在字体方面做了一些调整，Windows 将默认使用 Noto 系列的 CJK 字体。这是一个重大的变化，也是一个很好的变化，但又不一定“有变化”。本文将介绍变化细节、相关的字体以及让之生效的方法。
 ...</p>
@@ -615,10 +734,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">前端</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/how-to-block-ai-crawlers.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[配置 robots.txt、Nginx 或使用 Cloudflare 屏蔽 AI 爬虫 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/how-to-block-ai-crawlers.html</id>
+        <link href="https://blog.hentioe.dev/posts/how-to-block-ai-crawlers.html"/>
+        <updated>2024-11-21T06:50:59.135Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">配置 robots.txt、Nginx 或使用 Cloudflare 屏蔽 AI 爬虫</h2>
         <p class="my-4 line-clamp-2"> 前言 生成式 AI 的发展和逐渐成熟，给人们带来了便利的同时也给内容创作者带来了负面影响。它降低了资料原始出处的访问价值，减少了网站的利益（流量、收益和创作积极性）。如果你跟我一样，想在自己的网站屏蔽 AI 的抓取，那么这篇文章就是为你准备的。
 ...</p>
@@ -632,10 +755,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/linux-black-myth-wukong.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Linux 上玩《黑神话：悟空》 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/linux-black-myth-wukong.html</id>
+        <link href="https://blog.hentioe.dev/posts/linux-black-myth-wukong.html"/>
+        <updated>2024-11-21T06:50:59.136Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">在 Linux 上玩《黑神话：悟空》</h2>
         <p class="my-4 line-clamp-2"> 前言 最近国产单机 3A 大作《黑神话：悟空》在全球范围内引起了很大的关注，作为资深 Linux 用户自然也会很期待它在 Linux 上的表现。本文将会介绍如何启用 Steam 的兼容性工具用以安装和运行此游戏，以及一些实际体验。
 ...</p>
@@ -649,10 +776,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">Linux, 游戏</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/hugo-support-blockquote-alerts.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让 Hugo 支持 GitHub 风格的块引用 Alerts (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/hugo-support-blockquote-alerts.html</id>
+        <link href="https://blog.hentioe.dev/posts/hugo-support-blockquote-alerts.html"/>
+        <updated>2024-11-21T06:50:59.138Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">让 Hugo 支持 GitHub 风格的块引用 Alerts</h2>
         <p class="my-4 line-clamp-2"> 前言 最近 Hugo 更新了 0.132 版本，新增了 GitHub 风格的 Alerts 语法支持。简单的说，就是 Hugo 为 Markdown 中的 Alerts 语法做了兼容，并在模板中提供了支持。现在主题开发者能轻易的实现 Alerts 了。
 本文将告诉你如何实现。这是一篇新手向教程。过程十分简单！
@@ -668,10 +799,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/google-bing-search-blacklist.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移除 Google、Bing 搜索中的低质量结果，隐藏垃圾内容！（附屏蔽 CSDN 的方法） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/google-bing-search-blacklist.html</id>
+        <link href="https://blog.hentioe.dev/posts/google-bing-search-blacklist.html"/>
+        <updated>2024-11-21T06:50:59.139Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">移除 Google、Bing 搜索中的低质量结果，隐藏垃圾内容！（附屏蔽 CSDN 的方法）</h2>
         <p class="my-4 line-clamp-2"> 前言 近年来 Google 中文搜索的质量越来越差了，低质量内容实在太多。对于很多结果，我个人光是看到图标或域名就知道是垃圾，已经习惯性的自动略过。不过近期，我还是决定使用工具屏蔽它们，提高我在检索资料时的专注力。
 ...</p>
@@ -685,10 +820,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/rclone-crypt-webdav.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把云盘当加密盘用，保护文件隐私的最佳方法！（搭配使用 Rclone 的 Crypt 和 WebDAV） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/rclone-crypt-webdav.html</id>
+        <link href="https://blog.hentioe.dev/posts/rclone-crypt-webdav.html"/>
+        <updated>2024-11-21T06:50:59.141Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">把云盘当加密盘用，保护文件隐私的最佳方法！（搭配使用 Rclone 的 Crypt 和 WebDAV）</h2>
         <p class="my-4 line-clamp-2"> 前言 网盘对于许多人是必不可少的工具，有人用它同步文件到多个设备，有人用它收集资源。但是公共网盘没有隐私可言，网盘服务商可能会审查你的文件内容，甚至无授权的利用你的数据。当然，你可以自建网盘，但不是所有人都具备这个条件。
 ...</p>
@@ -702,10 +841,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/pikpak-webdav-rclone.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将 PikPak 资源挂载到文件管理器，无需高级会员体验比官方 WebDAV 更完整的支持 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/pikpak-webdav-rclone.html</id>
+        <link href="https://blog.hentioe.dev/posts/pikpak-webdav-rclone.html"/>
+        <updated>2024-11-21T06:50:59.142Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">将 PikPak 资源挂载到文件管理器，无需高级会员体验比官方 WebDAV 更完整的支持</h2>
         <p class="my-4 line-clamp-2"> 前言 这是本博客第二篇关于 PikPak 的文章，本文的主角仍然是 PikPak 和 Rclone。在这篇文章中，介绍了命令行操作 PikPak 资源的方法。本文继续扩展 Rclone 的用法，利用 Rclone 启用 PikPak 的完整 WebDAV 支持。无需会员，完全免费，且比官方支持更加强大。
 ...</p>
@@ -719,10 +862,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/add-code-block-copy-button-to-hugo.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给 Hugo 博客添加代码块复制按钮 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/add-code-block-copy-button-to-hugo.html</id>
+        <link href="https://blog.hentioe.dev/posts/add-code-block-copy-button-to-hugo.html"/>
+        <updated>2024-11-21T06:50:59.143Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">给 Hugo 博客添加代码块复制按钮</h2>
         <p class="my-4 line-clamp-2"> 前言 Hugo 默认提供了强大的代码块支持，但缺少复制功能。很多基于 Hugo 的博客文章中的代码无法一键复制，因为主题的开发者也没有实现这个部分。对于一个技术博客来说是这肯定一种缺陷。作为主题开发者，我们有必要手动弥补它。
 ...</p>
@@ -736,10 +883,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/pingora-quick-start.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare 开源的反向代理框架 Pingora 快速入门 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/pingora-quick-start.html</id>
+        <link href="https://blog.hentioe.dev/posts/pingora-quick-start.html"/>
+        <updated>2024-11-21T06:50:59.145Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Cloudflare 开源的反向代理框架 Pingora 快速入门</h2>
         <p class="my-4 line-clamp-2"> 前言 大约 2 年以前，Cloudflare 就已宣布过他们自研了反向代理并取代了 Nginx。后来开源出来的代码，也就是现在的 Pingora 项目。
 可能和一些人想象的不同，Pingora 并不是一个工具，而是一个库。Cloudflare 在这篇文章有过解释，Pingora 是将业务逻辑和通用代理逻辑分离后的产物。所以我在标题中将它称之为框架。
@@ -754,10 +905,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/deploy-shlink.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自建短链接服务（Shlink 的部署和使用） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/deploy-shlink.html</id>
+        <link href="https://blog.hentioe.dev/posts/deploy-shlink.html"/>
+        <updated>2024-11-21T06:50:59.146Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">自建短链接服务（Shlink 的部署和使用）</h2>
         <p class="my-4 line-clamp-2"> 前言 短链接在互联网上是一个常见的东西。有些时候我们主动创建短链接，有些时候平台自动将我们的链接转换为短链接。简而言之，我们总在使用第三方的公共短链接服务。如果我们能创建属于自己的短链接了，它的作用还会进一步放大。
 ...</p>
@@ -771,10 +926,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/rust-1-80-0.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.80.0 更新内容 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/rust-1-80-0.html</id>
+        <link href="https://blog.hentioe.dev/posts/rust-1-80-0.html"/>
+        <updated>2024-11-21T06:50:59.147Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Rust 1.80.0 更新内容</h2>
         <p class="my-4 line-clamp-2"> 前言 最近 Rust 1.80.0 版本发布了，相比于 1.79 版本，新增了 3162 次提交。本文是对此次更新的大致解读，和官方的博客内容是对应的，但不是简单的翻译。
 本文只起到一个传播作用，不是权威资料，细节也不够。请悉知。
@@ -789,10 +948,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/magic-wormhole-usage.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免认证/匿名远程传输文件（Magic-Wormhole 的使用方法） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/magic-wormhole-usage.html</id>
+        <link href="https://blog.hentioe.dev/posts/magic-wormhole-usage.html"/>
+        <updated>2024-11-21T06:50:59.149Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">免认证/匿名远程传输文件（Magic-Wormhole 的使用方法）</h2>
         <p class="my-4 line-clamp-2"> 前言 文件传输是一个很基础且被广泛应用的需求，传统工具都不太适合给陌生人或匿名传输文件，因为它们普遍求身份认证。向服务器传输文件，我们需要 SSH 登录信息。向普通用户传输文件，我们得是对方的 IM 好友，而且通常有大小限制。
 ...</p>
@@ -806,10 +969,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/p5-implement-optical-illusions.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[p5.js 实现各种视觉错觉（长期更新） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/p5-implement-optical-illusions.html</id>
+        <link href="https://blog.hentioe.dev/posts/p5-implement-optical-illusions.html"/>
+        <updated>2024-11-21T06:50:59.150Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">p5.js 实现各种视觉错觉（长期更新）</h2>
         <p class="my-4 line-clamp-2"> 前言 视觉错觉是由视觉系统引起的“幻觉”，其特征是视觉感知似乎与现实不同。经常上网的朋友，或多或少应该都见过一些展示视觉错觉的帖子或视频，本文将用 p5.js 实现一些经典的视觉错觉。
 是的，你没有听错。这个页面上的所有错觉动画或图形都是即时渲染出来的，而不是图片或视频。
@@ -824,10 +991,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程, 科普</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/deploy-ssh-honeypot-one-week.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部署 SSH 蜜罐一周后 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/deploy-ssh-honeypot-one-week.html</id>
+        <link href="https://blog.hentioe.dev/posts/deploy-ssh-honeypot-one-week.html"/>
+        <updated>2024-11-21T06:50:59.151Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">部署 SSH 蜜罐一周后</h2>
         <p class="my-4 line-clamp-2"> 前言 一周前，我出于好奇部署了一个 SSH 蜜罐，用于收集侵入者的行为。本文将分享这次实验的数据和经验，让更多人切身体会到安全的重要性。我个人对这次统计比较惊讶，因为被连接的密度还是相当夸张的。
 ...</p>
@@ -841,10 +1012,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具, 实验</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/voidlinux-as-base-image.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让 Void Linux 成为基础镜像的新选择（附 Elixir 镜像制作教程） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/voidlinux-as-base-image.html</id>
+        <link href="https://blog.hentioe.dev/posts/voidlinux-as-base-image.html"/>
+        <updated>2024-11-21T06:50:59.153Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">让 Void Linux 成为基础镜像的新选择（附 Elixir 镜像制作教程）</h2>
         <p class="my-4 line-clamp-2"> 前言 Void Linux 是一个忍不住想关注的发行版，它既可以较为精小，又可以相对膨胀。它同时维护 glibc 和 musl 两个不同 C 库的版本，又发布有内置 BusyBox 和 GNU Coreutils 两个不同工具集的版本。
 将 glibc/BusyBox 版本作为基础容器是非常合适的，我已将其用作 Elixir 应用的基础，且效果不错。它比 Debian 更小巧，软件包也新得多。至少对我而言 -void 已经成为了 -slim 的良好替代品。
@@ -859,10 +1034,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, Linux</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/ci-webdav-cd.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分离式 CI/CD 系统搭建 WebDAV 工件仓库 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/ci-webdav-cd.html</id>
+        <link href="https://blog.hentioe.dev/posts/ci-webdav-cd.html"/>
+        <updated>2024-11-21T06:50:59.154Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">分离式 CI/CD 系统搭建 WebDAV 工件仓库</h2>
         <p class="my-4 line-clamp-2"> 前言 现在的 GitHub Actions 以及曾经流行的很多 CI/CD 工具，一般用户会默认将 CI 和 CD 放在一条管道（或称为流水线）中，故没有构建产物（即 Artifacts：工件）的存储和管理问题。
 一旦我们自己的 CI/CD 系统是各自独立的，就不得不面对工件的托管。它类似 NPM/Docker Hub，但以二进制构建产物为主，属于更为通用的仓库。WebDAV 是非常适合这种仓库的技术的一种，它建立在 HTTP 这种上层协议上，兼容性广且使用极为便利。
@@ -877,10 +1056,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">DevOps</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/nixos-asdf-mise-erlang.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 NixOS 中使用 asdf/mise 管理 Erlang 的多个版本 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/nixos-asdf-mise-erlang.html</id>
+        <link href="https://blog.hentioe.dev/posts/nixos-asdf-mise-erlang.html"/>
+        <updated>2024-11-21T06:50:59.155Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">在 NixOS 中使用 asdf/mise 管理 Erlang 的多个版本</h2>
         <p class="my-4 line-clamp-2"> 介绍 NixOS 是一个特殊的 Linux 发行版，它不遵循 FHS 以至于你通常不能运行来自第三方的存在动态链接的二进制文件。对于这类预编译的软件，你可以手动修补所有的二进制可执行文件和动态链接库。或者以更加标准可靠的做法：将它们制作成一个个常规的 Nix 包。
 ...</p>
@@ -894,10 +1077,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, Linux</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/about-android-chrome-126-chinese-font-too-thin.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 Android Chrome 126 版本开始中文字体变细（已修复） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/about-android-chrome-126-chinese-font-too-thin.html</id>
+        <link href="https://blog.hentioe.dev/posts/about-android-chrome-126-chinese-font-too-thin.html"/>
+        <updated>2024-11-21T06:50:59.156Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">关于 Android Chrome 126 版本开始中文字体变细（已修复）</h2>
         <p class="my-4 line-clamp-2"> 前言 最近（准确的说是发文的大半个月前）Android 版 Chrome 的字体显示出了异常，默认字重变得很细。这个问题自 126 开始的某个版本出现，至今（包括 Canary 版）问题仍然存在。
 遗憾的是目前没有完美的解决方案，本文将和大家具体讨论一下这个问题。
@@ -912,10 +1099,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">讨论</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/arm64-build-openwrt.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决 ARM64 设备编译 OpenWrt 失败 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/arm64-build-openwrt.html</id>
+        <link href="https://blog.hentioe.dev/posts/arm64-build-openwrt.html"/>
+        <updated>2024-11-21T06:50:59.157Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">解决 ARM64 设备编译 OpenWrt 失败</h2>
         <p class="my-4 line-clamp-2"> 前言 在 ARM64 设备（如苹果的 M1/M2 电脑、路由器）上编译 OpenWrt 会遇到一些问题，例如 Golang 的 C-bootstrap 不被支持。这时候我们要用外部安装的 Go 作为 bootstrap 参与构建。这不算错误，属于和 x86 编译环境的细微区别。
 本文将告诉你具体应该怎么做。这是一篇新手向教程。过程十分简单！
@@ -930,10 +1121,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/docker-buildx-multi-arch-remote-notes.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用远程节点构建多架构 Docker 镜像（按架构类型分发构建任务） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/docker-buildx-multi-arch-remote-notes.html</id>
+        <link href="https://blog.hentioe.dev/posts/docker-buildx-multi-arch-remote-notes.html"/>
+        <updated>2024-11-21T06:50:59.159Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用远程节点构建多架构 Docker 镜像（按架构类型分发构建任务）</h2>
         <p class="my-4 line-clamp-2"> 前言 使用 Docker 默认的 buildx 设置构建多架构镜像时，往往非常的慢。这是因为 Docker 在背后创建 QEMU 虚拟机来执行构建，一旦模拟差异大的硬件架构性能就会非常差。对于有条件的用户，其实是可以将构建任务分发给不同架构的远程服务器，并且原生就支持。
 ...</p>
@@ -947,10 +1142,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/phoenix-websocket.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Phoenix 框架开发原生 WebSocket 服务 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/phoenix-websocket.html</id>
+        <link href="https://blog.hentioe.dev/posts/phoenix-websocket.html"/>
+        <updated>2024-11-21T06:50:59.160Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用 Phoenix 框架开发原生 WebSocket 服务</h2>
         <p class="my-4 line-clamp-2"> 前言 在 Phoenix 框架中，一般使用 Channel 实现和前端的双工通信，它基于 WebSocket 并支持长轮询作为后备模式。Channels 的设计已经非常好了，但偶尔情况下我们仍需要原生的 WebSocket 后端，例如为某个现成的前端/客户端产品做适配。
 ...</p>
@@ -964,10 +1163,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/beforeunload-event-back-trigger.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修复手机 Chrome 前进/后退触发 beforeunload 事件带来的问题（往返缓存的弊端） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/beforeunload-event-back-trigger.html</id>
+        <link href="https://blog.hentioe.dev/posts/beforeunload-event-back-trigger.html"/>
+        <updated>2024-11-21T06:50:59.161Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">修复手机 Chrome 前进/后退触发 beforeunload 事件带来的问题（往返缓存的弊端）</h2>
         <p class="my-4 line-clamp-2"> 前言 最近我给博客实现加载进度条动画时，注意到手机 Chrome 的一个很诡异的现象。当用户后退或前进时，会触发上一个页面的 beforeunload 事件。也就是说我从 A 页面进入 B 页面时，A 页面的 beforeunload 事件会正常触发一次，因为即将离开 A 页面。但当我从 B 页面后退时，上一次的 A 页面的 beforeunload 事件会被再次触发。
 ...</p>
@@ -981,10 +1184,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">技术, 前端</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/incus-usage.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Incus 取代 LXD（Incus 的安装、设置和使用方法） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/incus-usage.html</id>
+        <link href="https://blog.hentioe.dev/posts/incus-usage.html"/>
+        <updated>2024-11-21T06:50:59.162Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用 Incus 取代 LXD（Incus 的安装、设置和使用方法）</h2>
         <p class="my-4 line-clamp-2"> 前言 Incus 是一个新的容器（LXC）/虚拟机管理器，它的目标是取代 LXD。由于 LXD 实际上已成为 Canonical 公司（Ubuntu 的开发公司）完全掌控的项目，LXC 创始人分叉出了 Incus，并将其纳入为 LXC 社区的一部分。现在的 Incus 的可用性已经很高了，无论对于个人还是企业都是极为有用的工具。
 ...</p>
@@ -998,10 +1205,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/vim-basic-configuration.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim/Neovim 的基本配置 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/vim-basic-configuration.html</id>
+        <link href="https://blog.hentioe.dev/posts/vim-basic-configuration.html"/>
+        <updated>2024-11-21T06:50:59.163Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Vim/Neovim 的基本配置</h2>
         <p class="my-4 line-clamp-2"> 前言 这是一篇历来被不计其数的人写烂了的话题，即分享自己的 Vim 配置。我曾经也是 Vim 的忠实用户，后来全身心转到 VS Code。所以复杂的配置我不再需要了，最近特意抽空整理出一份最精简的配置。
 ...</p>
@@ -1015,10 +1226,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/nginx-proxy-manager.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx 代理配置批量管理（Nginx Proxy Manager） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/nginx-proxy-manager.html</id>
+        <link href="https://blog.hentioe.dev/posts/nginx-proxy-manager.html"/>
+        <updated>2024-11-21T06:50:59.165Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Nginx 代理配置批量管理（Nginx Proxy Manager）</h2>
         <p class="my-4 line-clamp-2"> 前言 Nginx Proxy Manager 是一个可视化的 Nginx 代理配置的管理器，通过它可以避免手动编辑一个个 conf 文件的麻烦，还支持自动签发 SSL/TLS 证书。
 本文将告诉你怎么部署和使用。这是一篇新手向教程。过程十分简单！
@@ -1034,10 +1249,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/deploy-immich.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自建照片/视频管理方案（Immich 的部署和使用） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/deploy-immich.html</id>
+        <link href="https://blog.hentioe.dev/posts/deploy-immich.html"/>
+        <updated>2024-11-21T06:50:59.166Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">自建照片/视频管理方案（Immich 的部署和使用）</h2>
         <p class="my-4 line-clamp-2"> 前言 Immich 是一个开源的照片/视频管理方案，它的功能和用途类似于 Google 相册或 iCloud 照片。任何个人都可以利用 Immich 搭建自己私有的云同步相册，并支持多端/多人使用。
 本文将告诉你怎么部署。这是一篇新手向教程。过程十分简单！
@@ -1052,10 +1271,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/unhindered-accesss-dockerhub.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无障碍访问 Docker Hub 的各种方法（自建 registry、Cloudflare 加速、Nginx 反代、代理 Docker 网络） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/unhindered-accesss-dockerhub.html</id>
+        <link href="https://blog.hentioe.dev/posts/unhindered-accesss-dockerhub.html"/>
+        <updated>2024-11-21T06:50:59.177Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">无障碍访问 Docker Hub 的各种方法（自建 registry、Cloudflare 加速、Nginx 反代、代理 Docker 网络）</h2>
         <p class="my-4 line-clamp-2"> 前言 最近 Docker Hub 被屏蔽，各大镜像站关闭，想必很多人都遇到了无法拉取镜像的问题。本文将告诉你们继续使用 Docker Hub 的各种方法，助你解决开发/部署中面临的麻烦。
 此教程不包含翻墙有关的细节，仅从技术角度解决 Docker 使用问题。 自建 registry Docker 官方提供了 registry 镜像，这是最标准的搭建 mirror 的方法。你需要一个海外的服务器，通过 Docker Compose 部署。首先创建 docker-compose.yml 文件：
@@ -1070,10 +1293,14 @@ uosc 是一个第三方 OSC（屏幕控制器），我们可以让它更紧密�
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/p5-js-quick-start.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创意编程 p5.js 快速入门 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/p5-js-quick-start.html</id>
+        <link href="https://blog.hentioe.dev/posts/p5-js-quick-start.html"/>
+        <updated>2024-11-21T06:50:59.177Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">创意编程 p5.js 快速入门</h2>
         <p class="my-4 line-clamp-2"> 前言 假设你是一个天文爱好者，是否有想过用代码来模拟行星运动？假设你是一位设计师，是否有想过用代码来创作艺术作品？假设你是一名教师，是否有想过用代码呈现教学内容？
 p5.js 可以帮助你实现这些想法，让创意通过代码变为现实。
@@ -1088,10 +1315,14 @@ p5.js 可以帮助你实现这些想法，让创意通过代码变为现实。
             <span class="ml-2">编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/nixos-steam-fonts.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam 在 NixOS 上的中文显示问题总算被修复了 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/nixos-steam-fonts.html</id>
+        <link href="https://blog.hentioe.dev/posts/nixos-steam-fonts.html"/>
+        <updated>2024-11-21T06:50:59.177Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Steam 在 NixOS 上的中文显示问题总算被修复了</h2>
         <p class="my-4 line-clamp-2"> 前言 长久以来 Steam 在 NixOS 上存在中文字体显示问题，挺让人恼火的。好消息是最近这个问题被修复了，感谢 #312268 这个 pr 的作者。
 原因 根据 Steam 官方仓库此 issue 中的回复描述，Steam 运行在一种类似 Flatpak 的容器环境中，且使用自己的 libfontconfig。这会导致以下问题：
@@ -1106,10 +1337,14 @@ p5.js 可以帮助你实现这些想法，让创意通过代码变为现实。
             <span class="ml-2">Linux</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/lxd-linuxcontainers.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修复 LXD 默认的 images 远程的访问故障 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/lxd-linuxcontainers.html</id>
+        <link href="https://blog.hentioe.dev/posts/lxd-linuxcontainers.html"/>
+        <updated>2024-11-21T06:50:59.177Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">修复 LXD 默认的 images 远程的访问故障</h2>
         <p class="my-4 line-clamp-2"> 前言 最近又出大事了。LXC 社区禁止了 LXD 对 images.linuxcontainers.org 的访问。这导致 LXD 用户无法再创建或刷新非 Ubuntu 容器。
 本文将告诉你修复方法，以及这中间发生了什么。
@@ -1125,10 +1360,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">技术, Linux</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/elixir-1-17-type-system.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elixir 1.17 的类型系统 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/elixir-1-17-type-system.html</id>
+        <link href="https://blog.hentioe.dev/posts/elixir-1-17-type-system.html"/>
+        <updated>2024-11-21T06:50:59.179Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Elixir 1.17 的类型系统</h2>
         <p class="my-4 line-clamp-2"> 前言 差不多在一年半以前，Elixir 的作者 José Valim 计划给 Elixir 引入类型系统，我已经期待了很久。随着最近 Elixir 1.17 的第一个 RC 版本发布，终于可以初步窥探其效果了。
 本文将参考官方的资料并用实际代码，尝试解读引入类型系统后的一些变化。
@@ -1143,10 +1382,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/rclone-pikpak.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Rclone 操作 PikPak 资源（命令行下载 PikPak 文件） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/rclone-pikpak.html</id>
+        <link href="https://blog.hentioe.dev/posts/rclone-pikpak.html"/>
+        <updated>2024-11-21T06:50:59.179Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用 Rclone 操作 PikPak 资源（命令行下载 PikPak 文件）</h2>
         <p class="my-4 line-clamp-2"> 前言 Rclone 是一个管理云存储文件的命令行工具，它的支持极为广泛，包括面向开发者的云储存服务、面向用户的各种网盘。数量高达 70 多种。PikPak 是一个网盘兼云下载器。它们二者可以结合使用，让下载和云端文件管理更为便捷。
 ...</p>
@@ -1160,10 +1403,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/serverless-deployment-mumble.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无服务器搭建直连语音服务（Mumble 的部署和使用） (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/serverless-deployment-mumble.html</id>
+        <link href="https://blog.hentioe.dev/posts/serverless-deployment-mumble.html"/>
+        <updated>2024-11-21T06:50:59.179Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">无服务器搭建直连语音服务（Mumble 的部署和使用）</h2>
         <p class="my-4 line-clamp-2"> 前言 如果你经常在 Linux 上玩游戏，可能会因为缺乏国内的语音工具支持而烦恼。或者你有其它理由需要一个私有的语音平台。实际上我们完全可以零成本搭建自己的语音服务，甚至不需要购买云服务器。
 ...</p>
@@ -1177,10 +1424,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">技术</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/integrate-funs-in-hugo.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 Typed、Live2d、Mermaid、p5、Pixi 等等好玩的都集成到 Hugo 中吧！ (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/integrate-funs-in-hugo.html</id>
+        <link href="https://blog.hentioe.dev/posts/integrate-funs-in-hugo.html"/>
+        <updated>2024-11-21T06:50:59.179Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">把 Typed、Live2d、Mermaid、p5、Pixi 等等好玩的都集成到 Hugo 中吧！</h2>
         <p class="my-4 line-clamp-2"> 前言 Hugo 是一个静态的网站生成器，但是它在内容的灵活性上有很大的发挥空间。本文将向你展示 Hugo 的网站（本博客）如何显示更为复杂的内容。
 我并没有在 Markdown 中直接插入 HTML 去实现这些，而是将它们封装成了 Markup 的 hooks、shortcodes 和 partials。当前本文没有更新教程内容，后续有空会补充这一部分。 Typed.js ...</p>
@@ -1194,10 +1445,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">技术, 前端</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/honeycomb-introduction.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有状态后台任务并发库 Honeycomb 介绍 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/honeycomb-introduction.html</id>
+        <link href="https://blog.hentioe.dev/posts/honeycomb-introduction.html"/>
+        <updated>2024-11-21T06:50:59.180Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">有状态后台任务并发库 Honeycomb 介绍</h2>
         <p class="my-4 line-clamp-2"> 前言 Honeycomb 是一个 Elixir 库，它设计用于批量执行需要保留结果的异步或后台任务。它的核心功能是异步/后台执行和并发控制。在此前我使用一个功能类似的名为 honeydew 的库，但它已缺乏维护，为了移除对它的依赖我开发了 honeycomb 以取代它。
 ...</p>
@@ -1211,10 +1466,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/mise-instead-of-asdf.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 mise 替代 asdf 管理开发工具的版本 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/mise-instead-of-asdf.html</id>
+        <link href="https://blog.hentioe.dev/posts/mise-instead-of-asdf.html"/>
+        <updated>2024-11-21T06:50:59.184Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用 mise 替代 asdf 管理开发工具的版本</h2>
         <p class="my-4 line-clamp-2"> 前言 一直以来我都使用 asdf 管理开发环境各工具链的版本，它可以让每一个项目都允许拥有自己的一套版本，不会因为依赖全局性的东西导致额外的负担（例如系统中的工具版本变更导致和项目不兼容）。
 ...</p>
@@ -1228,10 +1487,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">工具</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/asus-x670e-linux-network-fault.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决华硕 X670e 系列主板在 Linux 上的断网故障 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/asus-x670e-linux-network-fault.html</id>
+        <link href="https://blog.hentioe.dev/posts/asus-x670e-linux-network-fault.html"/>
+        <updated>2024-11-21T06:50:59.185Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">解决华硕 X670e 系列主板在 Linux 上的断网故障</h2>
         <p class="my-4 line-clamp-2"> 前言 如果你是华硕的 X670/X670E 系列主板和 I225-V 网卡，可能会发现无法在 Linux 上长时间正常工作，因为目前这个搭配有一个难以解决的硬件故障。具体表现为系统可能随时断网，短则十几分钟长则数十小时，除了重启之外对恢复网络是毫无办法。
 ...</p>
@@ -1245,10 +1508,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">硬件, Linux</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/phoenix-vite-typescript.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 Vite 和 TypeScript 改造 Phoenix 框架的前后端架构 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/phoenix-vite-typescript.html</id>
+        <link href="https://blog.hentioe.dev/posts/phoenix-vite-typescript.html"/>
+        <updated>2024-11-21T06:50:59.187Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">基于 Vite 和 TypeScript 改造 Phoenix 框架的前后端架构</h2>
         <p class="my-4 line-clamp-2"> 前言 Phoenix 在早期（1.16 之前）还算一个务实的框架，它生成传统的前后端架构的项目模板。使用 Webpack 构建完全独立的前端部分。自 LiveView 发明以后，这个框架逐步偏离主流，直至移除了前端的整个 Node 技术栈。
 ...</p>
@@ -1262,10 +1529,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/erlang-otp-27-json.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单测试 Erlang/OTP 27 新增的 json 模块 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/erlang-otp-27-json.html</id>
+        <link href="https://blog.hentioe.dev/posts/erlang-otp-27-json.html"/>
+        <updated>2024-11-21T06:50:59.188Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">简单测试 Erlang/OTP 27 新增的 json 模块</h2>
         <p class="my-4 line-clamp-2"> 前言 前不久 Erlang 出现了一个新的提案（EEP-68），该提案旨在将 JSON 的编码/解码功能引入到 Erlang/OTP 中。随着最近 27.0-rc2 版本的发布，新增的名为 json 的模块已经可用了。
 本文不是严格全面的基准测试，只是十分简单的性能比较。只起到基本的传播作用。
@@ -1280,10 +1551,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/rebuilt-blog-with-hugo.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客已用 Hugo 重建 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/rebuilt-blog-with-hugo.html</id>
+        <link href="https://blog.hentioe.dev/posts/rebuilt-blog-with-hugo.html"/>
+        <updated>2024-11-21T06:50:59.190Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">博客已用 Hugo 重建</h2>
         <p class="my-4 line-clamp-2"> 此前 本博客于 2023 年底使用的 Jekyll + Chirpy 搭建，这是一套经典的博客方案。Jekyll 的用户社区很大，有非常多的主题可供选择，托管于 GitHub Pages 完全免费。
 但在一开始我就在关于页面说过，我会自己实现博客系统，目前的只是临时方案。在过渡期间，我也考虑过继续使用 Jekyll，但是最近我被 Hugo 深深的吸引了。于是乎我决定放弃 Jekyll，转而使用 Hugo。
@@ -1298,10 +1573,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">本博客</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/r5s-wd43purz-nas.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 NanoPi R5S 和西数紫盘 WD43PURZ 组建简易 NAS (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/r5s-wd43purz-nas.html</id>
+        <link href="https://blog.hentioe.dev/posts/r5s-wd43purz-nas.html"/>
+        <updated>2024-11-21T06:50:59.191Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">使用 NanoPi R5S 和西数紫盘 WD43PURZ 组建简易 NAS</h2>
         <p class="my-4 line-clamp-2"> 前言 大概是刚接触 OpenWrt 的那会儿，我已开始搭建并依赖内网文件共享。并且长久以来我都坚持使用路由器（或软路由）加 U 盘的组合，且一直够用。
 当然在最早期是不够用的，因为那时候路由器的性能不足，SMB 这种加密传输的协议速度极低。但随着后来硬件的发展，路由器使用 SMB 已不再成为问题，所以我也就一直没有用到更专业的硬件。
@@ -1316,10 +1595,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">硬件</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/elixir-rust.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elixir 与 Rust 协作开发 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/elixir-rust.html</id>
+        <link href="https://blog.hentioe.dev/posts/elixir-rust.html"/>
+        <updated>2024-11-21T06:50:59.192Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">Elixir 与 Rust 协作开发</h2>
         <p class="my-4 line-clamp-2"> 前言 本文介绍的是我所使用的两门重要编程语言 Elixir 和 Rust，尤其是 Elixir 作为我个人的主力开发语言已有好几年时间。在前期我始终将它们独立使用，各自解决不同的问题。直到后来，我才开始尝试在 Elixir 中集成 Rust，在优化性能的同时共享 Rust 的丰富生态。
 ...</p>
@@ -1333,10 +1616,14 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">技术, 编程</span>
           </div>
         </div>
-      </div>
-    </a>
-    <a href="/posts/resume-blogging.html">
-      <div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
+      </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重拾博客 (绅士喵)]]></title>
+        <id>https://blog.hentioe.dev/posts/resume-blogging.html</id>
+        <link href="https://blog.hentioe.dev/posts/resume-blogging.html"/>
+        <updated>2024-11-21T06:50:59.194Z</updated>
+        <content type="html"><![CDATA[<div class="rounded-lg border border-gray-200 transition-colors duration-500 mb-[2rem] py-4 px-4 md:py-6 md:px-6 hover:bg-gray-100/60">
         <h2 class="text-xl text-gray-800">重拾博客</h2>
         <p class="my-4 line-clamp-2"> 怀念 真的很久没有写过博客了。
 当我还是个学生的时候，我已尝试自行开发博客系统。工作以来又用感兴趣的技术重写，如此往复了两到三次吧。直到最后，我不再在意个人博客，但仍然在别的平台分享自己的文字。
@@ -1351,101 +1638,6 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
             <span class="ml-2">本博客</span>
           </div>
         </div>
-      </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (绅士喵)]]></title>
-        <id>https://blog.hentioe.dev/posts/test-alidns-dnspod-doh-speed-limit.html</id>
-        <link href="https://blog.hentioe.dev/posts/test-alidns-dnspod-doh-speed-limit.html"/>
-        <updated>2024-11-21T06:37:57.263Z</updated>
-        <content type="html"><![CDATA[<!-- 不显示 TCO，从搜索框开始固定 -->
-    <div class="sticky top-2">
-      <!-- 搜索框 -->
-      <search class="mt-2 w-full flex items-center border px-[1rem] rounded-2xl border-gray-50 focus-within:border-gray-400 transition-colors">
-        <i class="ri-search-line text-gray-400/50 font-bold"></i>
-        <input id="search-input" data-domain="blog.hentioe.dev" type="text" placeholder="搜索" class="flex-1 px-2 py-1 focus:outline-none">
-      </search>
-      <!-- 最近更新 -->
-      <div class="border-l border-gray-100 p-4 my-desktop-y-spacing">
-        <h2 class="text-lg font-medium text-gray-600">最近更新</h2>
-        <ul class="mt-2">
-          <li class="text-sm mb-2 last:mb-0 truncate">
-            <a class="hover:text-red-600 hover:underline" href="/posts/test-alidns-dnspod-doh-speed-limit.html">
-              阿里 DNS 限速后还能用吗？测试阿里 DNS、DNSPod 的 DoH 速度限制
-            </a>
-          </li>
-          <li class="text-sm mb-2 last:mb-0 truncate">
-            <a class="hover:text-red-600 hover:underline" href="/posts/why-many-people-say-linux-package-managers-are-a-nightmare.html">
-              为什么很多人说 Linux 包管理器是噩梦？
-            </a>
-          </li>
-          <li class="text-sm mb-2 last:mb-0 truncate">
-            <a class="hover:text-red-600 hover:underline" href="/posts/mpv-uosc-control-configuration.html">
-              详细配置 MPV 的重量级用户脚本 uosc：控制篇
-            </a>
-          </li>
-          <li class="text-sm mb-2 last:mb-0 truncate">
-            <a class="hover:text-red-600 hover:underline" href="/posts/getting-to-know-mpv.html">
-              MPV 是一个怎样的播放器？一文带你认识 MPV
-            </a>
-          </li>
-          <li class="text-sm mb-2 last:mb-0 truncate">
-            <a class="hover:text-red-600 hover:underline" href="/posts/google-bing-search-blacklist.html">
-              移除 Google、Bing 搜索中的低质量结果，隐藏垃圾内容！（附屏蔽 CSDN 的方法）
-            </a>
-          </li>
-          <li class="text-sm mb-2 last:mb-0 truncate">
-            <a class="hover:text-red-600 hover:underline" href="/posts/robots-txt-major-incidents.html">
-              记录一次 robots.txt 引起的严重事故以及可靠的检查方法
-            </a>
-          </li>
-          <li class="text-sm mb-2 last:mb-0 truncate">
-            <a class="hover:text-red-600 hover:underline" href="/posts/send-emails-via-gmail-for-cloudflare-domain.html">
-              使用 Gmail 作为 Cloudflare 域名邮箱的发信服务
-            </a>
-          </li>
-        </ul>
-      </div>
-      <!-- 热门标签 -->
-      <div class="mt-16 border-l border-gray-100 p-4">
-        <h2 class="text-lg font-medium text-gray-600">热门标签</h2>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/elixir.html">elixir</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/hugo.html">hugo</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/rust.html">rust</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/p5.js.html">p5.js</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/rclone.html">rclone</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/erlang.html">erlang</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/nginx.html">nginx</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/nixos.html">nixos</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/palworld.html">palworld</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/webdav.html">webdav</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/chrome.html">chrome</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/docker.html">docker</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/email.html">email</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/mise.html">mise</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/openwrt.html">openwrt</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/phoenix.html">phoenix</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/pikpak.html">pikpak</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/thumbhash.html">thumbhash</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/android.html">android</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/arm64.html">arm64</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/asdf.html">asdf</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/avif.html">avif</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/cloudflare.html">cloudflare</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/ffmpeg.html">ffmpeg</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/lxc.html">lxc</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/lxd.html">lxd</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/mpv.html">mpv</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/sass.html">sass</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/typescript.html">typescript</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/vite.html">vite</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/4k.html">4k</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/8k.html">8k</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/astro.html">astro</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/av1.html">av1</a>
-        <a class="mt-2 inline-block text-sm hover:bg-blue-600 hover:text-white px-2 py-1 rounded-2xl mr-2 border border-gray-200" href="/tags/av1an.html">av1an</a>
-      </div>
-    </div>]]></content>
+      </div>]]></content>
     </entry>
 </feed>
