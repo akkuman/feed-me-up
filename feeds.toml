@@ -1,6 +1,8 @@
 [blog_hentioe_dev]
 title = "绅士喵"
 url = "https://blog.hentioe.dev"
-entrySelector = "main > div > div"
-titleSelector = "a > div > h2"
-linkSelector = "a"
+entrySelector = "main > div > div > a"
+titleSelector = "div > h2"
+# 根据 https://gitlab.com/vincenttunru/feed-me-up-scotty/-/blob/f7ae188f890fbb539a9d07b19279f1e5d2e6c6ca/src/parse.ts#L30
+# 如果为 *，则代表本身
+linkSelector = "*"
