@@ -1,6 +1,6 @@
 [blog_hentioe_dev]
 title = "绅士喵"
 url = "https://blog.hentioe.dev"
-entrySelector = "main > div > div > a"
-titleSelector = "div > h2"
-linkSelector = ""
+entrySelector = "main > div > div"
+titleSelector = "a > div > h2"
+linkSelector = "a"
