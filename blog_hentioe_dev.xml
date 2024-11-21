@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://akkuman.github.io/feed-me-up/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-11-21T06:37:58.715Z</updated>
+    <id>https://blog.hentioe.dev</id>
+    <title>绅士喵</title>
+    <updated>2024-11-21T06:37:58.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://blog.hentioe.dev/favicon/96x96.png</icon>
     <entry>
-        <title type="html"><![CDATA[为什么很多人说 Linux 包管理器是噩梦？ (绅士喵)]]></title>
+        <title type="html"><![CDATA[为什么很多人说 Linux 包管理器是噩梦？]]></title>
         <id>https://blog.hentioe.dev/posts/why-many-people-say-linux-package-managers-are-a-nightmare.html</id>
         <link href="https://blog.hentioe.dev/posts/why-many-people-say-linux-package-managers-are-a-nightmare.html"/>
         <updated>2024-11-21T06:37:57.272Z</updated>
@@ -1355,7 +1356,7 @@ LXD 和 LXC 阅读本文前有必要搞清楚这二者的关系。LXD 是 Ubuntu
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (绅士喵)]]></title>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://blog.hentioe.dev/posts/test-alidns-dnspod-doh-speed-limit.html</id>
         <link href="https://blog.hentioe.dev/posts/test-alidns-dnspod-doh-speed-limit.html"/>
         <updated>2024-11-21T06:37:57.263Z</updated>
