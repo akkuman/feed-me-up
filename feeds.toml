@@ -6,3 +6,10 @@ titleSelector = "div > h2"
 # 根据 https://gitlab.com/vincenttunru/feed-me-up-scotty/-/blob/f7ae188f890fbb539a9d07b19279f1e5d2e6c6ca/src/parse.ts#L30
 # 如果为 *，则代表本身
 linkSelector = "*"
+
+[daxiaamu]
+title = "大侠阿木博客"
+url = "https://www.daxiaamu.com"
+entrySelector = "#postlist > div.post-item"
+titleSelector = ".mdui-card-primary-title, div.mdui-card-actions > a > h1"
+linkSelector = ".div.mdui-card-media > a, div.mdui-card-actions > a.ainList"
