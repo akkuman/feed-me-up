@@ -13,3 +13,9 @@ url = "https://www.daxiaamu.com"
 entrySelector = "#postlist > div.post-item"
 titleSelector = ".mdui-card-primary-title, div.mdui-card-actions > a > h1"
 linkSelector = "div.mdui-card-media > a, div.mdui-card-actions > a.ainList"
+
+[blog_z-labs_eu]
+title = "Z - Labs Blog"
+entrySelector = "ul.posts > li"
+titleSelector = "a.post-link"
+linkSelector = "a.post-link"
