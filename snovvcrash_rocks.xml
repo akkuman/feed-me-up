@@ -1,284 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://akkuman.github.io/feed-me-up/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-12-16T01:42:02.607Z</updated>
+    <id>https://snovvcrash.rocks/</id>
+    <title>snovvcrash</title>
+    <updated>2024-12-16T01:42:02.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://snovvcrash.rocks/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[基于HomeAssistant的拓竹打印机附件（散热器、补光灯）自动开关，同步启停方案 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8352/</id>
-        <link href="https://www.daxiaamu.com/8352/"/>
-        <updated>2024-12-16T01:41:55.242Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-media mdui-color-theme">
-                <a href="https://www.daxiaamu.com/8352/">
-                        <img src="data:image/gif;base64,R0lGODlhAgABAIAAALGxsQAAACH5BAAAAAAALAAAAAACAAEAAAICBAoAOw==" data-src="https://www.daxiaamu.com/wp-content/uploads/2024/10/IMG20241017032206-scaled.jpg" alt="https://www.daxiaamu.com/wp-content/uploads/2024/10/IMG20241017032206-scaled.jpg" title="基于HomeAssistant的拓竹打印机附件（散热器、补光灯）自动开关，同步启停方案" class="LazyLoadList mdui-color-theme mdui-text-color-theme lazyload">
-                <div class="mdui-card-media-covered ct1">
-            <div class="mdui-card-primary">
-            <div class="mdui-card-primary-title">基于HomeAssistant的拓竹打印机附件（散热器、补光灯）自动开关，同步启停方案</div>                <div class="mdui-card-primary-subtitle">缘由 拓竹A1和A1mini有类似于补光灯、散热风扇之类的，需要供电的附件。目前的主流方案基本上就是从AMS供电口取电 但是AM…</div>            </div>
-        </div>
-                </a>
-            </div>
-    <div class="mdui-card-actions">
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 2,946&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-10-17&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8352/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【转载】土制一加平板Pro一碰传教程 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8340/</id>
-        <link href="https://www.daxiaamu.com/8340/"/>
-        <updated>2024-12-16T01:41:55.243Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-media mdui-color-theme">
-                <a href="https://www.daxiaamu.com/8340/">
-                        <img src="data:image/gif;base64,R0lGODlhAgABAIAAALGxsQAAACH5BAAAAAAALAAAAAACAAEAAAICBAoAOw==" data-src="https://www.daxiaamu.com/wp-content/uploads/2024/09/1474634_b88f51b1_1122_2352_397@1600x720.jpeg" alt="https://www.daxiaamu.com/wp-content/uploads/2024/09/1474634_b88f51b1_1122_2352_397@1600x720.jpeg" title="【转载】土制一加平板Pro一碰传教程" class="LazyLoadList mdui-color-theme mdui-text-color-theme lazyload">
-                <div class="mdui-card-media-covered ct1">
-            <div class="mdui-card-primary">
-            <div class="mdui-card-primary-title">【转载】土制一加平板Pro一碰传教程</div>                <div class="mdui-card-primary-subtitle">本文转载自酷安@丸山に添彩。相关讨论请至原文下进行。 一加平板Pro到手用了一段时间，我对一碰传这个功能还真是有点爱不释手。…</div>            </div>
-        </div>
-                </a>
-            </div>
-    <div class="mdui-card-actions">
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 4,661&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-09-11&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8340/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加平板Pro充电兼容性评测 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8319/</id>
-        <link href="https://www.daxiaamu.com/8319/"/>
-        <updated>2024-12-16T01:41:55.243Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8319/" class="mdui-text-color-theme ainList"><h1>一加平板Pro充电兼容性评测</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">前言 首先看官方的充电协议描述 SuperVOOC 2.0：10V 6.5A = 65W SuperVOOC：10V 5A = 50W UFCS：11V 3A = 33W VOOC 3.0：10V 3A = 30W QC、PD：9V 2A = 18W 基于以上，你家里的已有的绿厂系的65W、50W、30W闪充充电头基本上都是可以用的 为了方便大家对应到我所…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 9,986&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-07-20&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8319/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用termux安装payload.bin (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8312/</id>
-        <link href="https://www.daxiaamu.com/8312/"/>
-        <updated>2024-12-16T01:41:55.245Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8312/" class="mdui-text-color-theme ainList"><h1>使用termux安装payload.bin</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">su mv /sdcard/payload.bin /data/ota_package/ chmod a+r /data/ota_package/payload.bin headers=$(cat /sdcard/payload_properties.txt) update_engine_client --follow --update --payload="file:///data/ota_package/payload.bin" --headers="$hea…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 9,422&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-07-13&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8312/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneManager-php如何自定义任意首页 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8306/</id>
-        <link href="https://www.daxiaamu.com/8306/"/>
-        <updated>2024-12-16T01:41:55.248Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8306/" class="mdui-text-color-theme ainList"><h1>OneManager-php如何自定义任意首页</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">从前的方案 OneManager-php中其实有一个现成的自定义首页的方案就是 它将默认解析目录下的index.html文件，没有index.html的情况下，才会对当前目录进行列表。此为其一。 它也提供一个配置选项，允许将某个盘作为默认盘，即【打开首页自动跳转到这个盘】，此为其二 以…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 10,638&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-06-28&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8306/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[payload.bin解包工具【payload_dumper】再进化，支持在线解包文件，仅消耗少量流量，无需下载完整包 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8277/</id>
-        <link href="https://www.daxiaamu.com/8277/"/>
-        <updated>2024-12-16T01:41:55.251Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8277/" class="mdui-text-color-theme ainList"><h1>payload.bin解包工具【payload_dumper】再进化，支持在线解包文件，仅消耗少量流量，无需下载完整包</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">5ec1cff大佬在近期对payload_dumper工具进行了优化升级，升级后变的十分强大，但是用法相比原来的版本也稍显复杂，因此这里做个简单的教程进行说明。 官方链接 https://github.com/5ec1cff/payload-dumper 准备工作 你应该知道payload_dumper是做什么的，然后接着往下…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 32,622&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-05-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8277/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加12、ACE3 自助解区域锁教程 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8267/</id>
-        <link href="https://www.daxiaamu.com/8267/"/>
-        <updated>2024-12-16T01:41:55.253Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8267/" class="mdui-text-color-theme ainList"><h1>一加12、ACE3 自助解区域锁教程</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">这是xda大神刚刚放出的教程，暂未确认是否有效，请大家测试 什么是区域锁 请看我之前文章：https://www.daxiaamu.com/8116/ 注意 需要ROOT 作者在ColorOS 14.0.0.604(605)测试有效，其他设备和版本请自行验证 必须要插入一张【黑名单地区】的SIM卡，关于这个地区，大…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 43,038&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-04-09&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8267/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加全能工具箱已支持一键刷入KernelSU (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8236/</id>
-        <link href="https://www.daxiaamu.com/8236/"/>
-        <updated>2024-12-16T01:41:55.257Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8236/" class="mdui-text-color-theme ainList"><h1>一加全能工具箱已支持一键刷入KernelSU</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">准备工作 如果你之前有其他ROOT，请覆盖全量包 如果你手机没有解锁bootloader，请先解锁bootloader。如果你是一加手机，可以使用全能工具箱按菜单1、2来解锁bootloader。如果你是其他品牌手机，请自行查找资料解锁bootloader 如何刷入KernelSU 下载全能工具箱到电脑…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 47,784&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-03-26&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8236/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[另类ROOT方案，不需要全量包、系统镜像，不需要TWRP (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8231/</id>
-        <link href="https://www.daxiaamu.com/8231/"/>
-        <updated>2024-12-16T01:41:55.257Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8231/" class="mdui-text-color-theme ainList"><h1>另类ROOT方案，不需要全量包、系统镜像，不需要TWRP</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">其实这种方法就是基于DSU的。简单说，其原理就是，解锁bootloader后，通过DSU侧载工具刷入一个具有ROOT权限的系统镜像（GSI文件）。然后我们启动到这个具有ROOT权限的系统中（我们暂且叫它“寄生系统”，以区别于真实系统“宿主系统”），提取镜像，有了镜像，接下来不就就…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 33,043&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-03-24&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8231/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[判断Android手机系统当前内核是否为GKI内核/是否支持GKI (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8219/</id>
-        <link href="https://www.daxiaamu.com/8219/"/>
-        <updated>2024-12-16T01:41:55.259Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8219/" class="mdui-text-color-theme ainList"><h1>判断Android手机系统当前内核是否为GKI内核/是否支持GKI</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">准备工作 我查了一下资料，Android系统中没有提供明确的标志符来告诉我们当前是否支持GKI，所以我们只能通过内核信息基于经验进行判断 基本上出厂Android版本（vendor）大于12，且内核版本高于等于5.10即可认为支持GKI（不排除部分厂商胡来） 我们通过adb shell unam…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 30,145&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-03-23&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8219/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write, debug and execute BOFs using bof-launcher (part 1) (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html</id>
-        <link href="https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html"/>
-        <updated>2024-12-16T01:41:57.894Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Dec 2, 2024</span> <a class="post-link" href="/2024/12/02/write-debug-and-execute-bofs-part1.html">Write, debug and execute BOFs using bof-launcher (part 1)</a><p>Our <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a> allows you to write, build, debug and execute BOFs using
-Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARCH64).</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2024/07/08/tiber-eu-dora-cyberodpornosc.html</id>
-        <link href="https://blog.z-labs.eu/2024/07/08/tiber-eu-dora-cyberodpornosc.html"/>
-        <updated>2024-12-16T01:41:57.894Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Jul 8, 2024</span> <a class="post-link" href="/2024/07/08/tiber-eu-dora-cyberodpornosc.html">[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym</a><p>Prawodawstwo unijne w ostatnich latach jest coraz bardziej aktywne w kwestiach związanych z szeroko pojętym cyberbezpieczeństwem. Komisja Europejska bez wątpienia dostrzega problematykę braku odpowiedniego ogólnego poziomu cyberbezpieczeństwa w państwach członkowskich i aktywnie działa na rzecz poprawy sytuacji. Wystarczy wspomnieć tu o <a href="https://digital-strategy.ec.europa.eu/en/policies/cybersecurity-act">The EU Cybersecurity Act</a>, czy od dawna już obowiązującą dyrektywę NIS (ang. Directive on Security of Network and Information Systems), która weszła w życie w 2016 roku, a na grunt krajowego porządku prawnego została wprowadzona jako <a href="https://www.gov.pl/web/cyfryzacja/krajowy-system-cyberbezpieczenstwa-">Krajowy System Cyberbezpieczeństwa (KSC)</a> w 2018 roku. W tym roku czeka nas również aktualizacja KSC o unijną dyrektywę NIS 2. Odpowiedni projekt ustawy <a href="https://www.gov.pl/web/cyfryzacja/walka-z-cyberzagrozeniami-wchodzi-w-nowy-wymiar">trafił ostatnio do konsultacji publicznych</a>.</p>
-<span class="post-tags">Tags: <a href="/tags/TIBER-EU.html">TIBER-EU</a>,&nbsp;<a href="/tags/DORA.html">DORA</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2024/05/13/tiber-eu-dora-cyberodpornosc.html</id>
-        <link href="https://blog.z-labs.eu/2024/05/13/tiber-eu-dora-cyberodpornosc.html"/>
-        <updated>2024-12-16T01:41:57.897Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">May 13, 2024</span> <a class="post-link" href="/2024/05/13/tiber-eu-dora-cyberodpornosc.html">[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym</a><p>Prawodawstwo unijne w ostatnich latach jest coraz bardziej aktywne w kwestiach związanych z szeroko pojętym cyberbezpieczeństwem. Komisja Europejska bez wątpienia dostrzega problematykę braku odpowiedniego ogólnego poziomu cyberbezpieczeństwa w państwach członkowskich i aktywnie działa na rzecz poprawy sytuacji. Wystarczy wspomnieć tu o <a href="https://digital-strategy.ec.europa.eu/en/policies/cybersecurity-act">The EU Cybersecurity Act</a>, czy od dawna już obowiązującą dyrektywę NIS (ang. Directive on Security of Network and Information Systems), która weszła w życie w 2016 roku, a na grunt krajowego porządku prawnego została wprowadzona jako <a href="https://www.gov.pl/web/cyfryzacja/krajowy-system-cyberbezpieczenstwa-">Krajowy System Cyberbezpieczeństwa (KSC)</a> w 2018 roku. W tym roku czeka nas również aktualizacja KSC o unijną dyrektywę NIS 2. Odpowiedni projekt ustawy <a href="https://www.gov.pl/web/cyfryzacja/walka-z-cyberzagrozeniami-wchodzi-w-nowy-wymiar">trafił ostatnio do konsultacji publicznych</a>.</p>
-<span class="post-tags">Tags: <a href="/tags/TIBER-EU.html">TIBER-EU</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Executing Cobalt Strike's BOFs on ARM-based Linux devices (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2024/05/10/bofs-on-arm-based-devices.html</id>
-        <link href="https://blog.z-labs.eu/2024/05/10/bofs-on-arm-based-devices.html"/>
-        <updated>2024-12-16T01:41:57.898Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">May 10, 2024</span> <a class="post-link" href="/2024/05/10/bofs-on-arm-based-devices.html">Executing Cobalt Strike's BOFs on ARM-based Linux devices</a><p>We designed and implemented <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher</a> with a portability in mind so running BOFs on Linux ARM-based devices is a snap. Below, we’re running our <code class="language-plaintext highlighter-rouge">uname</code> BOF on Raspberry Pi device. For convenience we use our <a href="https://github.com/The-Z-Labs/cli4bofs">cli4bofs</a> tool to execute BOF directly from command line. So let’s jump to our device:</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running BOFs with our 'bof-launcher' library (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2024/02/08/bof-launcher.html</id>
-        <link href="https://blog.z-labs.eu/2024/02/08/bof-launcher.html"/>
-        <updated>2024-12-16T01:41:57.898Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Feb 8, 2024</span> <a class="post-link" href="/2024/02/08/bof-launcher.html">Running BOFs with our 'bof-launcher' library</a><p>During last months we were busy working on our <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a>. In essence it is an open-source library for loading, relocating and launching <a href="https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/beacon-object-files_main.htm">Cobalt Strike’s BOFs</a> on Windows and UNIX/Linux systems. But it also contains other very interesting features and capabilities that are worth discussing.</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Other useful resources (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2023/09/08/burp-tipsTricks2023.html</id>
-        <link href="https://blog.z-labs.eu/2023/09/08/burp-tipsTricks2023.html"/>
-        <updated>2024-12-16T01:41:57.898Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Sep 8, 2023</span> <a class="post-link" href="/2023/09/08/burp-tipsTricks2023.html">Burp Suite Pro real-life tips &amp; tricks: Other useful resources</a><p>Additional references to materials about the Burp Suite Pro tool and its usage:</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security-testing.html">web-security-testing</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endpoint defense evasion with custom built binaries (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html</id>
-        <link href="https://blog.z-labs.eu/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html"/>
-        <updated>2024-12-16T01:41:57.898Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Aug 25, 2022</span> <a class="post-link" href="/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html">Endpoint defense evasion with custom built binaries</a><p>It’s already a <a href="https://www.ired.team/offensive-security/defense-evasion/av-bypass-with-metasploit-templates">common knowledge</a> that merely rebuilding binaries could be a good way to attempt to bypass many AV solutions. Here’s a good illustration of exactly that case from our recent penetration testing engagement. Here’s the scenario:</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Authentication engine for command-line tools (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2022/01/12/burp-suite-pro-authn-for-cli-tools.html</id>
-        <link href="https://blog.z-labs.eu/2022/01/12/burp-suite-pro-authn-for-cli-tools.html"/>
-        <updated>2024-12-16T01:41:57.899Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Jan 12, 2022</span> <a class="post-link" href="/2022/01/12/burp-suite-pro-authn-for-cli-tools.html">Burp Suite Pro real-life tips &amp; tricks: Authentication engine for command-line tools</a><p>Below is a nice Burp trickery I’ve learnt from <a href="https://www.ryanwendel.com/2019/09/27/application-enumeration-tips-using-aquatone-and-burp-suite/">Ryan</a> and extended it also for apps that are using token-based session handling.</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/burp.html">burp</a>,&nbsp;<a href="/tags/web-security-testing.html">web-security-testing</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broken UDP scanning in Nmap v7.91 (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2021/10/08/broken-udp-scanning-in-nmap-7-91.html</id>
-        <link href="https://blog.z-labs.eu/2021/10/08/broken-udp-scanning-in-nmap-7-91.html"/>
-        <updated>2024-12-16T01:41:57.899Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Oct 8, 2021</span> <a class="post-link" href="/2021/10/08/broken-udp-scanning-in-nmap-7-91.html">Broken UDP scanning in Nmap v7.91</a><p>As in most penetration testing/red teaming companies we at Z-Labs use Nmap security scanner tool quite extensively. During one of our network penetration testing engagements we have noticed that UDP scanning (<code class="language-plaintext highlighter-rouge">-sU</code>) functionality misbehaves and does not correctly detect opened UDP ports. Soon after that we identified in Nmap (versions: <code class="language-plaintext highlighter-rouge">7.91</code> and <code class="language-plaintext highlighter-rouge">7.90</code>) subtle implementation issue that resulted in corrupted UDP packets sent during a scan.</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/network-security.html">network-security</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile apps penetration testing 2020 (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2020/03/29/mobile-security-testing-ref.html</id>
-        <link href="https://blog.z-labs.eu/2020/03/29/mobile-security-testing-ref.html"/>
-        <updated>2024-12-16T01:41:57.899Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Mar 29, 2020</span> <a class="post-link" href="/2020/03/29/mobile-security-testing-ref.html">Mobile apps penetration testing 2020</a><p>There are already great resources about mobile app security testing out there. So here I’m mostly just keep track of resources/approaches that worked for me (with additional comments), to have it in one place for the sake of future reference.</p>
-<span class="post-tags">Tags: <a href="/tags/notes.html">notes</a>,&nbsp;<a href="/tags/mobile-security.html">mobile-security</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Looking for hidden attack surface and leaked secrets (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2019/09/12/burp-suite-pro-API-endpoints-discovery.html</id>
-        <link href="https://blog.z-labs.eu/2019/09/12/burp-suite-pro-API-endpoints-discovery.html"/>
-        <updated>2024-12-16T01:41:57.899Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Sep 12, 2019</span> <a class="post-link" href="/2019/09/12/burp-suite-pro-API-endpoints-discovery.html">Burp Suite Pro real-life tips &amp; tricks: Looking for hidden attack surface and leaked secrets</a><p>Burp has some nice export features which (combined with some 3rd party tools) can greatly aid in the process of looking for additional/hidden endpoints and/or hardcoded secrets.</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Persistent Access to Collaborator (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html</id>
-        <link href="https://blog.z-labs.eu/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html"/>
-        <updated>2024-12-16T01:41:57.901Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Sep 9, 2019</span> <a class="post-link" href="/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html">Burp Suite Pro real-life tips &amp; tricks: Persistent Access to Collaborator</a><p>It was already discussed <a href="https://0x00sec.org/t/achieving-persistent-access-to-burp-collaborator-sessions/14311">here</a>. Putting here for quick reference.</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Authorization testing (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html</id>
-        <link href="https://blog.z-labs.eu/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html"/>
-        <updated>2024-12-16T01:41:57.902Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Jul 21, 2019</span> <a class="post-link" href="/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html">Burp Suite Pro real-life tips &amp; tricks: Authorization testing</a><p>In the past, I found (already quite old - presented in 2013) slide deck <a href="https://www.agarri.fr/docs/HiP2k13-Burp_Pro_Tips_and_Tricks.pdf">Burp Suite Pro real-life tips &amp; tricks</a> authored by <a href="https://www.agarri.fr/en/index.html">Nicolas Grégoire</a> very useful which gave me motivation to constantly look for effciencies in my day to day Burp Suite Pro usage. Since that time Burp has significantly evolved (major milestone - version 2.x was released) and lots of interesting 3rd party extensions were developed.</p>
-<span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LES: Linux privilege escalation auditing tool (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2019/05/10/les-paper.html</id>
-        <link href="https://blog.z-labs.eu/2019/05/10/les-paper.html"/>
-        <updated>2024-12-16T01:41:57.904Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">May 10, 2019</span> <a class="post-link" href="/2019/05/10/les-paper.html">LES: Linux privilege escalation auditing tool</a><p><a href="https://github.com/mzet-/linux-exploit-suggester">LES</a> security tool, developed and maintained by <a href="https://z-labs.eu">Z-Labs</a> is the next generation version of the tool designed to <em>assist</em> the security tester/analyst in looking for critically vulnerable (i.e. locally exploitable) Linux machines during manual red tem/pentest engagement. In this post I will describe how the tool works and how to use it effectively.</p>
-<span class="post-tags">Tags: <a href="/tags/privilege-escalation.html">privilege-escalation</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autumn hiking in Owl Mountains (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2013/11/18/owl-mountains-hiking.html</id>
-        <link href="https://blog.z-labs.eu/2013/11/18/owl-mountains-hiking.html"/>
-        <updated>2024-12-16T01:41:57.906Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Nov 18, 2013</span> <a class="post-link" href="/2013/11/18/owl-mountains-hiking.html">Autumn hiking in Owl Mountains</a><p>We climbed three additional peaks from <a href="https://en.wikipedia.org/wiki/Crown_of_Polish_Mountains">Crown of Polish Mountains</a> during recent hiking in <a href="https://en.wikipedia.org/wiki/Owl_Mountains">Owl Mountains</a> and near areas.</p>
-<span class="post-tags">Tags: <a href="/tags/off-topic.html">off-topic</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiking in Dolomites (Z - Labs Blog)]]></title>
-        <id>https://blog.z-labs.eu/2013/09/12/hiking-in-dolomites.html</id>
-        <link href="https://blog.z-labs.eu/2013/09/12/hiking-in-dolomites.html"/>
-        <updated>2024-12-16T01:41:57.908Z</updated>
-        <content type="html"><![CDATA[<span class="post-date">Sep 12, 2013</span> <a class="post-link" href="/2013/09/12/hiking-in-dolomites.html">Hiking in Dolomites</a><p>Some photos from this year’s hiking in <a href="https://en.wikipedia.org/wiki/Dolomites">Dolomites</a>:</p>
-<span class="post-tags">Tags: <a href="/tags/off-topic.html">off-topic</a></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Applicability of the Timeroasting Attack (snovvcrash)]]></title>
+        <title type="html"><![CDATA[On the Applicability of the Timeroasting Attack]]></title>
         <id>https://snovvcrash.rocks/2024/12/08/applicability-of-the-timeroasting-attack.html</id>
         <link href="https://snovvcrash.rocks/2024/12/08/applicability-of-the-timeroasting-attack.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -296,7 +24,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Lately I’ve had an opportunity to experiment with the Timeroasting on an engagement, so here are my thoughts on the applicability of the attack in real life conditions with some examples along the way.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abuse VS Code Installation for LPE on macOS [Pentest Awards 2023] (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Abuse VS Code Installation for LPE on macOS [Pentest Awards 2023]]]></title>
         <id>https://snovvcrash.rocks/2024/05/19/vs-code-lpe-macos.html</id>
         <link href="https://snovvcrash.rocks/2024/05/19/vs-code-lpe-macos.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -315,7 +43,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Когда тебе нужно заскамить сотрудников техподдержки на угон их кред и привилегий в macOS (естественно, действуя в рамках контракта о пентесте), можно смело предлагать завершить установку легитимного ПО, которое ты предварительно кастомизировал. Для примера разберем, как это сделать с любимым всеми Visual Studio Code.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From DLL Side Load to Malicious SSP [Pentest Awards 2023] (snovvcrash)]]></title>
+        <title type="html"><![CDATA[From DLL Side Load to Malicious SSP [Pentest Awards 2023]]]></title>
         <id>https://snovvcrash.rocks/2024/05/19/from-dll-side-load-to-malicious-ssp.html</id>
         <link href="https://snovvcrash.rocks/2024/05/19/from-dll-side-load-to-malicious-ssp.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -334,7 +62,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Нескучный байпас средств защиты подразумевает разглашение приватного кода, который от этого, скорее всего, обесценится. Поэтому я решил рассказать интересный кейс из опыта участия в Purple Team. Нам удалось надурить кастомное правило СЗИ, нацеленное на мониторинг зловредных SSP-модулей.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Newbie's Game Hacking Notes (ft. Turbo Overkill) (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Newbie's Game Hacking Notes (ft. Turbo Overkill)]]></title>
         <id>https://snovvcrash.rocks/2024/05/10/newbies-game-hacking-notes.html</id>
         <link href="https://snovvcrash.rocks/2024/05/10/newbies-game-hacking-notes.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -352,7 +80,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>A terse-comments blog of making myself more comfortable with Cheat Engine and the basics of cheats/trainers developement. Practice is based on the awesome Turbo Overkill FPS (v1.35).</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Ascension } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Ascension }]]></title>
         <id>https://snovvcrash.rocks/2024/04/30/htb-ascension.html</id>
         <link href="https://snovvcrash.rocks/2024/04/30/htb-ascension.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -370,7 +98,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>This write-up is all about pwning the Ascension Endgame from Hack The Box (written in August 2021).</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python ❤️ SSPI: Teaching Impacket to Respect Windows SSO (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Python ❤️ SSPI: Teaching Impacket to Respect Windows SSO]]></title>
         <id>https://snovvcrash.rocks/2024/04/30/impacket-sspi.html</id>
         <link href="https://snovvcrash.rocks/2024/04/30/impacket-sspi.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -389,7 +117,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Given the Bring Your Own Interpreter (BYOI) concept, the combination of Impacket usage and SSPI capabilities can allow attackers to fly under the radar of endpoint security mechanisms as well as custom network detection rules more efficiently. We will discuss it in more detail further in the article.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Змеиная пирамида. Запускаем малварь из слепой зоны EDR (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Змеиная пирамида. Запускаем малварь из слепой зоны EDR]]></title>
         <id>https://snovvcrash.rocks/2023/04/05/python-pyramid.html</id>
         <link href="https://snovvcrash.rocks/2023/04/05/python-pyramid.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -408,7 +136,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>В этой статье я покажу, как вооружить standalone-интерпретатор Python для загрузки “опасных” зависимостей прямо в память при помощи инструмента Pyramid (не путать с веб-фреймворком). Потенциально это позволяет обойти антивирусную защиту при пентесте и скрыть источник подозрительной телеметрии от EDR при операциях Red Team.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adopting Position Independent Shellcodes from Object Files in Memory for Threadless Injection (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Adopting Position Independent Shellcodes from Object Files in Memory for Threadless Injection]]></title>
         <id>https://snovvcrash.rocks/2023/02/14/pic-generation-for-threadless-injection.html</id>
         <link href="https://snovvcrash.rocks/2023/02/14/pic-generation-for-threadless-injection.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -426,7 +154,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>In this blog I will describe a way to automate generation of Position Independent Shellcodes from object files in memory (by @NinjaParanoid) to be used in Threadless Process Injection (by @_EthicalChaos_).</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[УдаленнаяКартошка0. Повышаем привилегии в AD через кросс-протокольную атаку NTLM Relay (snovvcrash)]]></title>
+        <title type="html"><![CDATA[УдаленнаяКартошка0. Повышаем привилегии в AD через кросс-протокольную атаку NTLM Relay]]></title>
         <id>https://snovvcrash.rocks/2022/12/30/remote-potato-0.html</id>
         <link href="https://snovvcrash.rocks/2022/12/30/remote-potato-0.html"/>
         <updated>2024-12-16T01:42:00.742Z</updated>
@@ -445,7 +173,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Эта история относится к категории «байки с внутренних пентестов», когда мы попали в среду Active Directory, где члены группы безопасности Domain Users (все пользователи домена) обладали привилегией для удаленного подключения к контроллерам домена по протоколу RDP. Хоть это уже само по себе ужасная «мисконфига», потенциальный злоумышленник все еще должен найти способ для локального повышения привилегий на DC, что проблематично, если на системе стоят все хотфиксы. Здесь и приходит на помощью <strike>баг</strike> фича из серии Microsoft Won’t Fix List – кросс-сессионное провоцирование вынужденной аутентификации по протоколу RPC – которая при отсуствии защиты службы LDAP от атак NTLM Relay мгновенно подарит тебе «ключи от Королевства». В этой статье мы поговорим о различных вариациях проведения данной атаки с использованием эксплоита RemotePotato0, а также на этом примере обсудим, как можно спрятать сигнатуру исполняемого файла от статического анализа.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Флуктуация шелл-кода. Пишем инжектор для динамического шифрования полезной нагрузки в памяти (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Флуктуация шелл-кода. Пишем инжектор для динамического шифрования полезной нагрузки в памяти]]></title>
         <id>https://snovvcrash.rocks/2022/08/07/shellcode-fluctuation.html</id>
         <link href="https://snovvcrash.rocks/2022/08/07/shellcode-fluctuation.html"/>
         <updated>2024-12-16T01:42:00.745Z</updated>
@@ -464,7 +192,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Сегодня поговорим об одной из продвинутых техник уклонения от средств защиты при использовании фреймворков Command &amp; Control – динамическом сокрытии шеллкода в памяти ожидающего процесса. Я соберу PoC из доступного на гитхабе кода и применю его к опенсорсным фреймворкам. Если взглянуть на список фич, которыми хвастаются все коммерческие фреймворки C2 стоимостью 100500 долларов в час (Cobalt Strike, Nighthawk, Brute Ratel C4), первой в этих списках значится, как правило, возможность уклонения от сканирования памяти запущенных процессов на предмет наличия сигнатур агентов этих самых C2. Что если попробовать воссоздать эту функцию самостоятельно? В статье я покажу, как я это сделал. Итак что же это за зверь такой, этот флуктуирующий шеллкод?</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Вызов мастеру ключей. Инжектим шеллкод в память KeePass, обойдя антивирус (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Вызов мастеру ключей. Инжектим шеллкод в память KeePass, обойдя антивирус]]></title>
         <id>https://snovvcrash.rocks/2022/06/01/keethief-syscalls.html</id>
         <link href="https://snovvcrash.rocks/2022/06/01/keethief-syscalls.html"/>
         <updated>2024-12-16T01:42:00.745Z</updated>
@@ -483,7 +211,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Недавно я столкнулся с ситуацией на пентесте, когда мне было необходимо вытащить мастер-пароль открытой базы данных KeePass из памяти процесса с помощью утилиты <strong>KeeThief</strong> из арсенала GhostPack. Все бы ничего, да вот EDR, следящий за системой, категорически не давал мне этого сделать – ведь под капотом KeeThief живет классическая процедура инъекции шеллкода в удаленный процесс, что не может остаться незамеченным в 2022 году. В этой статье мы рассмотрим замечательный сторонний механизм D/Invoke для C#, позволяющий эффективно дергать Windows API в обход средств защиты и перепишем KeeThief, чтобы его не ловил великий и ужасный «Касперский».</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abusing Kerberos Constrained Delegation without Protocol Transition (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Abusing Kerberos Constrained Delegation without Protocol Transition]]></title>
         <id>https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html</id>
         <link href="https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html"/>
         <updated>2024-12-16T01:42:00.745Z</updated>
@@ -501,7 +229,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>In this blog post I will go through a study case in abusing Kerberos constrained delegation without protocol transition (Kerberos only authentication).</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ RPG } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ RPG }]]></title>
         <id>https://snovvcrash.rocks/2021/08/07/htb-rpg.html</id>
         <link href="https://snovvcrash.rocks/2021/08/07/htb-rpg.html"/>
         <updated>2024-12-16T01:42:00.745Z</updated>
@@ -519,7 +247,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>This write-up is all about pwning the RPG Endgame from Hack The Box.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leveraging PrintNightmare to Abuse RBCD and DCSync the Domain (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Leveraging PrintNightmare to Abuse RBCD and DCSync the Domain]]></title>
         <id>https://snovvcrash.rocks/2021/06/30/leveraging-printnightmare-to-abuse-rbcd.html</id>
         <link href="https://snovvcrash.rocks/2021/06/30/leveraging-printnightmare-to-abuse-rbcd.html"/>
         <updated>2024-12-16T01:42:00.746Z</updated>
@@ -537,7 +265,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>A relatively stealthy way to exploit PrintNightmare (CVE-2021-1675 / CVE-2021-34527) by configuring and abusing RBCD on a domain controller.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Note on Calculating Kerberos Keys for AD Accounts (snovvcrash)]]></title>
+        <title type="html"><![CDATA[A Note on Calculating Kerberos Keys for AD Accounts]]></title>
         <id>https://snovvcrash.rocks/2021/05/21/calculating-kerberos-keys.html</id>
         <link href="https://snovvcrash.rocks/2021/05/21/calculating-kerberos-keys.html"/>
         <updated>2024-12-16T01:42:00.746Z</updated>
@@ -555,7 +283,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>A short memo on how to properly calculate Kerberos keys for different types of Active Directory accounts in context of decrypting TGS tickets during delegation attacks.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exploiting CVE-2020-10977 on Old Versions of GitLab CE/EE (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Exploiting CVE-2020-10977 on Old Versions of GitLab CE/EE]]></title>
         <id>https://snovvcrash.rocks/2021/02/21/exploiting-cve-2020-10977-on-old-gitlab.html</id>
         <link href="https://snovvcrash.rocks/2021/02/21/exploiting-cve-2020-10977-on-old-gitlab.html"/>
         <updated>2024-12-16T01:42:00.746Z</updated>
@@ -573,7 +301,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>In this post I will demonstrate how CVE-2020-10977 path traversal vulnerability can be exploited on old versions of GitLab to drop a registered user’s password.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Hades } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Hades }]]></title>
         <id>https://snovvcrash.rocks/2020/12/28/htb-hades.html</id>
         <link href="https://snovvcrash.rocks/2020/12/28/htb-hades.html"/>
         <updated>2024-12-16T01:42:00.746Z</updated>
@@ -591,7 +319,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>In this walkthrough I will show how to own the Hades Endgame from Hack The Box. For me it was the most mesmerizing experience I have got at HTB so far. Hades simulates a small Active Directory environment full of vulnerabilities &amp; misconfigurations which can be exploited to compromise the whole domain. This lab offers you an opportunity to play around with AS-REP Roasting, exploiting Printer Bug from Linux, decrypting DPAPI secrets, abusing Kerberos resource-based constrained delegation and spoofing Active Directory-integrated DNS alongside with some other challenges of dealing with enterprise infrastructure. Let the madness begin!</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pretending to Be smbpasswd with impacket (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Pretending to Be smbpasswd with impacket]]></title>
         <id>https://snovvcrash.rocks/2020/10/31/pretending-to-be-smbpasswd-with-impacket.html</id>
         <link href="https://snovvcrash.rocks/2020/10/31/pretending-to-be-smbpasswd-with-impacket.html"/>
         <updated>2024-12-16T01:42:00.747Z</updated>
@@ -609,7 +337,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>For me the most interesting aspect of pwning the Fuse machine from HTB was dealing with an expired domain user password. I found no other tools except smbpasswd to invoke such a password change remotely from Linux which seemed odd to me. So I decided to create a simple Python script with impacket which binds to the \samr pipe over SMB (MSRPC-SAMR) with a null session and calls SamrUnicodeChangePasswordUser2 to trigger the password change.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blind SSRF with Oracle WebLogic Deserialization (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Blind SSRF with Oracle WebLogic Deserialization]]></title>
         <id>https://snovvcrash.rocks/2020/09/26/blind-ssrf-with-oracle-weblogic-deserialization.html</id>
         <link href="https://snovvcrash.rocks/2020/09/26/blind-ssrf-with-oracle-weblogic-deserialization.html"/>
         <updated>2024-12-16T01:42:00.750Z</updated>
@@ -627,7 +355,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>A way to get an impact from exploiting Oracle WebLogic Server Java deserialization vulnerabilities (CVE-2017-3506, CVE-2017-10271, CVE-2019-2725, CVE-2019-2729, etc.) without triggering RCE through an SSRF attack.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playing with HTB{ Multimaster } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Playing with HTB{ Multimaster }]]></title>
         <id>https://snovvcrash.rocks/2020/09/19/htb-multimaster-notes.html</id>
         <link href="https://snovvcrash.rocks/2020/09/19/htb-multimaster-notes.html"/>
         <updated>2024-12-16T01:42:00.751Z</updated>
@@ -645,7 +373,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Automate MS SQL injection with a custom sqlmap tamper script to bypass WAF through a UTF-16BE encoded JSON payload. Enumerate AD domain users via RID cycling from within the MS SQL DBMS.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tuning PEAS for Fun and Profit (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Tuning PEAS for Fun and Profit]]></title>
         <id>https://snovvcrash.rocks/2020/08/22/tuning-peas-for-fun-and-profit.html</id>
         <link href="https://snovvcrash.rocks/2020/08/22/tuning-peas-for-fun-and-profit.html"/>
         <updated>2024-12-16T01:42:00.752Z</updated>
@@ -663,7 +391,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>At the recent external pentest engagement I had a feeling that PEAS (Python Exchange ActiveSync client) is missing some handy features. For example, crawling shared folders and auto downloading discovered files would be a nice function to have as well as brute forcing potential shares by a wordlist. To save time I wrote a draft script at the time of the pentest, but then I decided to fork PEAS project and tune the source code.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playing with HTB{ Patents } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Playing with HTB{ Patents }]]></title>
         <id>https://snovvcrash.rocks/2020/05/16/htb-patents-notes.html</id>
         <link href="https://snovvcrash.rocks/2020/05/16/htb-patents-notes.html"/>
         <updated>2024-12-16T01:42:00.753Z</updated>
@@ -681,7 +409,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Automate crafting malicious DOCX for blind XXE-OOB with external DTD using Python and Scapy.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[О дотфайлах, персонализации и Kali (snovvcrash)]]></title>
+        <title type="html"><![CDATA[О дотфайлах, персонализации и Kali]]></title>
         <id>https://snovvcrash.rocks/2020/05/13/dotfiles-and-personalization.html</id>
         <link href="https://snovvcrash.rocks/2020/05/13/dotfiles-and-personalization.html"/>
         <updated>2024-12-16T01:42:00.755Z</updated>
@@ -700,7 +428,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>В недавнем времени мне приходилось часто разворачивать свою рабочую среду (в частности, Kali Linux) на новых машинах: то на железе, то на виртуалках, то снова на железе… В общем, ты понял. В какой-то момент мне надоели рутинные действия, и я решил извлечь из этой ситуации максимальную пользу для себя и окружающих. В этой статье поговорим о том, как можно организовать хранение своих дотфайлов, чтобы более-менее автоматизировать процесс настройки и персонализации различных ОС для дома и работы.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Об обнаружении субдоменов (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Об обнаружении субдоменов]]></title>
         <id>https://snovvcrash.rocks/2020/05/10/subdomain-discovery.html</id>
         <link href="https://snovvcrash.rocks/2020/05/10/subdomain-discovery.html"/>
         <updated>2024-12-16T01:42:00.757Z</updated>
@@ -718,7 +446,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Инструментарий и краткая методика для обнаружения субдоменов при проведении внешнего пентеста / анализа веб-приложений / конкурентной разведки.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Reddish } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Reddish }]]></title>
         <id>https://snovvcrash.rocks/2020/03/17/htb-reddish.html</id>
         <link href="https://snovvcrash.rocks/2020/03/17/htb-reddish.html"/>
         <updated>2024-12-16T01:42:00.758Z</updated>
@@ -737,7 +465,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Что делать в случае, когда тебе нужно захватить контроль над хостом, который находится в другой подсети? Верно — много запутанных туннелей! На примере виртуалки <strong>Reddish</strong> с Hack The Box мы встретимся со средой визуального программирования Node-RED, где в прямом смысле «построим» реверс-шелл, проэксплуатируем слабую конфигурацию СУБД Redis, воспользуемся инструментом зеркалирования файлов rsync для доступа к чужой файловой системе, а также создадим целое множество вредоносных задач cron всех сортов и расцветок. И что самое интересное — все управление хостом будет выполняться посредством маршрутизации трафика по докер-контейнерам через несколько TCP-туннелей. Погнали!</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Granny💔Grandpa } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Granny💔Grandpa }]]></title>
         <id>https://snovvcrash.rocks/2020/01/26/htb-grandparents.html</id>
         <link href="https://snovvcrash.rocks/2020/01/26/htb-grandparents.html"/>
         <updated>2024-12-16T01:42:00.759Z</updated>
@@ -756,7 +484,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>На заре становления Hack The Box как онлайн-площадки для тренировки вайтхетов в списке машин ее лаборатории значились две виртуалки: <strong>Grandpa</strong> и <strong>Granny</strong>. Обе эти машины нацелены на эксплуатацию уязвимостей WebDAV (набора дополнений для HTTP), и стратегии захвата их root-флагов практически не отличаются друг от друга. Поэтому, чтобы разнообразить прохождения, мы сначала быстро рассмотрим, как можно взломать каждый из хостов по отдельности, а после этого превратим один из них в шлюз, через который атакуем второй хост. Умение пользоваться техникой Pivoting — проброса трафика к жертве (и обратно) через промежуточные хосты — жизненно важный скил для этичного хакера, который пригодится при тестировании на проникновение любой корпоративной сетки.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[В королевстве PWN. Return-to-bss, криптооракулы и реверс-инжиниринг против Великого Сокрушителя (snovvcrash)]]></title>
+        <title type="html"><![CDATA[В королевстве PWN. Return-to-bss, криптооракулы и реверс-инжиниринг против Великого Сокрушителя]]></title>
         <id>https://snovvcrash.rocks/2019/12/20/htb-smasher.html</id>
         <link href="https://snovvcrash.rocks/2019/12/20/htb-smasher.html"/>
         <updated>2024-12-16T01:42:00.761Z</updated>
@@ -775,7 +503,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Год близится к своему логическому завершению и подчищает свои хвосты, поэтому и я, последовав его примеру, закончу цикл «В королевстве PWN» разбором хардкорной тачки <strong>Smasher</strong> с Hack The Box. На этом пути нас ожидает: низкоуровневый сплоитинг веб-сервера со срывом стека (куда же без него?) и генерацией шелл-кода «на лету» с помощью древней магии pwntools; проведение атаки Padding Oracle на Python-приложение для вскрытия шифртекста AES-CBC (абьюзим логику логирования приложения и реализации добивания блоков PKCS#7); реверс-инжиниринг исполняемого файла с атрибутом SUID для повышения привилегий в системе до локального суперпользователя.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[В королевстве PWN. ROP-цепочки и атака Return-to-PLT в CTF Bitterman (snovvcrash)]]></title>
+        <title type="html"><![CDATA[В королевстве PWN. ROP-цепочки и атака Return-to-PLT в CTF Bitterman]]></title>
         <id>https://snovvcrash.rocks/2019/11/23/bitterman.html</id>
         <link href="https://snovvcrash.rocks/2019/11/23/bitterman.html"/>
         <updated>2024-12-16T01:42:00.762Z</updated>
@@ -794,7 +522,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>В этой статье мы поговорим об особенностях переполнения стека в 64-битном Linux. Начнем с прохождения трех обучающих кейсов для различных сценариев выполнения Stack Overflow в Ubuntu 19.10 x64. Далее на примере таска Bitterman, представленном на соревновании CAMP CTF 2015, используя возможности модуля pwntools, мы построим эксплоит, демонстрирующий техники Return-oriented programming для обмана запрета исполнения DEP/NX и Return-to-PLT для байпаса механизма рандомизации адресов ASLR без брутфорса.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[В королевстве PWN. Обходим DEP и брутфорсим ASLR в «Октябре» (snovvcrash)]]></title>
+        <title type="html"><![CDATA[В королевстве PWN. Обходим DEP и брутфорсим ASLR в «Октябре»]]></title>
         <id>https://snovvcrash.rocks/2019/11/08/htb-october.html</id>
         <link href="https://snovvcrash.rocks/2019/11/08/htb-october.html"/>
         <updated>2024-12-16T01:42:00.763Z</updated>
@@ -813,7 +541,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>October</strong> — относительно несложная виртуальная машина с Hack The Box, однако на ее примере удобнее всего разобрать, что, в сущности, из себя представляют: атака ret2libc, применяемая для обхода запрета выполнения данных (DEP/NX-Bit) в стеке; и подбор необходимого адреса той самой стандартной разделяемой библиотеки libc для нивелирования рандомизации размещения адресного пространства (ASLR). Ко всему прочему, на общий уровень сложности повлиял челлендж с захватом админки CMS, где случайно оставили дефолтную авторизацию, поэтому быстро пробежим вступление и более подробно остановимся на этапе privilege escalation.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[В королевстве PWN. Препарируем классику переполнения стека (snovvcrash)]]></title>
+        <title type="html"><![CDATA[В королевстве PWN. Препарируем классику переполнения стека]]></title>
         <id>https://snovvcrash.rocks/2019/10/20/classic-stack-overflow.html</id>
         <link href="https://snovvcrash.rocks/2019/10/20/classic-stack-overflow.html"/>
         <updated>2024-12-16T01:42:00.765Z</updated>
@@ -832,7 +560,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Сколько раз и в каких только контекстах уже не писали об уязвимости переполнения стека. Однако в этой статье я постараюсь предоставить универсальное практическое вступление для энтузиастов, начинающих погружение в Low-Level эксплуатацию, и на примере того самого переполнения рассмотрю широкий спектр тем: от существующих на данный момент механизмов безопасности компилятора gcc до точеных особенностей разработки бинарных эксплоитов для срыва стека. Могу поспорить, что со школьной скамьи тебе твердили, что strcpy — это такая небезопасная функция, использование которой чревато попаданию в неблагоприятную ситуацию — выход за границы доступной памяти, и «вообще лучше используй MS Visual Studio…». Почему эта функция небезопасна? Что может произойти, если ее использовать? Как эксплуатировать уязвимости семейства Stacked Based Buffer Overflow? Ответы на эти вопросы я и дам далее.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ CTF } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ CTF }]]></title>
         <id>https://snovvcrash.rocks/2019/09/20/htb-ctf.html</id>
         <link href="https://snovvcrash.rocks/2019/09/20/htb-ctf.html"/>
         <updated>2024-12-16T01:42:00.767Z</updated>
@@ -851,7 +579,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>CTF</strong> — просто идеальная машина для составления райтапа: она достаточна прямолинейна, здесь ты не встретишь множества развилок на пути, ведущих в никуда, от которых становится неинтересным следить за ходом повестования, а мне не придется лишний раз выкручиваться, чтобы придумать, какими словами лучше описать свой ход мыслей при ее прохождении для сохранения интриги. В то же время, эта виртуалка весьма сложна, что в совокупности со своей прямолинейностью делает ее максимально интересной для <strike>взлома</strike> тестирования на проникновение. По мере продвижения к победному флагу нам предстоит: поиграть с stoken — софтверным решением для Linux для генерации одноразовых паролей (RSA SecurID токенов); разобраться с множественными типами LDAP-инъекций (Blind, Second Order); написать несколько скриптов на Python для брута LDAP-каталога; злоупотребить функционалом архиватора 7z, в частности его опцией @listfiles, для чтения файлов с правами суперпользователя.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ SecNotes } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ SecNotes }]]></title>
         <id>https://snovvcrash.rocks/2019/04/05/htb-secnotes.html</id>
         <link href="https://snovvcrash.rocks/2019/04/05/htb-secnotes.html"/>
         <updated>2024-12-16T01:42:00.769Z</updated>
@@ -869,7 +597,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>SecNotes</strong> — нетрудная машина под Windows с вариативным начальным этапом и оригинальным заключительным PrivEsc’ом. Для того, чтобы добраться до пользовательской SMB-шары (откуда ты сможешь использовать RCE через залитый веб-шелл), сперва предстоит получить доступ к аккаунту админа веб-приложения. Сделать это можно двумя способами: либо XSRF (путь, задуманный автором коробки), либо SQL-инъекция второго порядка (то, что автор не доглядел). Если же захочешь добраться до root’а, то тебе предложат взаимодействие с подсистемой Linux (WSL) с целью вытащить креды от админской SMB, а далее psexec/winexec для инициализации полноценной сессии суперпользователя. Удачи, мой друг!</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Mischief } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Mischief }]]></title>
         <id>https://snovvcrash.rocks/2019/04/05/htb-mischief.html</id>
         <link href="https://snovvcrash.rocks/2019/04/05/htb-mischief.html"/>
         <updated>2024-12-16T01:42:00.770Z</updated>
@@ -888,7 +616,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Mischief</strong> — на момент прохождения моя любимая Linux-тачка на HTB. Балансируя на уровне сложности где-то между “Medium” и “Hard” (хотя изначальный рейтинг был определен как “Insane”), эта виртуалка дает простор для творчества. Полагаю, если бы не некоторые ошибки автора (которые мы, конечно же, обсудим ниже), эта машина и правда была бы “безумной”. Итак, с чем предстоит повоевать: энумерация SNMP с последующим извлечением авторизационных данных из аргументов командной строки для простого Python-сервера (пробуем разные тулзы, в том числе snmpwalk, snmp-check, onesixtyone, enyx.py), получение IPv6-адреса машины из того же вывода SNMP (1-й способ), либо через pivoting другого хоста на HTB из MAC-адреса последнего (2-й способ, алгоритм EUI-64), обход фильтра для возможности инъекции команд (+ создание мини ICMP-шелла с помощью scapy на сладкое) и захват кредов пользователя; наконец, получение IPv6 реверс-шелла в обход iptables для запуска su от имени www-data (так как пользователя блокирует механизм распределения прав доступа ACL) и получения root-сессии с кредами из .bash_history.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Waldo } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Waldo }]]></title>
         <id>https://snovvcrash.rocks/2018/12/29/htb-waldo.html</id>
         <link href="https://snovvcrash.rocks/2018/12/29/htb-waldo.html"/>
         <updated>2024-12-16T01:42:00.772Z</updated>
@@ -906,7 +634,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Waldo</strong> — несложная Linux-коробка, внутри которой затерялся злосчастный Вальдо. Неотъемлемой частью процедуры поиска последнего станут такие развлечения, как эксплуатация уязвимого к атаке типа “Path Traversal + LFI” веб-приложения, таинственная маршрутизация в docker-контейнер при подключении к Waldo по SSH, обнаружение альтернативного SSH-ключа и подключение к реальной виртуальной машине с помощью оного, побег из restricted-shell’а (rbash) и, на сладкое, чтение файлов с правами root через абьюзинг утилиты с установленным мандатом CAP_DAC_READ_SEARCH из арсенала одного из механизмов управления доступом в Линукс — Linux Capabilities. Итак, где же Вальдо?</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Active } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Active }]]></title>
         <id>https://snovvcrash.rocks/2018/12/17/htb-active.html</id>
         <link href="https://snovvcrash.rocks/2018/12/17/htb-active.html"/>
         <updated>2024-12-16T01:42:00.773Z</updated>
@@ -925,7 +653,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Active</strong> — максимально простая, однако, в то же время, одна из самых полезных для прохождения Windows-машин в своей “ценовой категории” на HTB. Почему? Так это же контроллер домена AD! Тезисный обзор предлагаемых развлечений: энумерация SMB-шар (используем tуеву hучу крутых утилит а-ля smbclient, smbmap, enum4linux, nullinux); разграбление SMB с анонимным доступом для захвата файла групповых политик Groups.xml; декрипт GPP-пароля из той самой xml’ки; получение доступа к внутридоменному аккаунту с последующей инициализацией атаки типа Kerberoasting (против протокола аутентификации Kerberos) для извлечения тикета администратора с помощью коллекции Python-скриптов impacket для работы с сетевыми протоколами; наконец, офлайн-восстановление пароля администратора из хеша (с помощью Hashcat) для окончательного pwn’а контроллера.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Hawk } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Hawk }]]></title>
         <id>https://snovvcrash.rocks/2018/12/09/htb-hawk.html</id>
         <link href="https://snovvcrash.rocks/2018/12/09/htb-hawk.html"/>
         <updated>2024-12-16T01:42:00.774Z</updated>
@@ -943,7 +671,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Hawk</strong> — “разнообразная” виртуалка на Linux, предлагающая целый спектр задач из самых разных областей: здесь тебе и подбор пароля для OpenSSL-шифрованного сообщения, и использование модуля “PHP Filter” в CMS Drupal для выполнения произвольного PHP-кода (и получения reverse-shell’а), и выявление проблемы повторного использования паролей. Последняя приведет к получению доступа к SSH и СУБД H2: будем пробрасывать SSH-туннель, чтобы подключиться к базе данных и выполнить системные команды через абьюзинг функционала CREATE ALIAS от имени суперпользователя. Вначале прочитаем флаг, а затем получим полноценный шелл, и таким образом повысим привилегия в системе.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Jerry } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Jerry }]]></title>
         <id>https://snovvcrash.rocks/2018/11/20/htb-jerry.html</id>
         <link href="https://snovvcrash.rocks/2018/11/20/htb-jerry.html"/>
         <updated>2024-12-16T01:42:00.776Z</updated>
@@ -961,7 +689,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Jerry</strong> — самая простая коробка под управлением Windows, с которой мне довелось столкнуться на просторах HTB. Первая кровь была пролита всего через 6 минут после того, как машина вышла в онлайн. В рамках прохождения нам предстоит сразиться с веб-сервером Apache Tomcat, на котором оставили стандартный пароль для менеджера приложений, собрать вредоносный WAR-файл, содержащий полезную нагрузку в виде reverse-shell’а, развернуть его на жертве и, собственно, получить сессию администратора. В дополнение в конце поста мы расковыряем тот самый файл.war и посмотрим, что за магия творится внутри. Всегда было жалко Тома, ненавижу эту мышь…</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Bounty } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Bounty }]]></title>
         <id>https://snovvcrash.rocks/2018/11/10/htb-bounty.html</id>
         <link href="https://snovvcrash.rocks/2018/11/10/htb-bounty.html"/>
         <updated>2024-12-16T01:42:00.777Z</updated>
@@ -979,7 +707,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Bounty</strong> — очень простая Windows-машина с 1000 и одним способом PrivEsc’а до админа. Выполнив инъекцию ASP-кода в файл конфигурации web.config веб-сервера IIS, мы получим юзера, а дальше все зависит только от твоего воображения. В рамках этого райтапа будем использовать Metasploit в качестве основного инструмента сбора сведений о локальных уязвимостях и постэксплуатации оных, однако напоследок я приведу список альтернативного ПО, которое с таким же успехом позволит выпотрошить эту тачку.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ TartarSauce } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ TartarSauce }]]></title>
         <id>https://snovvcrash.rocks/2018/11/02/htb-tartarsauce.html</id>
         <link href="https://snovvcrash.rocks/2018/11/02/htb-tartarsauce.html"/>
         <updated>2024-12-16T01:42:00.780Z</updated>
@@ -997,7 +725,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>TartarSauce</strong> — весьма нетривиальная Linux-тачка, которая не прочь тебя подурачить. Преодолев огромное количество rabbit-hole’ов, мы столкнемся с: RFI-уязвимостью в устаревшем плагине для WordPress (входная точка в систему) и эксплуатацией некоторых особенностей поведения утилиты tar для обоих PrivEsc’ов. Для повышения привилегий до пользователя будем абьюзить флаги –to-command / –use-compress-program / –checkpoint-action; для инициализации же сессии суперпользователя придется разреверсить bash-скрипт и, воспользовавшись тем фактом, что tar “помнит” владельцев упакованных файлов, скрафтить и запустить SUID-шелл. Также возможен более лайтовый вариант прочтения root-флага, не требующий получения полноценного шелла: здесь будут продемонстрированы некоторые фишки утилиты diff. Это будет длинный райтап…</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ DevOops } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ DevOops }]]></title>
         <id>https://snovvcrash.rocks/2018/10/22/htb-devoops.html</id>
         <link href="https://snovvcrash.rocks/2018/10/22/htb-devoops.html"/>
         <updated>2024-12-16T01:42:00.781Z</updated>
@@ -1015,7 +743,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>DevOops</strong> — ненапряжная виртуалка под Linux’ом, уязвимая для XML-инъекций (XXE). В данном случае эта атака открывает 2 основных вектора проникновения внутрь системы: тривиальный (просто забрать ssh-ключ из домашней директории; кстати, этот способ — невнимательность создателя машины) и более каноничный, который задумывался как основной (десериализация вредоносной python-нагрузки). Внутри машины все будет совсем просто: для PrivEsc’а достаточно заглянуть в историю git-коммитов репозитория с исходниками блога, который крутится на вебе. По традиции охватим оба способа и накодим немного скриптов для автоматизации pwn’а на питончике. Gonna be fun!</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Об HTTP-серверах для трансфера файлов в Linux (snovvcrash)]]></title>
+        <title type="html"><![CDATA[Об HTTP-серверах для трансфера файлов в Linux]]></title>
         <id>https://snovvcrash.rocks/2018/10/11/simple-http-servers.html</id>
         <link href="https://snovvcrash.rocks/2018/10/11/simple-http-servers.html"/>
         <updated>2024-12-16T01:42:00.782Z</updated>
@@ -1033,7 +761,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Последнее время часто сталкивался с необходимостью обмена файлами между Linux-машинами. В этом посте опишу 3 удобных способа, как можно быстро и легко развернуть тривиальный HTTP-сервер для трансфера файлов.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Sunday } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Sunday }]]></title>
         <id>https://snovvcrash.rocks/2018/10/09/htb-sunday.html</id>
         <link href="https://snovvcrash.rocks/2018/10/09/htb-sunday.html"/>
         <updated>2024-12-16T01:42:00.784Z</updated>
@@ -1051,7 +779,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Sunday</strong> — простая машина на основе ОС Solaris. В ассортименте: древний net-протокол Finger для получения информации о залогиненных пользователях в качестве входной точки, брутфорс SSH-кредов, восстановление пароля соседнего пользователя по хешу (просим помощи у Джона) для первого PrivEsc’а и целая уйма способов получения рут-сессии через эксплуатацию wget для второго PrivEsc’а (попробуем все). Несмотря на то, что это правда одна из самых нетрудных тачек на HTB, большинство людей выбирали модификацию shadow/sudoers -файлов в качестве финального повышения привилегий, откуда непрекращающиеся сбои, ресеты и туча головной боли для вежливых хакеров. Рассмотрим же вместе этот временами бесящий, но от этого не менее веселый путь к победе над Sunday.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Olympus } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Olympus }]]></title>
         <id>https://snovvcrash.rocks/2018/10/03/htb-olympus.html</id>
         <link href="https://snovvcrash.rocks/2018/10/03/htb-olympus.html"/>
         <updated>2024-12-16T01:42:00.787Z</updated>
@@ -1069,7 +797,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p>Путешествие к вершинам <strong>Олимпа</strong>: 1. Остров Крит — веб-сервер Apache с RCE-уязвимостью в Xdebug; 2. Олимпия — докер-контейнер с таском на брут 802.11 WPA перехвата; 3. Остров Родос — DNS-сервер, хранящий последовательность портов к Port Knocking’у для открытия портала в царство Аида; 4. Царство Аида — последний этап, сама виртуальная машина Olympus, root-сессия будет получена через захват docker’а. А теперь подробнее…</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Canape } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Canape }]]></title>
         <id>https://snovvcrash.rocks/2018/09/28/htb-canape.html</id>
         <link href="https://snovvcrash.rocks/2018/09/28/htb-canape.html"/>
         <updated>2024-12-16T01:42:00.793Z</updated>
@@ -1087,7 +815,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Canape</strong> — Linux-тачка средней сложности. Для начала нам предстоит столкнуться с сервером на Flask’е, проанализировать исходники Python-кода, найдя в них мою любимую deserialization-уязвимость, далее нас поджидает повышение привилегий до пользователя через эксплуатацию уязвимости в СУБД CouchDB, и напоследок мы поиграем с методами обмана питоновского менеджера управления пакетами pip с целью выполнения произвольных команд. Последнее подарит root-сессию. Log on, hack in!</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Poison } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Poison }]]></title>
         <id>https://snovvcrash.rocks/2018/09/16/htb-poison.html</id>
         <link href="https://snovvcrash.rocks/2018/09/16/htb-poison.html"/>
         <updated>2024-12-16T01:42:00.794Z</updated>
@@ -1105,7 +833,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Poison</strong> — одна из самых простых машин с Hack The Box на мой взгляд (если идти самым простым путем, хех), и, по совместительству, моя первая машина с этой платформы. FreeBSD внутри, эта виртуалка предоставляет целых 3 способа прохождения первого этапа: можно забрать авторизационные данные пользователя прямо с веба, если хорошо поискать (самый простой вариант); отравить логи веб-сервера и получить reverse-shell; или же получить RCE с помощью связки LFI + PHPInfo() (самый трудный способ, возможно, не задуманный создателем машины). Далее для повышения привилегий придется пробросить VNC-соединение через SSH-туннель.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Stratosphere } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Stratosphere }]]></title>
         <id>https://snovvcrash.rocks/2018/09/05/htb-stratoshpere.html</id>
         <link href="https://snovvcrash.rocks/2018/09/05/htb-stratoshpere.html"/>
         <updated>2024-12-16T01:42:00.796Z</updated>
@@ -1124,7 +852,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Stratosphere</strong> — уютная Linux-машина, которая встретит нас RCE-уязвимостью фреймворка Apache Struts, помучает невозможностью получения стандартного reverse-shell’а, заставив прибегнуть к концепции forward-shell’а, после чего посредством взаимодействия с СУБД MySQL предложит взглянуть на нарушение политики локального хранения паролей, подразнит реверсом дайджестов различных алгоритмов хеширования, а под зановес угостит практикой абьюзинга функции eval() из-под Python’а или же угоном Python-модулей (aka Python Library Hijacking) на выбор (мы угостимся и тем, и другим though). Несмотря на то, что этот бокс идеально вписывается в описанную ранее концепцию “типичной CTF-машины”, найти к ней подход было действительно весело.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Celestial } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Celestial }]]></title>
         <id>https://snovvcrash.rocks/2018/08/25/htb-celestial.html</id>
         <link href="https://snovvcrash.rocks/2018/08/25/htb-celestial.html"/>
         <updated>2024-12-16T01:42:00.797Z</updated>
@@ -1142,7 +870,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
 <p><strong>Celestial</strong> — образцовый представитель типичной CTF-машины. Уязвимый web-сервис дает возможность удаленного выполнения кода (RCE), открывая путь к получению reverse-shell’а, откуда до повышения привилегий до суперпользователя (LPE) в силу небрежно выставленных настроек прав доступа рукой подать. Let’s dive into it!</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTB{ Valentine } (snovvcrash)]]></title>
+        <title type="html"><![CDATA[HTB{ Valentine }]]></title>
         <id>https://snovvcrash.rocks/2018/08/14/htb-valentine.html</id>
         <link href="https://snovvcrash.rocks/2018/08/14/htb-valentine.html"/>
         <updated>2024-12-16T01:42:00.798Z</updated>
