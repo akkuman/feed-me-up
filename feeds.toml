@@ -20,3 +20,10 @@ url = "https://blog.z-labs.eu/"
 entrySelector = "ul.posts > li"
 titleSelector = "a.post-link"
 linkSelector = "a.post-link"
+
+[snovvcrash_rocks]
+title = "snovvcrash"
+url = "https://snovvcrash.rocks/"
+entrySelector = "ul.post-list > li.post-list-li"
+titleSelector = "a.post-link"
+linkSelector = "a.post-link"
