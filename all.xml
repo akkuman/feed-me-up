@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akkuman.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-17T17:41:42.325Z</updated>
+    <updated>2024-12-18T05:41:26.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Write, debug and execute BOFs using bof-launcher (part 1) (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html</id>
         <link href="https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html"/>
-        <updated>2024-12-17T17:41:37.622Z</updated>
+        <updated>2024-12-18T05:41:21.162Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Dec 2, 2024</span> <a class="post-link" href="/2024/12/02/write-debug-and-execute-bofs-part1.html">Write, debug and execute BOFs using bof-launcher (part 1)</a><p>Our <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a> allows you to write, build, debug and execute BOFs using
 Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARCH64).</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
@@ -17,7 +17,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/07/08/tiber-eu-dora-cyberodpornosc.html</id>
         <link href="https://blog.z-labs.eu/2024/07/08/tiber-eu-dora-cyberodpornosc.html"/>
-        <updated>2024-12-17T17:41:37.622Z</updated>
+        <updated>2024-12-18T05:41:21.163Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jul 8, 2024</span> <a class="post-link" href="/2024/07/08/tiber-eu-dora-cyberodpornosc.html">[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym</a><p>Prawodawstwo unijne w ostatnich latach jest coraz bardziej aktywne w kwestiach związanych z szeroko pojętym cyberbezpieczeństwem. Komisja Europejska bez wątpienia dostrzega problematykę braku odpowiedniego ogólnego poziomu cyberbezpieczeństwa w państwach członkowskich i aktywnie działa na rzecz poprawy sytuacji. Wystarczy wspomnieć tu o <a href="https://digital-strategy.ec.europa.eu/en/policies/cybersecurity-act">The EU Cybersecurity Act</a>, czy od dawna już obowiązującą dyrektywę NIS (ang. Directive on Security of Network and Information Systems), która weszła w życie w 2016 roku, a na grunt krajowego porządku prawnego została wprowadzona jako <a href="https://www.gov.pl/web/cyfryzacja/krajowy-system-cyberbezpieczenstwa-">Krajowy System Cyberbezpieczeństwa (KSC)</a> w 2018 roku. W tym roku czeka nas również aktualizacja KSC o unijną dyrektywę NIS 2. Odpowiedni projekt ustawy <a href="https://www.gov.pl/web/cyfryzacja/walka-z-cyberzagrozeniami-wchodzi-w-nowy-wymiar">trafił ostatnio do konsultacji publicznych</a>.</p>
 <span class="post-tags">Tags: <a href="/tags/TIBER-EU.html">TIBER-EU</a>,&nbsp;<a href="/tags/DORA.html">DORA</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a></span>]]></content>
     </entry>
@@ -25,7 +25,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/05/13/tiber-eu-dora-cyberodpornosc.html</id>
         <link href="https://blog.z-labs.eu/2024/05/13/tiber-eu-dora-cyberodpornosc.html"/>
-        <updated>2024-12-17T17:41:37.622Z</updated>
+        <updated>2024-12-18T05:41:21.164Z</updated>
         <content type="html"><![CDATA[<span class="post-date">May 13, 2024</span> <a class="post-link" href="/2024/05/13/tiber-eu-dora-cyberodpornosc.html">[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym</a><p>Prawodawstwo unijne w ostatnich latach jest coraz bardziej aktywne w kwestiach związanych z szeroko pojętym cyberbezpieczeństwem. Komisja Europejska bez wątpienia dostrzega problematykę braku odpowiedniego ogólnego poziomu cyberbezpieczeństwa w państwach członkowskich i aktywnie działa na rzecz poprawy sytuacji. Wystarczy wspomnieć tu o <a href="https://digital-strategy.ec.europa.eu/en/policies/cybersecurity-act">The EU Cybersecurity Act</a>, czy od dawna już obowiązującą dyrektywę NIS (ang. Directive on Security of Network and Information Systems), która weszła w życie w 2016 roku, a na grunt krajowego porządku prawnego została wprowadzona jako <a href="https://www.gov.pl/web/cyfryzacja/krajowy-system-cyberbezpieczenstwa-">Krajowy System Cyberbezpieczeństwa (KSC)</a> w 2018 roku. W tym roku czeka nas również aktualizacja KSC o unijną dyrektywę NIS 2. Odpowiedni projekt ustawy <a href="https://www.gov.pl/web/cyfryzacja/walka-z-cyberzagrozeniami-wchodzi-w-nowy-wymiar">trafił ostatnio do konsultacji publicznych</a>.</p>
 <span class="post-tags">Tags: <a href="/tags/TIBER-EU.html">TIBER-EU</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a></span>]]></content>
     </entry>
@@ -33,7 +33,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Executing Cobalt Strike's BOFs on ARM-based Linux devices (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/05/10/bofs-on-arm-based-devices.html</id>
         <link href="https://blog.z-labs.eu/2024/05/10/bofs-on-arm-based-devices.html"/>
-        <updated>2024-12-17T17:41:37.626Z</updated>
+        <updated>2024-12-18T05:41:21.164Z</updated>
         <content type="html"><![CDATA[<span class="post-date">May 10, 2024</span> <a class="post-link" href="/2024/05/10/bofs-on-arm-based-devices.html">Executing Cobalt Strike's BOFs on ARM-based Linux devices</a><p>We designed and implemented <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher</a> with a portability in mind so running BOFs on Linux ARM-based devices is a snap. Below, we’re running our <code class="language-plaintext highlighter-rouge">uname</code> BOF on Raspberry Pi device. For convenience we use our <a href="https://github.com/The-Z-Labs/cli4bofs">cli4bofs</a> tool to execute BOF directly from command line. So let’s jump to our device:</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -41,7 +41,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Running BOFs with our 'bof-launcher' library (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/02/08/bof-launcher.html</id>
         <link href="https://blog.z-labs.eu/2024/02/08/bof-launcher.html"/>
-        <updated>2024-12-17T17:41:37.630Z</updated>
+        <updated>2024-12-18T05:41:21.164Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Feb 8, 2024</span> <a class="post-link" href="/2024/02/08/bof-launcher.html">Running BOFs with our 'bof-launcher' library</a><p>During last months we were busy working on our <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a>. In essence it is an open-source library for loading, relocating and launching <a href="https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/beacon-object-files_main.htm">Cobalt Strike’s BOFs</a> on Windows and UNIX/Linux systems. But it also contains other very interesting features and capabilities that are worth discussing.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -49,7 +49,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Other useful resources (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2023/09/08/burp-tipsTricks2023.html</id>
         <link href="https://blog.z-labs.eu/2023/09/08/burp-tipsTricks2023.html"/>
-        <updated>2024-12-17T17:41:37.630Z</updated>
+        <updated>2024-12-18T05:41:21.164Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Sep 8, 2023</span> <a class="post-link" href="/2023/09/08/burp-tipsTricks2023.html">Burp Suite Pro real-life tips &amp; tricks: Other useful resources</a><p>Additional references to materials about the Burp Suite Pro tool and its usage:</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security-testing.html">web-security-testing</a></span>]]></content>
     </entry>
@@ -57,7 +57,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Endpoint defense evasion with custom built binaries (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html</id>
         <link href="https://blog.z-labs.eu/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html"/>
-        <updated>2024-12-17T17:41:37.631Z</updated>
+        <updated>2024-12-18T05:41:21.165Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Aug 25, 2022</span> <a class="post-link" href="/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html">Endpoint defense evasion with custom built binaries</a><p>It’s already a <a href="https://www.ired.team/offensive-security/defense-evasion/av-bypass-with-metasploit-templates">common knowledge</a> that merely rebuilding binaries could be a good way to attempt to bypass many AV solutions. Here’s a good illustration of exactly that case from our recent penetration testing engagement. Here’s the scenario:</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a></span>]]></content>
     </entry>
@@ -65,7 +65,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Authentication engine for command-line tools (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2022/01/12/burp-suite-pro-authn-for-cli-tools.html</id>
         <link href="https://blog.z-labs.eu/2022/01/12/burp-suite-pro-authn-for-cli-tools.html"/>
-        <updated>2024-12-17T17:41:37.631Z</updated>
+        <updated>2024-12-18T05:41:21.168Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jan 12, 2022</span> <a class="post-link" href="/2022/01/12/burp-suite-pro-authn-for-cli-tools.html">Burp Suite Pro real-life tips &amp; tricks: Authentication engine for command-line tools</a><p>Below is a nice Burp trickery I’ve learnt from <a href="https://www.ryanwendel.com/2019/09/27/application-enumeration-tips-using-aquatone-and-burp-suite/">Ryan</a> and extended it also for apps that are using token-based session handling.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/burp.html">burp</a>,&nbsp;<a href="/tags/web-security-testing.html">web-security-testing</a></span>]]></content>
     </entry>
@@ -73,7 +73,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Broken UDP scanning in Nmap v7.91 (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2021/10/08/broken-udp-scanning-in-nmap-7-91.html</id>
         <link href="https://blog.z-labs.eu/2021/10/08/broken-udp-scanning-in-nmap-7-91.html"/>
-        <updated>2024-12-17T17:41:37.633Z</updated>
+        <updated>2024-12-18T05:41:21.168Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Oct 8, 2021</span> <a class="post-link" href="/2021/10/08/broken-udp-scanning-in-nmap-7-91.html">Broken UDP scanning in Nmap v7.91</a><p>As in most penetration testing/red teaming companies we at Z-Labs use Nmap security scanner tool quite extensively. During one of our network penetration testing engagements we have noticed that UDP scanning (<code class="language-plaintext highlighter-rouge">-sU</code>) functionality misbehaves and does not correctly detect opened UDP ports. Soon after that we identified in Nmap (versions: <code class="language-plaintext highlighter-rouge">7.91</code> and <code class="language-plaintext highlighter-rouge">7.90</code>) subtle implementation issue that resulted in corrupted UDP packets sent during a scan.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/network-security.html">network-security</a></span>]]></content>
     </entry>
@@ -81,7 +81,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Mobile apps penetration testing 2020 (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2020/03/29/mobile-security-testing-ref.html</id>
         <link href="https://blog.z-labs.eu/2020/03/29/mobile-security-testing-ref.html"/>
-        <updated>2024-12-17T17:41:37.635Z</updated>
+        <updated>2024-12-18T05:41:21.170Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Mar 29, 2020</span> <a class="post-link" href="/2020/03/29/mobile-security-testing-ref.html">Mobile apps penetration testing 2020</a><p>There are already great resources about mobile app security testing out there. So here I’m mostly just keep track of resources/approaches that worked for me (with additional comments), to have it in one place for the sake of future reference.</p>
 <span class="post-tags">Tags: <a href="/tags/notes.html">notes</a>,&nbsp;<a href="/tags/mobile-security.html">mobile-security</a></span>]]></content>
     </entry>
@@ -89,7 +89,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Looking for hidden attack surface and leaked secrets (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2019/09/12/burp-suite-pro-API-endpoints-discovery.html</id>
         <link href="https://blog.z-labs.eu/2019/09/12/burp-suite-pro-API-endpoints-discovery.html"/>
-        <updated>2024-12-17T17:41:37.636Z</updated>
+        <updated>2024-12-18T05:41:21.172Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Sep 12, 2019</span> <a class="post-link" href="/2019/09/12/burp-suite-pro-API-endpoints-discovery.html">Burp Suite Pro real-life tips &amp; tricks: Looking for hidden attack surface and leaked secrets</a><p>Burp has some nice export features which (combined with some 3rd party tools) can greatly aid in the process of looking for additional/hidden endpoints and/or hardcoded secrets.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
     </entry>
@@ -97,7 +97,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Persistent Access to Collaborator (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html</id>
         <link href="https://blog.z-labs.eu/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html"/>
-        <updated>2024-12-17T17:41:37.638Z</updated>
+        <updated>2024-12-18T05:41:21.175Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Sep 9, 2019</span> <a class="post-link" href="/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html">Burp Suite Pro real-life tips &amp; tricks: Persistent Access to Collaborator</a><p>It was already discussed <a href="https://0x00sec.org/t/achieving-persistent-access-to-burp-collaborator-sessions/14311">here</a>. Putting here for quick reference.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
     </entry>
@@ -105,7 +105,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Authorization testing (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html</id>
         <link href="https://blog.z-labs.eu/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html"/>
-        <updated>2024-12-17T17:41:37.646Z</updated>
+        <updated>2024-12-18T05:41:21.176Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jul 21, 2019</span> <a class="post-link" href="/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html">Burp Suite Pro real-life tips &amp; tricks: Authorization testing</a><p>In the past, I found (already quite old - presented in 2013) slide deck <a href="https://www.agarri.fr/docs/HiP2k13-Burp_Pro_Tips_and_Tricks.pdf">Burp Suite Pro real-life tips &amp; tricks</a> authored by <a href="https://www.agarri.fr/en/index.html">Nicolas Grégoire</a> very useful which gave me motivation to constantly look for effciencies in my day to day Burp Suite Pro usage. Since that time Burp has significantly evolved (major milestone - version 2.x was released) and lots of interesting 3rd party extensions were developed.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
     </entry>
@@ -113,7 +113,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[LES: Linux privilege escalation auditing tool (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2019/05/10/les-paper.html</id>
         <link href="https://blog.z-labs.eu/2019/05/10/les-paper.html"/>
-        <updated>2024-12-17T17:41:37.647Z</updated>
+        <updated>2024-12-18T05:41:21.177Z</updated>
         <content type="html"><![CDATA[<span class="post-date">May 10, 2019</span> <a class="post-link" href="/2019/05/10/les-paper.html">LES: Linux privilege escalation auditing tool</a><p><a href="https://github.com/mzet-/linux-exploit-suggester">LES</a> security tool, developed and maintained by <a href="https://z-labs.eu">Z-Labs</a> is the next generation version of the tool designed to <em>assist</em> the security tester/analyst in looking for critically vulnerable (i.e. locally exploitable) Linux machines during manual red tem/pentest engagement. In this post I will describe how the tool works and how to use it effectively.</p>
 <span class="post-tags">Tags: <a href="/tags/privilege-escalation.html">privilege-escalation</a></span>]]></content>
     </entry>
@@ -121,7 +121,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Autumn hiking in Owl Mountains (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2013/11/18/owl-mountains-hiking.html</id>
         <link href="https://blog.z-labs.eu/2013/11/18/owl-mountains-hiking.html"/>
-        <updated>2024-12-17T17:41:37.651Z</updated>
+        <updated>2024-12-18T05:41:21.182Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Nov 18, 2013</span> <a class="post-link" href="/2013/11/18/owl-mountains-hiking.html">Autumn hiking in Owl Mountains</a><p>We climbed three additional peaks from <a href="https://en.wikipedia.org/wiki/Crown_of_Polish_Mountains">Crown of Polish Mountains</a> during recent hiking in <a href="https://en.wikipedia.org/wiki/Owl_Mountains">Owl Mountains</a> and near areas.</p>
 <span class="post-tags">Tags: <a href="/tags/off-topic.html">off-topic</a></span>]]></content>
     </entry>
@@ -129,7 +129,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Hiking in Dolomites (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2013/09/12/hiking-in-dolomites.html</id>
         <link href="https://blog.z-labs.eu/2013/09/12/hiking-in-dolomites.html"/>
-        <updated>2024-12-17T17:41:37.652Z</updated>
+        <updated>2024-12-18T05:41:21.184Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Sep 12, 2013</span> <a class="post-link" href="/2013/09/12/hiking-in-dolomites.html">Hiking in Dolomites</a><p>Some photos from this year’s hiking in <a href="https://en.wikipedia.org/wiki/Dolomites">Dolomites</a>:</p>
 <span class="post-tags">Tags: <a href="/tags/off-topic.html">off-topic</a></span>]]></content>
     </entry>
@@ -137,7 +137,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[On the Applicability of the Timeroasting Attack (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2024/12/08/applicability-of-the-timeroasting-attack.html</id>
         <link href="https://snovvcrash.rocks/2024/12/08/applicability-of-the-timeroasting-attack.html"/>
-        <updated>2024-12-17T17:41:40.567Z</updated>
+        <updated>2024-12-18T05:41:24.385Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 8, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">38 minutes to read </span>
@@ -155,7 +155,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Abuse VS Code Installation for LPE on macOS [Pentest Awards 2023] (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2024/05/19/vs-code-lpe-macos.html</id>
         <link href="https://snovvcrash.rocks/2024/05/19/vs-code-lpe-macos.html"/>
-        <updated>2024-12-17T17:41:40.567Z</updated>
+        <updated>2024-12-18T05:41:24.396Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 19, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">5 minutes to read </span>
@@ -174,7 +174,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[From DLL Side Load to Malicious SSP [Pentest Awards 2023] (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2024/05/19/from-dll-side-load-to-malicious-ssp.html</id>
         <link href="https://snovvcrash.rocks/2024/05/19/from-dll-side-load-to-malicious-ssp.html"/>
-        <updated>2024-12-17T17:41:40.574Z</updated>
+        <updated>2024-12-18T05:41:24.396Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 19, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">8 minutes to read </span>
@@ -193,7 +193,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Newbie's Game Hacking Notes (ft. Turbo Overkill) (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2024/05/10/newbies-game-hacking-notes.html</id>
         <link href="https://snovvcrash.rocks/2024/05/10/newbies-game-hacking-notes.html"/>
-        <updated>2024-12-17T17:41:40.574Z</updated>
+        <updated>2024-12-18T05:41:24.407Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 10, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
@@ -211,7 +211,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Ascension } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2024/04/30/htb-ascension.html</id>
         <link href="https://snovvcrash.rocks/2024/04/30/htb-ascension.html"/>
-        <updated>2024-12-17T17:41:40.582Z</updated>
+        <updated>2024-12-18T05:41:24.407Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 30, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">26 minutes to read </span>
@@ -229,7 +229,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Python ❤️ SSPI: Teaching Impacket to Respect Windows SSO (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2024/04/30/impacket-sspi.html</id>
         <link href="https://snovvcrash.rocks/2024/04/30/impacket-sspi.html"/>
-        <updated>2024-12-17T17:41:40.582Z</updated>
+        <updated>2024-12-18T05:41:24.407Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 30, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">10 minutes to read </span>
@@ -248,7 +248,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Змеиная пирамида. Запускаем малварь из слепой зоны EDR (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2023/04/05/python-pyramid.html</id>
         <link href="https://snovvcrash.rocks/2023/04/05/python-pyramid.html"/>
-        <updated>2024-12-17T17:41:40.582Z</updated>
+        <updated>2024-12-18T05:41:24.412Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 5, 2023</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">31 minutes to read </span>
@@ -267,7 +267,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Adopting Position Independent Shellcodes from Object Files in Memory for Threadless Injection (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2023/02/14/pic-generation-for-threadless-injection.html</id>
         <link href="https://snovvcrash.rocks/2023/02/14/pic-generation-for-threadless-injection.html"/>
-        <updated>2024-12-17T17:41:40.584Z</updated>
+        <updated>2024-12-18T05:41:24.412Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Feb 14, 2023</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">9 minutes to read </span>
@@ -285,7 +285,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[УдаленнаяКартошка0. Повышаем привилегии в AD через кросс-протокольную атаку NTLM Relay (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2022/12/30/remote-potato-0.html</id>
         <link href="https://snovvcrash.rocks/2022/12/30/remote-potato-0.html"/>
-        <updated>2024-12-17T17:41:40.584Z</updated>
+        <updated>2024-12-18T05:41:24.412Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 30, 2022</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">22 minutes to read </span>
@@ -304,7 +304,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Флуктуация шелл-кода. Пишем инжектор для динамического шифрования полезной нагрузки в памяти (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2022/08/07/shellcode-fluctuation.html</id>
         <link href="https://snovvcrash.rocks/2022/08/07/shellcode-fluctuation.html"/>
-        <updated>2024-12-17T17:41:40.584Z</updated>
+        <updated>2024-12-18T05:41:24.416Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 7, 2022</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">31 minutes to read </span>
@@ -323,7 +323,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Вызов мастеру ключей. Инжектим шеллкод в память KeePass, обойдя антивирус (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2022/06/01/keethief-syscalls.html</id>
         <link href="https://snovvcrash.rocks/2022/06/01/keethief-syscalls.html"/>
-        <updated>2024-12-17T17:41:40.585Z</updated>
+        <updated>2024-12-18T05:41:24.416Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Jun 1, 2022</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">41 minutes to read </span>
@@ -342,7 +342,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Abusing Kerberos Constrained Delegation without Protocol Transition (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html</id>
         <link href="https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html"/>
-        <updated>2024-12-17T17:41:40.586Z</updated>
+        <updated>2024-12-18T05:41:24.416Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Mar 6, 2022</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">3 minutes to read </span>
@@ -360,7 +360,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ RPG } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2021/08/07/htb-rpg.html</id>
         <link href="https://snovvcrash.rocks/2021/08/07/htb-rpg.html"/>
-        <updated>2024-12-17T17:41:40.588Z</updated>
+        <updated>2024-12-18T05:41:24.416Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 7, 2021</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">23 minutes to read </span>
@@ -378,7 +378,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Leveraging PrintNightmare to Abuse RBCD and DCSync the Domain (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2021/06/30/leveraging-printnightmare-to-abuse-rbcd.html</id>
         <link href="https://snovvcrash.rocks/2021/06/30/leveraging-printnightmare-to-abuse-rbcd.html"/>
-        <updated>2024-12-17T17:41:40.589Z</updated>
+        <updated>2024-12-18T05:41:24.416Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Jun 30, 2021</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">7 minutes to read </span>
@@ -396,7 +396,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[A Note on Calculating Kerberos Keys for AD Accounts (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2021/05/21/calculating-kerberos-keys.html</id>
         <link href="https://snovvcrash.rocks/2021/05/21/calculating-kerberos-keys.html"/>
-        <updated>2024-12-17T17:41:40.592Z</updated>
+        <updated>2024-12-18T05:41:24.417Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 21, 2021</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">4 minutes to read </span>
@@ -414,7 +414,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Exploiting CVE-2020-10977 on Old Versions of GitLab CE/EE (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2021/02/21/exploiting-cve-2020-10977-on-old-gitlab.html</id>
         <link href="https://snovvcrash.rocks/2021/02/21/exploiting-cve-2020-10977-on-old-gitlab.html"/>
-        <updated>2024-12-17T17:41:40.592Z</updated>
+        <updated>2024-12-18T05:41:24.417Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Feb 21, 2021</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">14 minutes to read </span>
@@ -432,7 +432,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Hades } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/12/28/htb-hades.html</id>
         <link href="https://snovvcrash.rocks/2020/12/28/htb-hades.html"/>
-        <updated>2024-12-17T17:41:40.594Z</updated>
+        <updated>2024-12-18T05:41:24.417Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 28, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">52 minutes to read </span>
@@ -450,7 +450,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Pretending to Be smbpasswd with impacket (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/10/31/pretending-to-be-smbpasswd-with-impacket.html</id>
         <link href="https://snovvcrash.rocks/2020/10/31/pretending-to-be-smbpasswd-with-impacket.html"/>
-        <updated>2024-12-17T17:41:40.595Z</updated>
+        <updated>2024-12-18T05:41:24.423Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 31, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">5 minutes to read </span>
@@ -468,7 +468,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Blind SSRF with Oracle WebLogic Deserialization (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/09/26/blind-ssrf-with-oracle-weblogic-deserialization.html</id>
         <link href="https://snovvcrash.rocks/2020/09/26/blind-ssrf-with-oracle-weblogic-deserialization.html"/>
-        <updated>2024-12-17T17:41:40.596Z</updated>
+        <updated>2024-12-18T05:41:24.423Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 26, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">6 minutes to read </span>
@@ -486,7 +486,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Playing with HTB{ Multimaster } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/09/19/htb-multimaster-notes.html</id>
         <link href="https://snovvcrash.rocks/2020/09/19/htb-multimaster-notes.html"/>
-        <updated>2024-12-17T17:41:40.598Z</updated>
+        <updated>2024-12-18T05:41:24.423Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 19, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">6 minutes to read </span>
@@ -504,7 +504,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Tuning PEAS for Fun and Profit (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/08/22/tuning-peas-for-fun-and-profit.html</id>
         <link href="https://snovvcrash.rocks/2020/08/22/tuning-peas-for-fun-and-profit.html"/>
-        <updated>2024-12-17T17:41:40.599Z</updated>
+        <updated>2024-12-18T05:41:24.425Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 22, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">8 minutes to read </span>
@@ -522,7 +522,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Playing with HTB{ Patents } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/05/16/htb-patents-notes.html</id>
         <link href="https://snovvcrash.rocks/2020/05/16/htb-patents-notes.html"/>
-        <updated>2024-12-17T17:41:40.601Z</updated>
+        <updated>2024-12-18T05:41:24.427Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 16, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">6 minutes to read </span>
@@ -540,7 +540,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[О дотфайлах, персонализации и Kali (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/05/13/dotfiles-and-personalization.html</id>
         <link href="https://snovvcrash.rocks/2020/05/13/dotfiles-and-personalization.html"/>
-        <updated>2024-12-17T17:41:40.602Z</updated>
+        <updated>2024-12-18T05:41:24.428Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 13, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">10 minutes to read </span>
@@ -559,7 +559,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Об обнаружении субдоменов (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/05/10/subdomain-discovery.html</id>
         <link href="https://snovvcrash.rocks/2020/05/10/subdomain-discovery.html"/>
-        <updated>2024-12-17T17:41:40.603Z</updated>
+        <updated>2024-12-18T05:41:24.430Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 10, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">8 minutes to read </span>
@@ -577,7 +577,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Reddish } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/03/17/htb-reddish.html</id>
         <link href="https://snovvcrash.rocks/2020/03/17/htb-reddish.html"/>
-        <updated>2024-12-17T17:41:40.606Z</updated>
+        <updated>2024-12-18T05:41:24.431Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Mar 17, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">31 minutes to read </span>
@@ -596,7 +596,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Granny💔Grandpa } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2020/01/26/htb-grandparents.html</id>
         <link href="https://snovvcrash.rocks/2020/01/26/htb-grandparents.html"/>
-        <updated>2024-12-17T17:41:40.606Z</updated>
+        <updated>2024-12-18T05:41:24.433Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Jan 26, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">22 minutes to read </span>
@@ -615,7 +615,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[В королевстве PWN. Return-to-bss, криптооракулы и реверс-инжиниринг против Великого Сокрушителя (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2019/12/20/htb-smasher.html</id>
         <link href="https://snovvcrash.rocks/2019/12/20/htb-smasher.html"/>
-        <updated>2024-12-17T17:41:40.608Z</updated>
+        <updated>2024-12-18T05:41:24.434Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 20, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">43 minutes to read </span>
@@ -634,7 +634,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[В королевстве PWN. ROP-цепочки и атака Return-to-PLT в CTF Bitterman (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2019/11/23/bitterman.html</id>
         <link href="https://snovvcrash.rocks/2019/11/23/bitterman.html"/>
-        <updated>2024-12-17T17:41:40.609Z</updated>
+        <updated>2024-12-18T05:41:24.439Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 23, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">38 minutes to read </span>
@@ -653,7 +653,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[В королевстве PWN. Обходим DEP и брутфорсим ASLR в «Октябре» (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2019/11/08/htb-october.html</id>
         <link href="https://snovvcrash.rocks/2019/11/08/htb-october.html"/>
-        <updated>2024-12-17T17:41:40.610Z</updated>
+        <updated>2024-12-18T05:41:24.440Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 8, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">20 minutes to read </span>
@@ -672,7 +672,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[В королевстве PWN. Препарируем классику переполнения стека (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2019/10/20/classic-stack-overflow.html</id>
         <link href="https://snovvcrash.rocks/2019/10/20/classic-stack-overflow.html"/>
-        <updated>2024-12-17T17:41:40.611Z</updated>
+        <updated>2024-12-18T05:41:24.441Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 20, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">35 minutes to read </span>
@@ -691,7 +691,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ CTF } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2019/09/20/htb-ctf.html</id>
         <link href="https://snovvcrash.rocks/2019/09/20/htb-ctf.html"/>
-        <updated>2024-12-17T17:41:40.613Z</updated>
+        <updated>2024-12-18T05:41:24.443Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 20, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">33 minutes to read </span>
@@ -710,7 +710,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ SecNotes } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2019/04/05/htb-secnotes.html</id>
         <link href="https://snovvcrash.rocks/2019/04/05/htb-secnotes.html"/>
-        <updated>2024-12-17T17:41:40.615Z</updated>
+        <updated>2024-12-18T05:41:24.445Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 5, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
@@ -728,7 +728,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Mischief } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2019/04/05/htb-mischief.html</id>
         <link href="https://snovvcrash.rocks/2019/04/05/htb-mischief.html"/>
-        <updated>2024-12-17T17:41:40.616Z</updated>
+        <updated>2024-12-18T05:41:24.446Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 5, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">36 minutes to read </span>
@@ -747,7 +747,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Waldo } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/12/29/htb-waldo.html</id>
         <link href="https://snovvcrash.rocks/2018/12/29/htb-waldo.html"/>
-        <updated>2024-12-17T17:41:40.617Z</updated>
+        <updated>2024-12-18T05:41:24.447Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 29, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">20 minutes to read </span>
@@ -765,7 +765,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Active } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/12/17/htb-active.html</id>
         <link href="https://snovvcrash.rocks/2018/12/17/htb-active.html"/>
-        <updated>2024-12-17T17:41:40.618Z</updated>
+        <updated>2024-12-18T05:41:24.449Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 17, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">24 minutes to read </span>
@@ -784,7 +784,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Hawk } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/12/09/htb-hawk.html</id>
         <link href="https://snovvcrash.rocks/2018/12/09/htb-hawk.html"/>
-        <updated>2024-12-17T17:41:40.620Z</updated>
+        <updated>2024-12-18T05:41:24.450Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 9, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">14 minutes to read </span>
@@ -802,7 +802,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Jerry } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/11/20/htb-jerry.html</id>
         <link href="https://snovvcrash.rocks/2018/11/20/htb-jerry.html"/>
-        <updated>2024-12-17T17:41:40.621Z</updated>
+        <updated>2024-12-18T05:41:24.451Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 20, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">14 minutes to read </span>
@@ -820,7 +820,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Bounty } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/11/10/htb-bounty.html</id>
         <link href="https://snovvcrash.rocks/2018/11/10/htb-bounty.html"/>
-        <updated>2024-12-17T17:41:40.622Z</updated>
+        <updated>2024-12-18T05:41:24.454Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 10, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">16 minutes to read </span>
@@ -838,7 +838,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ TartarSauce } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/11/02/htb-tartarsauce.html</id>
         <link href="https://snovvcrash.rocks/2018/11/02/htb-tartarsauce.html"/>
-        <updated>2024-12-17T17:41:40.624Z</updated>
+        <updated>2024-12-18T05:41:24.455Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 2, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">26 minutes to read </span>
@@ -856,7 +856,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ DevOops } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/10/22/htb-devoops.html</id>
         <link href="https://snovvcrash.rocks/2018/10/22/htb-devoops.html"/>
-        <updated>2024-12-17T17:41:40.625Z</updated>
+        <updated>2024-12-18T05:41:24.456Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 22, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">22 minutes to read </span>
@@ -874,7 +874,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Об HTTP-серверах для трансфера файлов в Linux (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/10/11/simple-http-servers.html</id>
         <link href="https://snovvcrash.rocks/2018/10/11/simple-http-servers.html"/>
-        <updated>2024-12-17T17:41:40.626Z</updated>
+        <updated>2024-12-18T05:41:24.458Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 11, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">5 minutes to read </span>
@@ -892,7 +892,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Sunday } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/10/09/htb-sunday.html</id>
         <link href="https://snovvcrash.rocks/2018/10/09/htb-sunday.html"/>
-        <updated>2024-12-17T17:41:40.628Z</updated>
+        <updated>2024-12-18T05:41:24.459Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 9, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">23 minutes to read </span>
@@ -910,7 +910,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Olympus } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/10/03/htb-olympus.html</id>
         <link href="https://snovvcrash.rocks/2018/10/03/htb-olympus.html"/>
-        <updated>2024-12-17T17:41:40.629Z</updated>
+        <updated>2024-12-18T05:41:24.461Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 3, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
@@ -928,7 +928,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Canape } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/09/28/htb-canape.html</id>
         <link href="https://snovvcrash.rocks/2018/09/28/htb-canape.html"/>
-        <updated>2024-12-17T17:41:40.630Z</updated>
+        <updated>2024-12-18T05:41:24.462Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 28, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">25 minutes to read </span>
@@ -946,7 +946,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Poison } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/09/16/htb-poison.html</id>
         <link href="https://snovvcrash.rocks/2018/09/16/htb-poison.html"/>
-        <updated>2024-12-17T17:41:40.633Z</updated>
+        <updated>2024-12-18T05:41:24.463Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 16, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">12 minutes to read </span>
@@ -964,7 +964,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Stratosphere } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/09/05/htb-stratoshpere.html</id>
         <link href="https://snovvcrash.rocks/2018/09/05/htb-stratoshpere.html"/>
-        <updated>2024-12-17T17:41:40.634Z</updated>
+        <updated>2024-12-18T05:41:24.465Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 5, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
@@ -983,7 +983,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Celestial } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/08/25/htb-celestial.html</id>
         <link href="https://snovvcrash.rocks/2018/08/25/htb-celestial.html"/>
-        <updated>2024-12-17T17:41:40.635Z</updated>
+        <updated>2024-12-18T05:41:24.466Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 25, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">14 minutes to read </span>
@@ -1001,7 +1001,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[HTB{ Valentine } (snovvcrash)]]></title>
         <id>https://snovvcrash.rocks/2018/08/14/htb-valentine.html</id>
         <link href="https://snovvcrash.rocks/2018/08/14/htb-valentine.html"/>
-        <updated>2024-12-17T17:41:40.636Z</updated>
+        <updated>2024-12-18T05:41:24.467Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 14, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
