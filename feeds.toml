@@ -27,3 +27,10 @@ url = "https://snovvcrash.rocks/"
 entrySelector = "ul.post-list > li.post-list-li"
 titleSelector = "a.post-link"
 linkSelector = "a.post-link"
+
+[kebingzao_com]
+title = "Zach Ke's Notes"
+url = "https://kebingzao.com/"
+entrySelector = "article.post > div.post-block"
+titleSelector = "a.post-title-link"
+linkSelector = "a.post-title-link"
