@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kebingzao.com/</id>
     <title>Zach Ke's Notes</title>
-    <updated>2025-02-05T05:40:22.883Z</updated>
+    <updated>2025-02-05T17:39:02.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://kebingzao.com/images/favicon-32x32-next.png?v=5.1.4</icon>
     <entry>
         <title type="html"><![CDATA[浅谈 - 数据库开发规范 & 最佳实践]]></title>
         <id>https://kebingzao.com/2024/04/30/db-best-practices/</id>
         <link href="https://kebingzao.com/2024/04/30/db-best-practices/"/>
-        <updated>2025-02-05T05:40:21.237Z</updated>
+        <updated>2025-02-05T17:39:01.377Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/04/30/db-best-practices/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -172,7 +172,7 @@
         <title type="html"><![CDATA[prometheus + grafana 实战篇(4) - 使用计划任务主动抛送到 pushgateway]]></title>
         <id>https://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/</id>
         <link href="https://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/"/>
-        <updated>2025-02-05T05:40:21.238Z</updated>
+        <updated>2025-02-05T17:39:01.378Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -337,7 +337,7 @@
         <title type="html"><![CDATA[prometheus + grafana 实战篇(3) - 使用 mtail 采集程序日志]]></title>
         <id>https://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/</id>
         <link href="https://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/"/>
-        <updated>2025-02-05T05:40:21.238Z</updated>
+        <updated>2025-02-05T17:39:01.381Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -504,7 +504,7 @@
         <title type="html"><![CDATA[使用签名算法来作为微服务内部调用或者开放 API 的请求权限验证]]></title>
         <id>https://kebingzao.com/2023/11/30/sig-auth/</id>
         <link href="https://kebingzao.com/2023/11/30/sig-auth/"/>
-        <updated>2025-02-05T05:40:21.238Z</updated>
+        <updated>2025-02-05T17:39:01.382Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/30/sig-auth/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -667,7 +667,7 @@
         <title type="html"><![CDATA[php 开启 opcache 来降低负载并提高抗并发能力]]></title>
         <id>https://kebingzao.com/2023/11/21/php-opcache/</id>
         <link href="https://kebingzao.com/2023/11/21/php-opcache/"/>
-        <updated>2025-02-05T05:40:21.242Z</updated>
+        <updated>2025-02-05T17:39:01.383Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/21/php-opcache/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -827,7 +827,7 @@
         <title type="html"><![CDATA[记一次 php-fpm 的配置调优]]></title>
         <id>https://kebingzao.com/2023/11/21/php-fpm-opt/</id>
         <link href="https://kebingzao.com/2023/11/21/php-fpm-opt/"/>
-        <updated>2025-02-05T05:40:21.242Z</updated>
+        <updated>2025-02-05T17:39:01.384Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/21/php-fpm-opt/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -981,7 +981,7 @@
         <title type="html"><![CDATA[浅谈 - 邮件服务最佳实践]]></title>
         <id>https://kebingzao.com/2023/10/19/mail-best-practices/</id>
         <link href="https://kebingzao.com/2023/10/19/mail-best-practices/"/>
-        <updated>2025-02-05T05:40:21.243Z</updated>
+        <updated>2025-02-05T17:39:01.385Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/10/19/mail-best-practices/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1146,7 +1146,7 @@
         <title type="html"><![CDATA[npm 私有库开发和发布规范]]></title>
         <id>https://kebingzao.com/2023/09/21/npm-publish/</id>
         <link href="https://kebingzao.com/2023/09/21/npm-publish/"/>
-        <updated>2025-02-05T05:40:21.246Z</updated>
+        <updated>2025-02-05T17:39:01.388Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/09/21/npm-publish/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1315,7 +1315,7 @@
         <title type="html"><![CDATA[使用 verdaccio 搭建前端内部私有 npm 仓库]]></title>
         <id>https://kebingzao.com/2023/09/19/npm-verdaccio/</id>
         <link href="https://kebingzao.com/2023/09/19/npm-verdaccio/"/>
-        <updated>2025-02-05T05:40:21.247Z</updated>
+        <updated>2025-02-05T17:39:01.389Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/09/19/npm-verdaccio/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1483,7 +1483,7 @@
         <title type="html"><![CDATA[记一次大陆地区 VerneMQ 出现部分证书校验失败的情况]]></title>
         <id>https://kebingzao.com/2023/08/25/vernemq-ssl-err/</id>
         <link href="https://kebingzao.com/2023/08/25/vernemq-ssl-err/"/>
-        <updated>2025-02-05T05:40:21.248Z</updated>
+        <updated>2025-02-05T17:39:01.391Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/08/25/vernemq-ssl-err/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1644,7 +1644,7 @@
         <title type="html"><![CDATA[chatgpt 使用过程中常用的 prompt]]></title>
         <id>https://kebingzao.com/2023/05/31/gpt-use-prompt/</id>
         <link href="https://kebingzao.com/2023/05/31/gpt-use-prompt/"/>
-        <updated>2025-02-05T05:40:21.250Z</updated>
+        <updated>2025-02-05T17:39:01.393Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/05/31/gpt-use-prompt/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1803,7 +1803,7 @@
         <title type="html"><![CDATA[web 安全之 - 使用 proxy 请求页面来绕过 X-Frame-Options 机制]]></title>
         <id>https://kebingzao.com/2023/02/03/web-bypass-x-frame-options/</id>
         <link href="https://kebingzao.com/2023/02/03/web-bypass-x-frame-options/"/>
-        <updated>2025-02-05T05:40:21.252Z</updated>
+        <updated>2025-02-05T17:39:01.394Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/02/03/web-bypass-x-frame-options/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1965,7 +1965,7 @@
         <title type="html"><![CDATA[后端开发针对 aws 用户权限进行细分和设置 ip 白名单]]></title>
         <id>https://kebingzao.com/2023/01/18/aws-policy-deny-ip/</id>
         <link href="https://kebingzao.com/2023/01/18/aws-policy-deny-ip/"/>
-        <updated>2025-02-05T05:40:21.256Z</updated>
+        <updated>2025-02-05T17:39:01.396Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/01/18/aws-policy-deny-ip/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2131,7 +2131,7 @@
         <title type="html"><![CDATA[prometheus + grafana 实战篇(2) - nginx]]></title>
         <id>https://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/</id>
         <link href="https://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/"/>
-        <updated>2025-02-05T05:40:21.258Z</updated>
+        <updated>2025-02-05T17:39:01.397Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2291,7 +2291,7 @@
         <title type="html"><![CDATA[prometheus + grafana 实战篇(1) - 定义标签组和规范]]></title>
         <id>https://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/</id>
         <link href="https://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/"/>
-        <updated>2025-02-05T05:40:21.260Z</updated>
+        <updated>2025-02-05T17:39:01.399Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2455,7 +2455,7 @@
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (10) - 服务发现(基于文件和基于 http 端点)]]></title>
         <id>https://kebingzao.com/2022/12/14/prometheus-10-sd/</id>
         <link href="https://kebingzao.com/2022/12/14/prometheus-10-sd/"/>
-        <updated>2025-02-05T05:40:21.261Z</updated>
+        <updated>2025-02-05T17:39:01.400Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/14/prometheus-10-sd/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2613,7 +2613,7 @@
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (9) - 借助 pushgateway 主动 push 数据]]></title>
         <id>https://kebingzao.com/2022/12/14/prometheus-9-push/</id>
         <link href="https://kebingzao.com/2022/12/14/prometheus-9-push/"/>
-        <updated>2025-02-05T05:40:21.265Z</updated>
+        <updated>2025-02-05T17:39:01.402Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/14/prometheus-9-push/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2776,7 +2776,7 @@
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (8) - 业务程序自定义添加指标]]></title>
         <id>https://kebingzao.com/2022/12/12/prometheus-8-customize/</id>
         <link href="https://kebingzao.com/2022/12/12/prometheus-8-customize/"/>
-        <updated>2025-02-05T05:40:21.270Z</updated>
+        <updated>2025-02-05T17:39:01.408Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/12/prometheus-8-customize/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2934,7 +2934,7 @@
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (7) - grafana 后台创建警报]]></title>
         <id>https://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/</id>
         <link href="https://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/"/>
-        <updated>2025-02-05T05:40:21.270Z</updated>
+        <updated>2025-02-05T17:39:01.409Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3091,7 +3091,7 @@
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (6) - 记录规则(recording rule)]]></title>
         <id>https://kebingzao.com/2022/12/07/prometheus-6-record-rule/</id>
         <link href="https://kebingzao.com/2022/12/07/prometheus-6-record-rule/"/>
-        <updated>2025-02-05T05:40:21.270Z</updated>
+        <updated>2025-02-05T17:39:01.409Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/07/prometheus-6-record-rule/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
