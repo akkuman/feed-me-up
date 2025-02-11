@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://snovvcrash.rocks/</id>
     <title>snovvcrash</title>
-    <updated>2025-02-11T05:40:00.872Z</updated>
+    <updated>2025-02-11T17:39:35.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://snovvcrash.rocks/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[On the Applicability of the Timeroasting Attack]]></title>
         <id>https://snovvcrash.rocks/2024/12/08/applicability-of-the-timeroasting-attack.html</id>
         <link href="https://snovvcrash.rocks/2024/12/08/applicability-of-the-timeroasting-attack.html"/>
-        <updated>2025-02-11T05:39:56.399Z</updated>
+        <updated>2025-02-11T17:39:31.103Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 8, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">38 minutes to read </span>
@@ -27,7 +27,7 @@
         <title type="html"><![CDATA[Abuse VS Code Installation for LPE on macOS [Pentest Awards 2023]]]></title>
         <id>https://snovvcrash.rocks/2024/05/19/vs-code-lpe-macos.html</id>
         <link href="https://snovvcrash.rocks/2024/05/19/vs-code-lpe-macos.html"/>
-        <updated>2025-02-11T05:39:56.399Z</updated>
+        <updated>2025-02-11T17:39:31.103Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 19, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">5 minutes to read </span>
@@ -46,7 +46,7 @@
         <title type="html"><![CDATA[From DLL Side Load to Malicious SSP [Pentest Awards 2023]]]></title>
         <id>https://snovvcrash.rocks/2024/05/19/from-dll-side-load-to-malicious-ssp.html</id>
         <link href="https://snovvcrash.rocks/2024/05/19/from-dll-side-load-to-malicious-ssp.html"/>
-        <updated>2025-02-11T05:39:56.399Z</updated>
+        <updated>2025-02-11T17:39:31.117Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 19, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">8 minutes to read </span>
@@ -65,7 +65,7 @@
         <title type="html"><![CDATA[Newbie's Game Hacking Notes (ft. Turbo Overkill)]]></title>
         <id>https://snovvcrash.rocks/2024/05/10/newbies-game-hacking-notes.html</id>
         <link href="https://snovvcrash.rocks/2024/05/10/newbies-game-hacking-notes.html"/>
-        <updated>2025-02-11T05:39:56.399Z</updated>
+        <updated>2025-02-11T17:39:31.117Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 10, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
@@ -83,7 +83,7 @@
         <title type="html"><![CDATA[HTB{ Ascension }]]></title>
         <id>https://snovvcrash.rocks/2024/04/30/htb-ascension.html</id>
         <link href="https://snovvcrash.rocks/2024/04/30/htb-ascension.html"/>
-        <updated>2025-02-11T05:39:56.399Z</updated>
+        <updated>2025-02-11T17:39:31.117Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 30, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">26 minutes to read </span>
@@ -101,7 +101,7 @@
         <title type="html"><![CDATA[Python ❤️ SSPI: Teaching Impacket to Respect Windows SSO]]></title>
         <id>https://snovvcrash.rocks/2024/04/30/impacket-sspi.html</id>
         <link href="https://snovvcrash.rocks/2024/04/30/impacket-sspi.html"/>
-        <updated>2025-02-11T05:39:56.399Z</updated>
+        <updated>2025-02-11T17:39:31.117Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 30, 2024</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">10 minutes to read </span>
@@ -120,7 +120,7 @@
         <title type="html"><![CDATA[Змеиная пирамида. Запускаем малварь из слепой зоны EDR]]></title>
         <id>https://snovvcrash.rocks/2023/04/05/python-pyramid.html</id>
         <link href="https://snovvcrash.rocks/2023/04/05/python-pyramid.html"/>
-        <updated>2025-02-11T05:39:56.399Z</updated>
+        <updated>2025-02-11T17:39:31.126Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 5, 2023</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">31 minutes to read </span>
@@ -139,7 +139,7 @@
         <title type="html"><![CDATA[Adopting Position Independent Shellcodes from Object Files in Memory for Threadless Injection]]></title>
         <id>https://snovvcrash.rocks/2023/02/14/pic-generation-for-threadless-injection.html</id>
         <link href="https://snovvcrash.rocks/2023/02/14/pic-generation-for-threadless-injection.html"/>
-        <updated>2025-02-11T05:39:56.399Z</updated>
+        <updated>2025-02-11T17:39:31.127Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Feb 14, 2023</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">9 minutes to read </span>
@@ -157,7 +157,7 @@
         <title type="html"><![CDATA[УдаленнаяКартошка0. Повышаем привилегии в AD через кросс-протокольную атаку NTLM Relay]]></title>
         <id>https://snovvcrash.rocks/2022/12/30/remote-potato-0.html</id>
         <link href="https://snovvcrash.rocks/2022/12/30/remote-potato-0.html"/>
-        <updated>2025-02-11T05:39:56.400Z</updated>
+        <updated>2025-02-11T17:39:31.127Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 30, 2022</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">22 minutes to read </span>
@@ -176,7 +176,7 @@
         <title type="html"><![CDATA[Флуктуация шелл-кода. Пишем инжектор для динамического шифрования полезной нагрузки в памяти]]></title>
         <id>https://snovvcrash.rocks/2022/08/07/shellcode-fluctuation.html</id>
         <link href="https://snovvcrash.rocks/2022/08/07/shellcode-fluctuation.html"/>
-        <updated>2025-02-11T05:39:56.400Z</updated>
+        <updated>2025-02-11T17:39:31.128Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 7, 2022</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">31 minutes to read </span>
@@ -195,7 +195,7 @@
         <title type="html"><![CDATA[Вызов мастеру ключей. Инжектим шеллкод в память KeePass, обойдя антивирус]]></title>
         <id>https://snovvcrash.rocks/2022/06/01/keethief-syscalls.html</id>
         <link href="https://snovvcrash.rocks/2022/06/01/keethief-syscalls.html"/>
-        <updated>2025-02-11T05:39:56.400Z</updated>
+        <updated>2025-02-11T17:39:31.128Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Jun 1, 2022</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">41 minutes to read </span>
@@ -214,7 +214,7 @@
         <title type="html"><![CDATA[Abusing Kerberos Constrained Delegation without Protocol Transition]]></title>
         <id>https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html</id>
         <link href="https://snovvcrash.rocks/2022/03/06/abusing-kcd-without-protocol-transition.html"/>
-        <updated>2025-02-11T05:39:56.400Z</updated>
+        <updated>2025-02-11T17:39:31.128Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Mar 6, 2022</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">3 minutes to read </span>
@@ -232,7 +232,7 @@
         <title type="html"><![CDATA[HTB{ RPG }]]></title>
         <id>https://snovvcrash.rocks/2021/08/07/htb-rpg.html</id>
         <link href="https://snovvcrash.rocks/2021/08/07/htb-rpg.html"/>
-        <updated>2025-02-11T05:39:56.400Z</updated>
+        <updated>2025-02-11T17:39:31.128Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 7, 2021</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">23 minutes to read </span>
@@ -250,7 +250,7 @@
         <title type="html"><![CDATA[Leveraging PrintNightmare to Abuse RBCD and DCSync the Domain]]></title>
         <id>https://snovvcrash.rocks/2021/06/30/leveraging-printnightmare-to-abuse-rbcd.html</id>
         <link href="https://snovvcrash.rocks/2021/06/30/leveraging-printnightmare-to-abuse-rbcd.html"/>
-        <updated>2025-02-11T05:39:56.400Z</updated>
+        <updated>2025-02-11T17:39:31.128Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Jun 30, 2021</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">7 minutes to read </span>
@@ -268,7 +268,7 @@
         <title type="html"><![CDATA[A Note on Calculating Kerberos Keys for AD Accounts]]></title>
         <id>https://snovvcrash.rocks/2021/05/21/calculating-kerberos-keys.html</id>
         <link href="https://snovvcrash.rocks/2021/05/21/calculating-kerberos-keys.html"/>
-        <updated>2025-02-11T05:39:56.400Z</updated>
+        <updated>2025-02-11T17:39:31.128Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 21, 2021</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">4 minutes to read </span>
@@ -286,7 +286,7 @@
         <title type="html"><![CDATA[Exploiting CVE-2020-10977 on Old Versions of GitLab CE/EE]]></title>
         <id>https://snovvcrash.rocks/2021/02/21/exploiting-cve-2020-10977-on-old-gitlab.html</id>
         <link href="https://snovvcrash.rocks/2021/02/21/exploiting-cve-2020-10977-on-old-gitlab.html"/>
-        <updated>2025-02-11T05:39:56.402Z</updated>
+        <updated>2025-02-11T17:39:31.128Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Feb 21, 2021</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">14 minutes to read </span>
@@ -304,7 +304,7 @@
         <title type="html"><![CDATA[HTB{ Hades }]]></title>
         <id>https://snovvcrash.rocks/2020/12/28/htb-hades.html</id>
         <link href="https://snovvcrash.rocks/2020/12/28/htb-hades.html"/>
-        <updated>2025-02-11T05:39:56.404Z</updated>
+        <updated>2025-02-11T17:39:31.130Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 28, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">52 minutes to read </span>
@@ -322,7 +322,7 @@
         <title type="html"><![CDATA[Pretending to Be smbpasswd with impacket]]></title>
         <id>https://snovvcrash.rocks/2020/10/31/pretending-to-be-smbpasswd-with-impacket.html</id>
         <link href="https://snovvcrash.rocks/2020/10/31/pretending-to-be-smbpasswd-with-impacket.html"/>
-        <updated>2025-02-11T05:39:56.405Z</updated>
+        <updated>2025-02-11T17:39:31.131Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 31, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">5 minutes to read </span>
@@ -340,7 +340,7 @@
         <title type="html"><![CDATA[Blind SSRF with Oracle WebLogic Deserialization]]></title>
         <id>https://snovvcrash.rocks/2020/09/26/blind-ssrf-with-oracle-weblogic-deserialization.html</id>
         <link href="https://snovvcrash.rocks/2020/09/26/blind-ssrf-with-oracle-weblogic-deserialization.html"/>
-        <updated>2025-02-11T05:39:56.407Z</updated>
+        <updated>2025-02-11T17:39:31.133Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 26, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">6 minutes to read </span>
@@ -358,7 +358,7 @@
         <title type="html"><![CDATA[Playing with HTB{ Multimaster }]]></title>
         <id>https://snovvcrash.rocks/2020/09/19/htb-multimaster-notes.html</id>
         <link href="https://snovvcrash.rocks/2020/09/19/htb-multimaster-notes.html"/>
-        <updated>2025-02-11T05:39:56.409Z</updated>
+        <updated>2025-02-11T17:39:31.135Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 19, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">6 minutes to read </span>
@@ -376,7 +376,7 @@
         <title type="html"><![CDATA[Tuning PEAS for Fun and Profit]]></title>
         <id>https://snovvcrash.rocks/2020/08/22/tuning-peas-for-fun-and-profit.html</id>
         <link href="https://snovvcrash.rocks/2020/08/22/tuning-peas-for-fun-and-profit.html"/>
-        <updated>2025-02-11T05:39:56.410Z</updated>
+        <updated>2025-02-11T17:39:31.136Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 22, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">8 minutes to read </span>
@@ -394,7 +394,7 @@
         <title type="html"><![CDATA[Playing with HTB{ Patents }]]></title>
         <id>https://snovvcrash.rocks/2020/05/16/htb-patents-notes.html</id>
         <link href="https://snovvcrash.rocks/2020/05/16/htb-patents-notes.html"/>
-        <updated>2025-02-11T05:39:56.411Z</updated>
+        <updated>2025-02-11T17:39:31.138Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 16, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">6 minutes to read </span>
@@ -412,7 +412,7 @@
         <title type="html"><![CDATA[О дотфайлах, персонализации и Kali]]></title>
         <id>https://snovvcrash.rocks/2020/05/13/dotfiles-and-personalization.html</id>
         <link href="https://snovvcrash.rocks/2020/05/13/dotfiles-and-personalization.html"/>
-        <updated>2025-02-11T05:39:56.414Z</updated>
+        <updated>2025-02-11T17:39:31.140Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 13, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">10 minutes to read </span>
@@ -431,7 +431,7 @@
         <title type="html"><![CDATA[Об обнаружении субдоменов]]></title>
         <id>https://snovvcrash.rocks/2020/05/10/subdomain-discovery.html</id>
         <link href="https://snovvcrash.rocks/2020/05/10/subdomain-discovery.html"/>
-        <updated>2025-02-11T05:39:56.420Z</updated>
+        <updated>2025-02-11T17:39:31.148Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">May 10, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">8 minutes to read </span>
@@ -449,7 +449,7 @@
         <title type="html"><![CDATA[HTB{ Reddish }]]></title>
         <id>https://snovvcrash.rocks/2020/03/17/htb-reddish.html</id>
         <link href="https://snovvcrash.rocks/2020/03/17/htb-reddish.html"/>
-        <updated>2025-02-11T05:39:56.421Z</updated>
+        <updated>2025-02-11T17:39:31.148Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Mar 17, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">31 minutes to read </span>
@@ -468,7 +468,7 @@
         <title type="html"><![CDATA[HTB{ Granny💔Grandpa }]]></title>
         <id>https://snovvcrash.rocks/2020/01/26/htb-grandparents.html</id>
         <link href="https://snovvcrash.rocks/2020/01/26/htb-grandparents.html"/>
-        <updated>2025-02-11T05:39:56.424Z</updated>
+        <updated>2025-02-11T17:39:31.148Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Jan 26, 2020</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">22 minutes to read </span>
@@ -487,7 +487,7 @@
         <title type="html"><![CDATA[В королевстве PWN. Return-to-bss, криптооракулы и реверс-инжиниринг против Великого Сокрушителя]]></title>
         <id>https://snovvcrash.rocks/2019/12/20/htb-smasher.html</id>
         <link href="https://snovvcrash.rocks/2019/12/20/htb-smasher.html"/>
-        <updated>2025-02-11T05:39:56.424Z</updated>
+        <updated>2025-02-11T17:39:31.149Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 20, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">43 minutes to read </span>
@@ -506,7 +506,7 @@
         <title type="html"><![CDATA[В королевстве PWN. ROP-цепочки и атака Return-to-PLT в CTF Bitterman]]></title>
         <id>https://snovvcrash.rocks/2019/11/23/bitterman.html</id>
         <link href="https://snovvcrash.rocks/2019/11/23/bitterman.html"/>
-        <updated>2025-02-11T05:39:56.425Z</updated>
+        <updated>2025-02-11T17:39:31.149Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 23, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">38 minutes to read </span>
@@ -525,7 +525,7 @@
         <title type="html"><![CDATA[В королевстве PWN. Обходим DEP и брутфорсим ASLR в «Октябре»]]></title>
         <id>https://snovvcrash.rocks/2019/11/08/htb-october.html</id>
         <link href="https://snovvcrash.rocks/2019/11/08/htb-october.html"/>
-        <updated>2025-02-11T05:39:56.425Z</updated>
+        <updated>2025-02-11T17:39:31.151Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 8, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">20 minutes to read </span>
@@ -544,7 +544,7 @@
         <title type="html"><![CDATA[В королевстве PWN. Препарируем классику переполнения стека]]></title>
         <id>https://snovvcrash.rocks/2019/10/20/classic-stack-overflow.html</id>
         <link href="https://snovvcrash.rocks/2019/10/20/classic-stack-overflow.html"/>
-        <updated>2025-02-11T05:39:56.426Z</updated>
+        <updated>2025-02-11T17:39:31.152Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 20, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">35 minutes to read </span>
@@ -563,7 +563,7 @@
         <title type="html"><![CDATA[HTB{ CTF }]]></title>
         <id>https://snovvcrash.rocks/2019/09/20/htb-ctf.html</id>
         <link href="https://snovvcrash.rocks/2019/09/20/htb-ctf.html"/>
-        <updated>2025-02-11T05:39:56.428Z</updated>
+        <updated>2025-02-11T17:39:31.154Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 20, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">33 minutes to read </span>
@@ -582,7 +582,7 @@
         <title type="html"><![CDATA[HTB{ SecNotes }]]></title>
         <id>https://snovvcrash.rocks/2019/04/05/htb-secnotes.html</id>
         <link href="https://snovvcrash.rocks/2019/04/05/htb-secnotes.html"/>
-        <updated>2025-02-11T05:39:56.430Z</updated>
+        <updated>2025-02-11T17:39:31.156Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 5, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
@@ -600,7 +600,7 @@
         <title type="html"><![CDATA[HTB{ Mischief }]]></title>
         <id>https://snovvcrash.rocks/2019/04/05/htb-mischief.html</id>
         <link href="https://snovvcrash.rocks/2019/04/05/htb-mischief.html"/>
-        <updated>2025-02-11T05:39:56.432Z</updated>
+        <updated>2025-02-11T17:39:31.157Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Apr 5, 2019</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">36 minutes to read </span>
@@ -619,7 +619,7 @@
         <title type="html"><![CDATA[HTB{ Waldo }]]></title>
         <id>https://snovvcrash.rocks/2018/12/29/htb-waldo.html</id>
         <link href="https://snovvcrash.rocks/2018/12/29/htb-waldo.html"/>
-        <updated>2025-02-11T05:39:56.433Z</updated>
+        <updated>2025-02-11T17:39:31.158Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 29, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">20 minutes to read </span>
@@ -637,7 +637,7 @@
         <title type="html"><![CDATA[HTB{ Active }]]></title>
         <id>https://snovvcrash.rocks/2018/12/17/htb-active.html</id>
         <link href="https://snovvcrash.rocks/2018/12/17/htb-active.html"/>
-        <updated>2025-02-11T05:39:56.435Z</updated>
+        <updated>2025-02-11T17:39:31.160Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 17, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">24 minutes to read </span>
@@ -656,7 +656,7 @@
         <title type="html"><![CDATA[HTB{ Hawk }]]></title>
         <id>https://snovvcrash.rocks/2018/12/09/htb-hawk.html</id>
         <link href="https://snovvcrash.rocks/2018/12/09/htb-hawk.html"/>
-        <updated>2025-02-11T05:39:56.437Z</updated>
+        <updated>2025-02-11T17:39:31.161Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Dec 9, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">14 minutes to read </span>
@@ -674,7 +674,7 @@
         <title type="html"><![CDATA[HTB{ Jerry }]]></title>
         <id>https://snovvcrash.rocks/2018/11/20/htb-jerry.html</id>
         <link href="https://snovvcrash.rocks/2018/11/20/htb-jerry.html"/>
-        <updated>2025-02-11T05:39:56.439Z</updated>
+        <updated>2025-02-11T17:39:31.162Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 20, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">14 minutes to read </span>
@@ -692,7 +692,7 @@
         <title type="html"><![CDATA[HTB{ Bounty }]]></title>
         <id>https://snovvcrash.rocks/2018/11/10/htb-bounty.html</id>
         <link href="https://snovvcrash.rocks/2018/11/10/htb-bounty.html"/>
-        <updated>2025-02-11T05:39:56.440Z</updated>
+        <updated>2025-02-11T17:39:31.164Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 10, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">16 minutes to read </span>
@@ -710,7 +710,7 @@
         <title type="html"><![CDATA[HTB{ TartarSauce }]]></title>
         <id>https://snovvcrash.rocks/2018/11/02/htb-tartarsauce.html</id>
         <link href="https://snovvcrash.rocks/2018/11/02/htb-tartarsauce.html"/>
-        <updated>2025-02-11T05:39:56.442Z</updated>
+        <updated>2025-02-11T17:39:31.165Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Nov 2, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">26 minutes to read </span>
@@ -728,7 +728,7 @@
         <title type="html"><![CDATA[HTB{ DevOops }]]></title>
         <id>https://snovvcrash.rocks/2018/10/22/htb-devoops.html</id>
         <link href="https://snovvcrash.rocks/2018/10/22/htb-devoops.html"/>
-        <updated>2025-02-11T05:39:56.443Z</updated>
+        <updated>2025-02-11T17:39:31.166Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 22, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">22 minutes to read </span>
@@ -746,7 +746,7 @@
         <title type="html"><![CDATA[Об HTTP-серверах для трансфера файлов в Linux]]></title>
         <id>https://snovvcrash.rocks/2018/10/11/simple-http-servers.html</id>
         <link href="https://snovvcrash.rocks/2018/10/11/simple-http-servers.html"/>
-        <updated>2025-02-11T05:39:56.444Z</updated>
+        <updated>2025-02-11T17:39:31.168Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 11, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">5 minutes to read </span>
@@ -764,7 +764,7 @@
         <title type="html"><![CDATA[HTB{ Sunday }]]></title>
         <id>https://snovvcrash.rocks/2018/10/09/htb-sunday.html</id>
         <link href="https://snovvcrash.rocks/2018/10/09/htb-sunday.html"/>
-        <updated>2025-02-11T05:39:56.445Z</updated>
+        <updated>2025-02-11T17:39:31.169Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 9, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">23 minutes to read </span>
@@ -782,7 +782,7 @@
         <title type="html"><![CDATA[HTB{ Olympus }]]></title>
         <id>https://snovvcrash.rocks/2018/10/03/htb-olympus.html</id>
         <link href="https://snovvcrash.rocks/2018/10/03/htb-olympus.html"/>
-        <updated>2025-02-11T05:39:56.447Z</updated>
+        <updated>2025-02-11T17:39:31.172Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Oct 3, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
@@ -800,7 +800,7 @@
         <title type="html"><![CDATA[HTB{ Canape }]]></title>
         <id>https://snovvcrash.rocks/2018/09/28/htb-canape.html</id>
         <link href="https://snovvcrash.rocks/2018/09/28/htb-canape.html"/>
-        <updated>2025-02-11T05:39:56.448Z</updated>
+        <updated>2025-02-11T17:39:31.173Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 28, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">25 minutes to read </span>
@@ -818,7 +818,7 @@
         <title type="html"><![CDATA[HTB{ Poison }]]></title>
         <id>https://snovvcrash.rocks/2018/09/16/htb-poison.html</id>
         <link href="https://snovvcrash.rocks/2018/09/16/htb-poison.html"/>
-        <updated>2025-02-11T05:39:56.450Z</updated>
+        <updated>2025-02-11T17:39:31.175Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 16, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">12 minutes to read </span>
@@ -836,7 +836,7 @@
         <title type="html"><![CDATA[HTB{ Stratosphere }]]></title>
         <id>https://snovvcrash.rocks/2018/09/05/htb-stratoshpere.html</id>
         <link href="https://snovvcrash.rocks/2018/09/05/htb-stratoshpere.html"/>
-        <updated>2025-02-11T05:39:56.450Z</updated>
+        <updated>2025-02-11T17:39:31.176Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Sep 5, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
@@ -855,7 +855,7 @@
         <title type="html"><![CDATA[HTB{ Celestial }]]></title>
         <id>https://snovvcrash.rocks/2018/08/25/htb-celestial.html</id>
         <link href="https://snovvcrash.rocks/2018/08/25/htb-celestial.html"/>
-        <updated>2025-02-11T05:39:56.452Z</updated>
+        <updated>2025-02-11T17:39:31.178Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 25, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">14 minutes to read </span>
@@ -873,7 +873,7 @@
         <title type="html"><![CDATA[HTB{ Valentine }]]></title>
         <id>https://snovvcrash.rocks/2018/08/14/htb-valentine.html</id>
         <link href="https://snovvcrash.rocks/2018/08/14/htb-valentine.html"/>
-        <updated>2025-02-11T05:39:56.455Z</updated>
+        <updated>2025-02-11T17:39:31.179Z</updated>
         <content type="html"><![CDATA[<span class="post-meta">Aug 14, 2018</span>
         <span class="post-meta">• </span>
         <span class="post-meta time">21 minutes to read </span>
