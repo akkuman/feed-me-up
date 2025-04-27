@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akkuman.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-27T05:41:09.203Z</updated>
+    <updated>2025-04-27T17:39:07.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[一加7 Pro 5G Sprint版（GM1925）刷原生ROM（YAAP）教程 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8554/</id>
         <link href="https://www.daxiaamu.com/8554/"/>
-        <updated>2025-04-27T05:41:02.347Z</updated>
+        <updated>2025-04-27T17:39:01.076Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8554/" class="mdui-text-color-theme ainList"><h1>一加7 Pro 5G Sprint版（GM1925）刷原生ROM（YAAP）教程</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">这台机子比较难搞，在我手头好几年了，第一次给它刷上原生系统，特此记录一下。 这台机子折腾过程 之前有文章研究过这台设备《一加7 Pro 5G GM1925 增量升级失败，手动安装全量包教程》。 这台机子本身到手时是网络锁已经解锁的。写上面文章时搞定了救砖、转国际版、解…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 1,317&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 1,391&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8554/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -21,12 +21,12 @@
         <title type="html"><![CDATA[全球首发 | 一加12 ColorOS/氧OS互刷懒人包（TWRP卡刷方案） (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8547/</id>
         <link href="https://www.daxiaamu.com/8547/"/>
-        <updated>2025-04-27T05:41:02.349Z</updated>
+        <updated>2025-04-27T17:39:01.079Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8547/" class="mdui-text-color-theme ainList"><h1>全球首发 | 一加12 ColorOS/氧OS互刷懒人包（TWRP卡刷方案）</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">之前做了一加11的ColorOS和氧OS的完美互刷懒人包，大家反馈都不错，希望做其他型号的。我手头恰有有一加12，但是一加12的原理有所不同，好在经过一段时间的开发和测试也终于完成了。 方案优势 人人都熟悉的TWRP卡刷操作，避免内心恐惧 安全可靠的TWRP卡刷方案，完全不…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 1,873&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-12&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 1,940&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-12&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8547/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -34,12 +34,12 @@
         <title type="html"><![CDATA[一加8 / 8 Pro ColorOS 14（Android 14）移植版 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8531/</id>
         <link href="https://www.daxiaamu.com/8531/"/>
-        <updated>2025-04-27T05:41:02.353Z</updated>
+        <updated>2025-04-27T17:39:01.081Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8531/" class="mdui-text-color-theme ainList"><h1>一加8 / 8 Pro ColorOS 14（Android 14）移植版</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">说明 一加官方为一加8/8 Pro只提供到最高ColorOS 13.1，基于Android 13的升级。不过现在有人移植了ColorOS14，相比ColorOS 15更加稳定一些 安装教程 fastboot boot (orangefox V20).img In Orangefox recovery&gt;&gt;format data Then go to adb sideload and r…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 903&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-10&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 930&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-10&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8531/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -47,12 +47,12 @@
         <title type="html"><![CDATA[一加8 / 8 Pro ColorOS 15.0.0.701（Android 15）移植版 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8512/</id>
         <link href="https://www.daxiaamu.com/8512/"/>
-        <updated>2025-04-27T05:41:02.355Z</updated>
+        <updated>2025-04-27T17:39:01.082Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8512/" class="mdui-text-color-theme ainList"><h1>一加8 / 8 Pro ColorOS 15.0.0.701（Android 15）移植版</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">说明 一加官方为一加8/8 Pro只提供到最高ColorOS 13.1，基于Android 13的升级。没有办法体会到ColorOS 15的丝滑感受和AI功能。不过现在有网友为一加8 Pro移植了ColorOS 15的系统。 安装教程 fastboot boot (orangefox V20).img In Orangefox recovery&gt;&gt;forma…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 1,865&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-06&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 1,909&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-06&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8512/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -60,12 +60,12 @@
         <title type="html"><![CDATA[一加手机刷氧OS后，如何安装ColorOS的拨号程序 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8498/</id>
         <link href="https://www.daxiaamu.com/8498/"/>
-        <updated>2025-04-27T05:41:02.356Z</updated>
+        <updated>2025-04-27T17:39:01.084Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8498/" class="mdui-text-color-theme ainList"><h1>一加手机刷氧OS后，如何安装ColorOS的拨号程序</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">众所周知，氧OS自带的拨号是Google的原生拨号，并不好用，如何安装回大家熟悉的ColorOS拨号呢？ 氧OS安装ColorOS拨号教程 手机上安装apkmirror installer程序： 可以直接从play市场搜索【apkmirror installer】 可以点击跳转play市场下载：https://play.google.com/…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 1,925&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-25&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 1,968&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-25&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8498/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -73,12 +73,12 @@
         <title type="html"><![CDATA[全球首发 | 一加11 ColorOS/氧OS互刷懒人包（TWRP卡刷方案） (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8481/</id>
         <link href="https://www.daxiaamu.com/8481/"/>
-        <updated>2025-04-27T05:41:02.359Z</updated>
+        <updated>2025-04-27T17:39:01.085Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8481/" class="mdui-text-color-theme ainList"><h1>全球首发 | 一加11 ColorOS/氧OS互刷懒人包（TWRP卡刷方案）</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">从前 一加11从ColorOS刷到氧OS较为繁琐，需要通过fastboot线刷，并且存在诸多缺陷，比如容易变砖、容易丢失信号、容易导致升级到14、15后无法进入fastboot等。 而要刷原生系统的话，氧OS又几乎是必须先刷的，因此这成为了拦截很多人体验原生系统的门槛。 现在 最近又重…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 3,826&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-22&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 3,876&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-22&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8481/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -86,7 +86,7 @@
         <title type="html"><![CDATA[使用4倍热缩管修复一加破损数据线 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8473/</id>
         <link href="https://www.daxiaamu.com/8473/"/>
-        <updated>2025-04-27T05:41:02.360Z</updated>
+        <updated>2025-04-27T17:39:01.087Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-media mdui-color-theme">
                 <a href="https://www.daxiaamu.com/8473/">
                         <img src="data:image/gif;base64,R0lGODlhAgABAIAAALGxsQAAACH5BAAAAAAALAAAAAACAAEAAAICBAoAOw==" data-src="https://www.daxiaamu.com/wp-content/uploads/2025/03/IMG20250318001350-scaled.jpg" alt="https://www.daxiaamu.com/wp-content/uploads/2025/03/IMG20250318001350-scaled.jpg" title="使用4倍热缩管修复一加破损数据线" class="LazyLoadList mdui-color-theme mdui-text-color-theme lazyload">
@@ -98,7 +98,7 @@
             </div>
     <div class="mdui-card-actions">
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 1,427&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-19&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 1,458&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-19&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8473/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -106,12 +106,12 @@
         <title type="html"><![CDATA[FDM类型3D打印中，翘边的原因分析、翘边的预防与消除（迄今为止最全面的理论和实践资料） (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8430/</id>
         <link href="https://www.daxiaamu.com/8430/"/>
-        <updated>2025-04-27T05:41:02.362Z</updated>
+        <updated>2025-04-27T17:39:01.089Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8430/" class="mdui-text-color-theme ainList"><h1>FDM类型3D打印中，翘边的原因分析、翘边的预防与消除（迄今为止最全面的理论和实践资料）</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">各位好，看到网络上关于翘边预防技巧的内容很多，但是不够深入，也不够全面，关键的是，根本解决不了我日常遇到的翘边问题，因此我对其进行了深入的研究。本篇文章是截至目前最为全面的翘边研究的文章。由于笔者闲暇时间不多，无暇制作视频，因此还是决定在我博客以图…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 2,074&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-02-28&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 2,107&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-02-28&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8430/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -119,7 +119,7 @@
         <title type="html"><![CDATA[【3D打印开源】一个精致的小瓶子——雪顶罩金山 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8421/</id>
         <link href="https://www.daxiaamu.com/8421/"/>
-        <updated>2025-04-27T05:41:02.364Z</updated>
+        <updated>2025-04-27T17:39:01.090Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-media mdui-color-theme">
                 <a href="https://www.daxiaamu.com/8421/">
                         <img src="data:image/gif;base64,R0lGODlhAgABAIAAALGxsQAAACH5BAAAAAAALAAAAAACAAEAAAICBAoAOw==" data-src="https://www.daxiaamu.com/wp-content/uploads/2025/02/封面-横-新-scaled.jpg" alt="https://www.daxiaamu.com/wp-content/uploads/2025/02/封面-横-新-scaled.jpg" title="【3D打印开源】一个精致的小瓶子——雪顶罩金山" class="LazyLoadList mdui-color-theme mdui-text-color-theme lazyload">
@@ -131,7 +131,7 @@
             </div>
     <div class="mdui-card-actions">
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 2,238&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-02-06&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 2,262&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-02-06&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8421/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -139,7 +139,7 @@
         <title type="html"><![CDATA[【3D打印开源】洞洞板（6mm孔径，25mm孔心距）4口USB快充充电器，集中供电hub，适配五金少女洞洞板 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8408/</id>
         <link href="https://www.daxiaamu.com/8408/"/>
-        <updated>2025-04-27T05:41:02.365Z</updated>
+        <updated>2025-04-27T17:39:01.092Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-media mdui-color-theme">
                 <a href="https://www.daxiaamu.com/8408/">
                         <img src="data:image/gif;base64,R0lGODlhAgABAIAAALGxsQAAACH5BAAAAAAALAAAAAACAAEAAAICBAoAOw==" data-src="https://www.daxiaamu.com/wp-content/uploads/2024/12/IMG20241211211057-1-scaled.jpg" alt="https://www.daxiaamu.com/wp-content/uploads/2024/12/IMG20241211211057-1-scaled.jpg" title="【3D打印开源】洞洞板（6mm孔径，25mm孔心距）4口USB快充充电器，集中供电hub，适配五金少女洞洞板" class="LazyLoadList mdui-color-theme mdui-text-color-theme lazyload">
@@ -151,7 +151,7 @@
             </div>
     <div class="mdui-card-actions">
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 3,644&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-12-23&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 3,678&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2024-12-23&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8408/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -159,7 +159,7 @@
         <title type="html"><![CDATA[Write, debug and execute BOFs using bof-launcher (part 2) (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2025/01/15/write-debug-and-execute-bofs-part2.html</id>
         <link href="https://blog.z-labs.eu/2025/01/15/write-debug-and-execute-bofs-part2.html"/>
-        <updated>2025-04-27T05:41:04.779Z</updated>
+        <updated>2025-04-27T17:39:03.447Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jan 15, 2025</span> <a class="post-link" href="/2025/01/15/write-debug-and-execute-bofs-part2.html">Write, debug and execute BOFs using bof-launcher (part 2)</a><p>In <a href="https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html">part 1</a> we have showed how to build <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a> and how to write/debug very simple BOF.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -167,7 +167,7 @@
         <title type="html"><![CDATA[cli4bofs v0.9.0 Release Notes (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/12/27/cli4bofs-0-9-0-release-notes.html</id>
         <link href="https://blog.z-labs.eu/2024/12/27/cli4bofs-0-9-0-release-notes.html"/>
-        <updated>2025-04-27T05:41:04.781Z</updated>
+        <updated>2025-04-27T17:39:03.450Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Dec 27, 2024</span> <a class="post-link" href="/2024/12/27/cli4bofs-0-9-0-release-notes.html">cli4bofs v0.9.0 Release Notes</a><p><a href="https://github.com/The-Z-Labs/cli4bofs/releases/tag/v0.9.0">Download</a></p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -175,7 +175,7 @@
         <title type="html"><![CDATA[Write, debug and execute BOFs using bof-launcher (part 1) (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html</id>
         <link href="https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html"/>
-        <updated>2025-04-27T05:41:04.786Z</updated>
+        <updated>2025-04-27T17:39:03.452Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Dec 2, 2024</span> <a class="post-link" href="/2024/12/02/write-debug-and-execute-bofs-part1.html">Write, debug and execute BOFs using bof-launcher (part 1)</a><p>Our <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a> allows you to write, build, debug and execute BOFs using
 Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARCH64).</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
@@ -184,7 +184,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/05/13/tiber-eu-dora-cyberodpornosc.html</id>
         <link href="https://blog.z-labs.eu/2024/05/13/tiber-eu-dora-cyberodpornosc.html"/>
-        <updated>2025-04-27T05:41:04.786Z</updated>
+        <updated>2025-04-27T17:39:03.454Z</updated>
         <content type="html"><![CDATA[<span class="post-date">May 13, 2024</span> <a class="post-link" href="/2024/05/13/tiber-eu-dora-cyberodpornosc.html">[PL] TIBER-EU i DORA szansą na budowanie realnej cyberodporności w sektorze finansowym</a><p>Prawodawstwo unijne w ostatnich latach jest coraz bardziej aktywne w kwestiach związanych z szeroko pojętym cyberbezpieczeństwem. Komisja Europejska bez wątpienia dostrzega problematykę braku odpowiedniego ogólnego poziomu cyberbezpieczeństwa w państwach członkowskich i aktywnie działa na rzecz poprawy sytuacji. Wystarczy wspomnieć tu o <a href="https://digital-strategy.ec.europa.eu/en/policies/cybersecurity-act">The EU Cybersecurity Act</a>, czy od dawna już obowiązującą dyrektywę NIS (ang. Directive on Security of Network and Information Systems), która weszła w życie w 2016 roku, a na grunt krajowego porządku prawnego została wprowadzona jako <a href="https://www.gov.pl/web/cyfryzacja/krajowy-system-cyberbezpieczenstwa-">Krajowy System Cyberbezpieczeństwa (KSC)</a> w 2018 roku. W tym roku czeka nas również aktualizacja KSC o unijną dyrektywę NIS 2. Odpowiedni projekt ustawy <a href="https://www.gov.pl/web/cyfryzacja/walka-z-cyberzagrozeniami-wchodzi-w-nowy-wymiar">trafił ostatnio do konsultacji publicznych</a>.</p>
 <span class="post-tags">Tags: <a href="/tags/TIBER-EU.html">TIBER-EU</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a></span>]]></content>
     </entry>
@@ -192,7 +192,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Executing Cobalt Strike's BOFs on ARM-based Linux devices (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/05/10/bofs-on-arm-based-devices.html</id>
         <link href="https://blog.z-labs.eu/2024/05/10/bofs-on-arm-based-devices.html"/>
-        <updated>2025-04-27T05:41:04.786Z</updated>
+        <updated>2025-04-27T17:39:03.455Z</updated>
         <content type="html"><![CDATA[<span class="post-date">May 10, 2024</span> <a class="post-link" href="/2024/05/10/bofs-on-arm-based-devices.html">Executing Cobalt Strike's BOFs on ARM-based Linux devices</a><p>We designed and implemented <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher</a> with a portability in mind so running BOFs on Linux ARM-based devices is a snap. Below, we’re running our <code class="language-plaintext highlighter-rouge">uname</code> BOF on Raspberry Pi device. For convenience we use our <a href="https://github.com/The-Z-Labs/cli4bofs">cli4bofs</a> tool to execute BOF directly from command line. So let’s jump to our device:</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -200,7 +200,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Running BOFs with our 'bof-launcher' library (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/02/08/bof-launcher.html</id>
         <link href="https://blog.z-labs.eu/2024/02/08/bof-launcher.html"/>
-        <updated>2025-04-27T05:41:04.790Z</updated>
+        <updated>2025-04-27T17:39:03.459Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Feb 8, 2024</span> <a class="post-link" href="/2024/02/08/bof-launcher.html">Running BOFs with our 'bof-launcher' library</a><p>During last months we were busy working on our <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a>. In essence it is an open-source library for loading, relocating and launching <a href="https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/beacon-object-files_main.htm">Cobalt Strike’s BOFs</a> on Windows and UNIX/Linux systems. But it also contains other very interesting features and capabilities that are worth discussing.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -208,7 +208,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Other useful resources (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2023/09/08/burp-tipsTricks2023.html</id>
         <link href="https://blog.z-labs.eu/2023/09/08/burp-tipsTricks2023.html"/>
-        <updated>2025-04-27T05:41:04.790Z</updated>
+        <updated>2025-04-27T17:39:03.461Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Sep 8, 2023</span> <a class="post-link" href="/2023/09/08/burp-tipsTricks2023.html">Burp Suite Pro real-life tips &amp; tricks: Other useful resources</a><p>Additional references to materials about the Burp Suite Pro tool and its usage:</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security-testing.html">web-security-testing</a></span>]]></content>
     </entry>
@@ -216,7 +216,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Endpoint defense evasion with custom built binaries (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html</id>
         <link href="https://blog.z-labs.eu/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html"/>
-        <updated>2025-04-27T05:41:04.792Z</updated>
+        <updated>2025-04-27T17:39:03.463Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Aug 25, 2022</span> <a class="post-link" href="/2022/08/25/endpoint-security-evasion-with-custom-built-binaries.html">Endpoint defense evasion with custom built binaries</a><p>It’s already a <a href="https://www.ired.team/offensive-security/defense-evasion/av-bypass-with-metasploit-templates">common knowledge</a> that merely rebuilding binaries could be a good way to attempt to bypass many AV solutions. Here’s a good illustration of exactly that case from our recent penetration testing engagement. Here’s the scenario:</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a></span>]]></content>
     </entry>
@@ -224,7 +224,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Authentication engine for command-line tools (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2022/01/12/burp-suite-pro-authn-for-cli-tools.html</id>
         <link href="https://blog.z-labs.eu/2022/01/12/burp-suite-pro-authn-for-cli-tools.html"/>
-        <updated>2025-04-27T05:41:04.792Z</updated>
+        <updated>2025-04-27T17:39:03.465Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jan 12, 2022</span> <a class="post-link" href="/2022/01/12/burp-suite-pro-authn-for-cli-tools.html">Burp Suite Pro real-life tips &amp; tricks: Authentication engine for command-line tools</a><p>Below is a nice Burp trickery I’ve learnt from <a href="https://www.ryanwendel.com/2019/09/27/application-enumeration-tips-using-aquatone-and-burp-suite/">Ryan</a> and extended it also for apps that are using token-based session handling.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/burp.html">burp</a>,&nbsp;<a href="/tags/web-security-testing.html">web-security-testing</a></span>]]></content>
     </entry>
@@ -232,7 +232,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Broken UDP scanning in Nmap v7.91 (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2021/10/08/broken-udp-scanning-in-nmap-7-91.html</id>
         <link href="https://blog.z-labs.eu/2021/10/08/broken-udp-scanning-in-nmap-7-91.html"/>
-        <updated>2025-04-27T05:41:04.802Z</updated>
+        <updated>2025-04-27T17:39:03.466Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Oct 8, 2021</span> <a class="post-link" href="/2021/10/08/broken-udp-scanning-in-nmap-7-91.html">Broken UDP scanning in Nmap v7.91</a><p>As in most penetration testing/red teaming companies we at Z-Labs use Nmap security scanner tool quite extensively. During one of our network penetration testing engagements we have noticed that UDP scanning (<code class="language-plaintext highlighter-rouge">-sU</code>) functionality misbehaves and does not correctly detect opened UDP ports. Soon after that we identified in Nmap (versions: <code class="language-plaintext highlighter-rouge">7.91</code> and <code class="language-plaintext highlighter-rouge">7.90</code>) subtle implementation issue that resulted in corrupted UDP packets sent during a scan.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/network-security.html">network-security</a></span>]]></content>
     </entry>
@@ -240,7 +240,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Mobile apps penetration testing 2020 (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2020/03/29/mobile-security-testing-ref.html</id>
         <link href="https://blog.z-labs.eu/2020/03/29/mobile-security-testing-ref.html"/>
-        <updated>2025-04-27T05:41:04.802Z</updated>
+        <updated>2025-04-27T17:39:03.468Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Mar 29, 2020</span> <a class="post-link" href="/2020/03/29/mobile-security-testing-ref.html">Mobile apps penetration testing 2020</a><p>There are already great resources about mobile app security testing out there. So here I’m mostly just keep track of resources/approaches that worked for me (with additional comments), to have it in one place for the sake of future reference.</p>
 <span class="post-tags">Tags: <a href="/tags/notes.html">notes</a>,&nbsp;<a href="/tags/mobile-security.html">mobile-security</a></span>]]></content>
     </entry>
@@ -248,7 +248,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Looking for hidden attack surface and leaked secrets (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2019/09/12/burp-suite-pro-API-endpoints-discovery.html</id>
         <link href="https://blog.z-labs.eu/2019/09/12/burp-suite-pro-API-endpoints-discovery.html"/>
-        <updated>2025-04-27T05:41:04.802Z</updated>
+        <updated>2025-04-27T17:39:03.469Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Sep 12, 2019</span> <a class="post-link" href="/2019/09/12/burp-suite-pro-API-endpoints-discovery.html">Burp Suite Pro real-life tips &amp; tricks: Looking for hidden attack surface and leaked secrets</a><p>Burp has some nice export features which (combined with some 3rd party tools) can greatly aid in the process of looking for additional/hidden endpoints and/or hardcoded secrets.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
     </entry>
@@ -256,7 +256,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Persistent Access to Collaborator (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html</id>
         <link href="https://blog.z-labs.eu/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html"/>
-        <updated>2025-04-27T05:41:04.803Z</updated>
+        <updated>2025-04-27T17:39:03.471Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Sep 9, 2019</span> <a class="post-link" href="/2019/09/09/burp-suite-pro-rltandt-collaborator-presistence.html">Burp Suite Pro real-life tips &amp; tricks: Persistent Access to Collaborator</a><p>It was already discussed <a href="https://0x00sec.org/t/achieving-persistent-access-to-burp-collaborator-sessions/14311">here</a>. Putting here for quick reference.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
     </entry>
@@ -264,7 +264,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Burp Suite Pro real-life tips & tricks: Authorization testing (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html</id>
         <link href="https://blog.z-labs.eu/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html"/>
-        <updated>2025-04-27T05:41:04.804Z</updated>
+        <updated>2025-04-27T17:39:03.472Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jul 21, 2019</span> <a class="post-link" href="/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html">Burp Suite Pro real-life tips &amp; tricks: Authorization testing</a><p>In the past, I found (already quite old - presented in 2013) slide deck <a href="https://www.agarri.fr/docs/HiP2k13-Burp_Pro_Tips_and_Tricks.pdf">Burp Suite Pro real-life tips &amp; tricks</a> authored by <a href="https://www.agarri.fr/en/index.html">Nicolas Grégoire</a> very useful which gave me motivation to constantly look for effciencies in my day to day Burp Suite Pro usage. Since that time Burp has significantly evolved (major milestone - version 2.x was released) and lots of interesting 3rd party extensions were developed.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/web-security.html">web-security</a></span>]]></content>
     </entry>
@@ -272,7 +272,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[LES: Linux privilege escalation auditing tool (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2019/05/10/les-paper.html</id>
         <link href="https://blog.z-labs.eu/2019/05/10/les-paper.html"/>
-        <updated>2025-04-27T05:41:04.806Z</updated>
+        <updated>2025-04-27T17:39:03.475Z</updated>
         <content type="html"><![CDATA[<span class="post-date">May 10, 2019</span> <a class="post-link" href="/2019/05/10/les-paper.html">LES: Linux privilege escalation auditing tool</a><p><a href="https://github.com/mzet-/linux-exploit-suggester">LES</a> security tool, developed and maintained by <a href="https://z-labs.eu">Z-Labs</a> is the next generation version of the tool designed to <em>assist</em> the security tester/analyst in looking for critically vulnerable (i.e. locally exploitable) Linux machines during manual red tem/pentest engagement. In this post I will describe how the tool works and how to use it effectively.</p>
 <span class="post-tags">Tags: <a href="/tags/privilege-escalation.html">privilege-escalation</a></span>]]></content>
     </entry>
@@ -280,7 +280,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Autumn hiking in Owl Mountains (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2013/11/18/owl-mountains-hiking.html</id>
         <link href="https://blog.z-labs.eu/2013/11/18/owl-mountains-hiking.html"/>
-        <updated>2025-04-27T05:41:04.807Z</updated>
+        <updated>2025-04-27T17:39:03.476Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Nov 18, 2013</span> <a class="post-link" href="/2013/11/18/owl-mountains-hiking.html">Autumn hiking in Owl Mountains</a><p>We climbed three additional peaks from <a href="https://en.wikipedia.org/wiki/Crown_of_Polish_Mountains">Crown of Polish Mountains</a> during recent hiking in <a href="https://en.wikipedia.org/wiki/Owl_Mountains">Owl Mountains</a> and near areas.</p>
 <span class="post-tags">Tags: <a href="/tags/off-topic.html">off-topic</a></span>]]></content>
     </entry>
@@ -288,7 +288,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Hiking in Dolomites (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2013/09/12/hiking-in-dolomites.html</id>
         <link href="https://blog.z-labs.eu/2013/09/12/hiking-in-dolomites.html"/>
-        <updated>2025-04-27T05:41:04.809Z</updated>
+        <updated>2025-04-27T17:39:03.478Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Sep 12, 2013</span> <a class="post-link" href="/2013/09/12/hiking-in-dolomites.html">Hiking in Dolomites</a><p>Some photos from this year’s hiking in <a href="https://en.wikipedia.org/wiki/Dolomites">Dolomites</a>:</p>
 <span class="post-tags">Tags: <a href="/tags/off-topic.html">off-topic</a></span>]]></content>
     </entry>
@@ -296,7 +296,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[浅谈 - 数据库开发规范 & 最佳实践 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/04/30/db-best-practices/</id>
         <link href="https://kebingzao.com/2024/04/30/db-best-practices/"/>
-        <updated>2025-04-27T05:41:07.605Z</updated>
+        <updated>2025-04-27T17:39:06.327Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/04/30/db-best-practices/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -459,7 +459,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(4) - 使用计划任务主动抛送到 pushgateway (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/</id>
         <link href="https://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/"/>
-        <updated>2025-04-27T05:41:07.605Z</updated>
+        <updated>2025-04-27T17:39:06.327Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -624,7 +624,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(3) - 使用 mtail 采集程序日志 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/</id>
         <link href="https://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/"/>
-        <updated>2025-04-27T05:41:07.607Z</updated>
+        <updated>2025-04-27T17:39:06.327Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -791,7 +791,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[使用签名算法来作为微服务内部调用或者开放 API 的请求权限验证 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/30/sig-auth/</id>
         <link href="https://kebingzao.com/2023/11/30/sig-auth/"/>
-        <updated>2025-04-27T05:41:07.607Z</updated>
+        <updated>2025-04-27T17:39:06.328Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/30/sig-auth/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -954,7 +954,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[php 开启 opcache 来降低负载并提高抗并发能力 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/21/php-opcache/</id>
         <link href="https://kebingzao.com/2023/11/21/php-opcache/"/>
-        <updated>2025-04-27T05:41:07.607Z</updated>
+        <updated>2025-04-27T17:39:06.332Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/21/php-opcache/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1114,7 +1114,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[记一次 php-fpm 的配置调优 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/21/php-fpm-opt/</id>
         <link href="https://kebingzao.com/2023/11/21/php-fpm-opt/"/>
-        <updated>2025-04-27T05:41:07.608Z</updated>
+        <updated>2025-04-27T17:39:06.332Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/21/php-fpm-opt/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1268,7 +1268,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[浅谈 - 邮件服务最佳实践 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/10/19/mail-best-practices/</id>
         <link href="https://kebingzao.com/2023/10/19/mail-best-practices/"/>
-        <updated>2025-04-27T05:41:07.610Z</updated>
+        <updated>2025-04-27T17:39:06.339Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/10/19/mail-best-practices/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1433,7 +1433,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[npm 私有库开发和发布规范 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/09/21/npm-publish/</id>
         <link href="https://kebingzao.com/2023/09/21/npm-publish/"/>
-        <updated>2025-04-27T05:41:07.613Z</updated>
+        <updated>2025-04-27T17:39:06.339Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/09/21/npm-publish/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1602,7 +1602,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[使用 verdaccio 搭建前端内部私有 npm 仓库 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/09/19/npm-verdaccio/</id>
         <link href="https://kebingzao.com/2023/09/19/npm-verdaccio/"/>
-        <updated>2025-04-27T05:41:07.614Z</updated>
+        <updated>2025-04-27T17:39:06.339Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/09/19/npm-verdaccio/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1770,7 +1770,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[记一次大陆地区 VerneMQ 出现部分证书校验失败的情况 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/08/25/vernemq-ssl-err/</id>
         <link href="https://kebingzao.com/2023/08/25/vernemq-ssl-err/"/>
-        <updated>2025-04-27T05:41:07.616Z</updated>
+        <updated>2025-04-27T17:39:06.345Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/08/25/vernemq-ssl-err/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1931,7 +1931,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[chatgpt 使用过程中常用的 prompt (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/05/31/gpt-use-prompt/</id>
         <link href="https://kebingzao.com/2023/05/31/gpt-use-prompt/"/>
-        <updated>2025-04-27T05:41:07.617Z</updated>
+        <updated>2025-04-27T17:39:06.345Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/05/31/gpt-use-prompt/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2090,7 +2090,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[web 安全之 - 使用 proxy 请求页面来绕过 X-Frame-Options 机制 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/02/03/web-bypass-x-frame-options/</id>
         <link href="https://kebingzao.com/2023/02/03/web-bypass-x-frame-options/"/>
-        <updated>2025-04-27T05:41:07.618Z</updated>
+        <updated>2025-04-27T17:39:06.345Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/02/03/web-bypass-x-frame-options/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2252,7 +2252,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[后端开发针对 aws 用户权限进行细分和设置 ip 白名单 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/01/18/aws-policy-deny-ip/</id>
         <link href="https://kebingzao.com/2023/01/18/aws-policy-deny-ip/"/>
-        <updated>2025-04-27T05:41:07.619Z</updated>
+        <updated>2025-04-27T17:39:06.346Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/01/18/aws-policy-deny-ip/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2418,7 +2418,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(2) - nginx (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/</id>
         <link href="https://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/"/>
-        <updated>2025-04-27T05:41:07.621Z</updated>
+        <updated>2025-04-27T17:39:06.347Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2578,7 +2578,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(1) - 定义标签组和规范 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/</id>
         <link href="https://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/"/>
-        <updated>2025-04-27T05:41:07.622Z</updated>
+        <updated>2025-04-27T17:39:06.348Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2742,7 +2742,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (10) - 服务发现(基于文件和基于 http 端点) (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/14/prometheus-10-sd/</id>
         <link href="https://kebingzao.com/2022/12/14/prometheus-10-sd/"/>
-        <updated>2025-04-27T05:41:07.623Z</updated>
+        <updated>2025-04-27T17:39:06.350Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/14/prometheus-10-sd/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2900,7 +2900,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (9) - 借助 pushgateway 主动 push 数据 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/14/prometheus-9-push/</id>
         <link href="https://kebingzao.com/2022/12/14/prometheus-9-push/"/>
-        <updated>2025-04-27T05:41:07.625Z</updated>
+        <updated>2025-04-27T17:39:06.354Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/14/prometheus-9-push/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3063,7 +3063,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (8) - 业务程序自定义添加指标 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/12/prometheus-8-customize/</id>
         <link href="https://kebingzao.com/2022/12/12/prometheus-8-customize/"/>
-        <updated>2025-04-27T05:41:07.627Z</updated>
+        <updated>2025-04-27T17:39:06.355Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/12/prometheus-8-customize/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3221,7 +3221,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (7) - grafana 后台创建警报 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/</id>
         <link href="https://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/"/>
-        <updated>2025-04-27T05:41:07.630Z</updated>
+        <updated>2025-04-27T17:39:06.357Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3378,7 +3378,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (6) - 记录规则(recording rule) (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/07/prometheus-6-record-rule/</id>
         <link href="https://kebingzao.com/2022/12/07/prometheus-6-record-rule/"/>
-        <updated>2025-04-27T05:41:07.631Z</updated>
+        <updated>2025-04-27T17:39:06.358Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/07/prometheus-6-record-rule/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
