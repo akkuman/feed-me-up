@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akkuman.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-14T05:43:47.262Z</updated>
+    <updated>2025-06-14T17:40:17.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[一加官方ROM网址oxygenos.oneplus.net服务器关闭，如何下载这个服务器上的ROM (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8608/</id>
         <link href="https://www.daxiaamu.com/8608/"/>
-        <updated>2025-06-14T05:43:40.854Z</updated>
+        <updated>2025-06-14T17:40:11.169Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8608/" class="mdui-text-color-theme ainList"><h1>一加官方ROM网址oxygenos.oneplus.net服务器关闭，如何下载这个服务器上的ROM</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">实际上没有关闭，只是进行了一些权限限制，通过这个方法可以下载 修改系统的hosts文件，增加一行 23.48.224.239 oxygenos.oneplus.net 命令行中使用如下命令即可下载这个域名下的ROM了 curl -C - -LO --resolve oxygenos.oneplus.net:443:23.48.224.239 &lt;url&gt;</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 2,581&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-06-03&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 2,746&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-06-03&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8608/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -21,12 +21,12 @@
         <title type="html"><![CDATA[全球首发 | 一加平板Pro ColorOS/氧OS互刷懒人包（TWRP卡刷方案） (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8596/</id>
         <link href="https://www.daxiaamu.com/8596/"/>
-        <updated>2025-06-14T05:43:40.855Z</updated>
+        <updated>2025-06-14T17:40:11.169Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8596/" class="mdui-text-color-theme ainList"><h1>全球首发 | 一加平板Pro ColorOS/氧OS互刷懒人包（TWRP卡刷方案）</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">之前做了一加11、一加12****的ColorOS/氧OS互刷方案，稳定可靠，反响很好。本次发布的是一加平板Pro（海外叫OnePlus Pad 2）的。其他型号的包我会陆陆续续制作，请大家耐心等待。 方案优势 人人都熟悉的TWRP卡刷操作，避免内心恐惧 安全可靠的TWRP卡刷方案，完全不存…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 5,947&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-05-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 6,047&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-05-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8596/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -34,12 +34,12 @@
         <title type="html"><![CDATA[ColorOS 15（Android 15）及以上系统屏幕常亮的adb shell命令 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8585/</id>
         <link href="https://www.daxiaamu.com/8585/"/>
-        <updated>2025-06-14T05:43:40.861Z</updated>
+        <updated>2025-06-14T17:40:11.173Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8585/" class="mdui-text-color-theme ainList"><h1>ColorOS 15（Android 15）及以上系统屏幕常亮的adb shell命令</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">前几年经常会遇到需要屏幕保持常亮的情况，但是play市场下载了一大堆应用，都没用。我以为是ColorOS相较原生系统差距较大导致的，所以也就放弃了，但是没想到近期发现了一个方法可以真正实现屏幕常亮。 保持屏幕常亮不锁定方法 电脑上用adb执行 adb shell settings pu…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 2,830&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-05-09&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 2,873&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-05-09&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8585/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -47,12 +47,12 @@
         <title type="html"><![CDATA[一加13T OnePlus PKX110一键ROOT教程|Magisk|Kitsune|Alpha面具|Apatch|KernelSU|KernelSU-Next (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8573/</id>
         <link href="https://www.daxiaamu.com/8573/"/>
-        <updated>2025-06-14T05:43:40.864Z</updated>
+        <updated>2025-06-14T17:40:11.174Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8573/" class="mdui-text-color-theme ainList"><h1>一加13T OnePlus PKX110一键ROOT教程|Magisk|Kitsune|Alpha面具|Apatch|KernelSU|KernelSU-Next</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">大家好，我是一加全能工具箱的作者大侠阿木。每逢有新机出来，大家都会催促我更新工具箱来支持一键ROOT。 但实际上，基于优化的设计和CS架构，工具箱已经实现通刷，无需专门适配。 但是，架不住大家不知道，老有人问，所以还是弄个帖子在这里，方便大家搜索过来。 实际…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 7,048&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-28&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 7,163&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-28&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8573/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -60,12 +60,12 @@
         <title type="html"><![CDATA[一加7 Pro 5G Sprint版（GM1925）刷原生ROM（YAAP）教程 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8554/</id>
         <link href="https://www.daxiaamu.com/8554/"/>
-        <updated>2025-06-14T05:43:40.866Z</updated>
+        <updated>2025-06-14T17:40:11.176Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8554/" class="mdui-text-color-theme ainList"><h1>一加7 Pro 5G Sprint版（GM1925）刷原生ROM（YAAP）教程</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">这台机子比较难搞，在我手头好几年了，第一次给它刷上原生系统，特此记录一下。 这台机子折腾过程 之前有文章研究过这台设备《一加7 Pro 5G GM1925 增量升级失败，手动安装全量包教程》。 这台机子本身到手时是网络锁已经解锁的。写上面文章时搞定了救砖、转国际版、解…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 4,456&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 4,490&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8554/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -73,12 +73,12 @@
         <title type="html"><![CDATA[全球首发 | 一加12 ColorOS/氧OS互刷懒人包（TWRP卡刷方案） (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8547/</id>
         <link href="https://www.daxiaamu.com/8547/"/>
-        <updated>2025-06-14T05:43:40.867Z</updated>
+        <updated>2025-06-14T17:40:11.177Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8547/" class="mdui-text-color-theme ainList"><h1>全球首发 | 一加12 ColorOS/氧OS互刷懒人包（TWRP卡刷方案）</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">之前做了一加11的ColorOS和氧OS的完美互刷懒人包，大家反馈都不错，希望做其他型号的。我手头恰有有一加12，但是一加12的原理有所不同，好在经过一段时间的开发和测试也终于完成了。 方案优势 人人都熟悉的TWRP卡刷操作，避免内心恐惧 安全可靠的TWRP卡刷方案，完全不…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 6,535&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-12&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 6,575&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-12&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8547/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -86,12 +86,12 @@
         <title type="html"><![CDATA[一加8 / 8 Pro ColorOS 14（Android 14）移植版 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8531/</id>
         <link href="https://www.daxiaamu.com/8531/"/>
-        <updated>2025-06-14T05:43:40.869Z</updated>
+        <updated>2025-06-14T17:40:11.179Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8531/" class="mdui-text-color-theme ainList"><h1>一加8 / 8 Pro ColorOS 14（Android 14）移植版</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">说明 一加官方为一加8/8 Pro只提供到最高ColorOS 13.1，基于Android 13的升级。不过现在有人移植了ColorOS14，相比ColorOS 15更加稳定一些 安装教程 fastboot boot (orangefox V20).img In Orangefox recovery&gt;&gt;format data Then go to adb sideload and r…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 3,117&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-10&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 3,143&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-10&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8531/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -99,12 +99,12 @@
         <title type="html"><![CDATA[一加8 / 8 Pro ColorOS 15.0.0.701（Android 15）移植版 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8512/</id>
         <link href="https://www.daxiaamu.com/8512/"/>
-        <updated>2025-06-14T05:43:40.870Z</updated>
+        <updated>2025-06-14T17:40:11.181Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8512/" class="mdui-text-color-theme ainList"><h1>一加8 / 8 Pro ColorOS 15.0.0.701（Android 15）移植版</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">说明 一加官方为一加8/8 Pro只提供到最高ColorOS 13.1，基于Android 13的升级。没有办法体会到ColorOS 15的丝滑感受和AI功能。不过现在有网友为一加8 Pro移植了ColorOS 15的系统。 安装教程 fastboot boot (orangefox V20).img In Orangefox recovery&gt;&gt;forma…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 5,070&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-06&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 5,101&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-06&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8512/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -112,12 +112,12 @@
         <title type="html"><![CDATA[一加手机刷氧OS后，如何安装ColorOS的拨号程序 (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8498/</id>
         <link href="https://www.daxiaamu.com/8498/"/>
-        <updated>2025-06-14T05:43:40.873Z</updated>
+        <updated>2025-06-14T17:40:11.182Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8498/" class="mdui-text-color-theme ainList"><h1>一加手机刷氧OS后，如何安装ColorOS的拨号程序</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">众所周知，氧OS自带的拨号是Google的原生拨号，并不好用，如何安装回大家熟悉的ColorOS拨号呢？ 氧OS安装ColorOS拨号教程 手机上安装apkmirror installer程序： 可以直接从play市场搜索【apkmirror installer】 可以点击跳转play市场下载：https://play.google.com/…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 4,203&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-25&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 4,228&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-25&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8498/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -125,12 +125,12 @@
         <title type="html"><![CDATA[全球首发 | 一加11 ColorOS/氧OS互刷懒人包（TWRP卡刷方案） (大侠阿木博客)]]></title>
         <id>https://www.daxiaamu.com/8481/</id>
         <link href="https://www.daxiaamu.com/8481/"/>
-        <updated>2025-06-14T05:43:40.876Z</updated>
+        <updated>2025-06-14T17:40:11.184Z</updated>
         <content type="html"><![CDATA[<div class="mdui-card-actions">
         <a href="https://www.daxiaamu.com/8481/" class="mdui-text-color-theme ainList"><h1>全球首发 | 一加11 ColorOS/氧OS互刷懒人包（TWRP卡刷方案）</h1></a>
         <p class="ct1-p mdui-text-color-black cont2">从前 一加11从ColorOS刷到氧OS较为繁琐，需要通过fastboot线刷，并且存在诸多缺陷，比如容易变砖、容易丢失信号、容易导致升级到14、15后无法进入fastboot等。 而要刷原生系统的话，氧OS又几乎是必须先刷的，因此这成为了拦截很多人体验原生系统的门槛。 现在 最近又重…</p>        <div class="mdui-divider underline"></div>
                 <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 7,377&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-22&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
+            <i class="mdui-icon material-icons info-icon"></i> 7,430&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-03-22&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
         <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8481/">阅读全文</a>
     </div>]]></content>
     </entry>
@@ -138,7 +138,7 @@
         <title type="html"><![CDATA[So you want to rapidly run a BOF? Let's look at this 'cli4bofs' thing then (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2025/06/04/all-about-cli4bofs-tool.html</id>
         <link href="https://blog.z-labs.eu/2025/06/04/all-about-cli4bofs-tool.html"/>
-        <updated>2025-06-14T05:43:43.245Z</updated>
+        <updated>2025-06-14T17:40:13.540Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jun 4, 2025</span> <a class="post-link" href="/2025/06/04/all-about-cli4bofs-tool.html">So you want to rapidly run a BOF? Let's look at this 'cli4bofs' thing then</a><p>While working with BOFs in Cobalt Strike environment one has an aggressor script file (<code class="language-plaintext highlighter-rouge">.cna</code>) for each BOF in his disposal. Among other things, the script registers given BOF as Beacon command, provides its usage syntax, types of arguments and often usage examples and other essential documentation.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -146,7 +146,7 @@
         <title type="html"><![CDATA[Write, debug and execute BOFs using bof-launcher (part 2) (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2025/01/15/write-debug-and-execute-bofs-part2.html</id>
         <link href="https://blog.z-labs.eu/2025/01/15/write-debug-and-execute-bofs-part2.html"/>
-        <updated>2025-06-14T05:43:43.245Z</updated>
+        <updated>2025-06-14T17:40:13.543Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jan 15, 2025</span> <a class="post-link" href="/2025/01/15/write-debug-and-execute-bofs-part2.html">Write, debug and execute BOFs using bof-launcher (part 2)</a><p>In <a href="https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html">part 1</a> we have showed how to build <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a> and how to write/debug very simple BOF.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -154,7 +154,7 @@
         <title type="html"><![CDATA[cli4bofs v0.9.0 Release Notes (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/12/27/cli4bofs-0-9-0-release-notes.html</id>
         <link href="https://blog.z-labs.eu/2024/12/27/cli4bofs-0-9-0-release-notes.html"/>
-        <updated>2025-06-14T05:43:43.245Z</updated>
+        <updated>2025-06-14T17:40:13.543Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Dec 27, 2024</span> <a class="post-link" href="/2024/12/27/cli4bofs-0-9-0-release-notes.html">cli4bofs v0.9.0 Release Notes</a><p><a href="https://github.com/The-Z-Labs/cli4bofs/releases/tag/v0.9.0">Download</a></p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -283,7 +283,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[浅谈 - 数据库开发规范 & 最佳实践 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/04/30/db-best-practices/</id>
         <link href="https://kebingzao.com/2024/04/30/db-best-practices/"/>
-        <updated>2025-06-14T05:43:45.950Z</updated>
+        <updated>2025-06-14T17:40:16.344Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/04/30/db-best-practices/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -446,7 +446,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(4) - 使用计划任务主动抛送到 pushgateway (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/</id>
         <link href="https://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.344Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -611,7 +611,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(3) - 使用 mtail 采集程序日志 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/</id>
         <link href="https://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.344Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -778,7 +778,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[使用签名算法来作为微服务内部调用或者开放 API 的请求权限验证 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/30/sig-auth/</id>
         <link href="https://kebingzao.com/2023/11/30/sig-auth/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.346Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/30/sig-auth/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -941,7 +941,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[php 开启 opcache 来降低负载并提高抗并发能力 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/21/php-opcache/</id>
         <link href="https://kebingzao.com/2023/11/21/php-opcache/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.347Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/21/php-opcache/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1101,7 +1101,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[记一次 php-fpm 的配置调优 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/21/php-fpm-opt/</id>
         <link href="https://kebingzao.com/2023/11/21/php-fpm-opt/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.349Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/21/php-fpm-opt/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1255,7 +1255,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[浅谈 - 邮件服务最佳实践 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/10/19/mail-best-practices/</id>
         <link href="https://kebingzao.com/2023/10/19/mail-best-practices/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.351Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/10/19/mail-best-practices/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1420,7 +1420,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[npm 私有库开发和发布规范 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/09/21/npm-publish/</id>
         <link href="https://kebingzao.com/2023/09/21/npm-publish/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.352Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/09/21/npm-publish/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1589,7 +1589,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[使用 verdaccio 搭建前端内部私有 npm 仓库 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/09/19/npm-verdaccio/</id>
         <link href="https://kebingzao.com/2023/09/19/npm-verdaccio/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.353Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/09/19/npm-verdaccio/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1757,7 +1757,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[记一次大陆地区 VerneMQ 出现部分证书校验失败的情况 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/08/25/vernemq-ssl-err/</id>
         <link href="https://kebingzao.com/2023/08/25/vernemq-ssl-err/"/>
-        <updated>2025-06-14T05:43:45.953Z</updated>
+        <updated>2025-06-14T17:40:16.355Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/08/25/vernemq-ssl-err/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1918,7 +1918,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[chatgpt 使用过程中常用的 prompt (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/05/31/gpt-use-prompt/</id>
         <link href="https://kebingzao.com/2023/05/31/gpt-use-prompt/"/>
-        <updated>2025-06-14T05:43:45.954Z</updated>
+        <updated>2025-06-14T17:40:16.358Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/05/31/gpt-use-prompt/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2077,7 +2077,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[web 安全之 - 使用 proxy 请求页面来绕过 X-Frame-Options 机制 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/02/03/web-bypass-x-frame-options/</id>
         <link href="https://kebingzao.com/2023/02/03/web-bypass-x-frame-options/"/>
-        <updated>2025-06-14T05:43:45.956Z</updated>
+        <updated>2025-06-14T17:40:16.361Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/02/03/web-bypass-x-frame-options/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2239,7 +2239,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[后端开发针对 aws 用户权限进行细分和设置 ip 白名单 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/01/18/aws-policy-deny-ip/</id>
         <link href="https://kebingzao.com/2023/01/18/aws-policy-deny-ip/"/>
-        <updated>2025-06-14T05:43:45.957Z</updated>
+        <updated>2025-06-14T17:40:16.362Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/01/18/aws-policy-deny-ip/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2405,7 +2405,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(2) - nginx (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/</id>
         <link href="https://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/"/>
-        <updated>2025-06-14T05:43:45.963Z</updated>
+        <updated>2025-06-14T17:40:16.364Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2565,7 +2565,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(1) - 定义标签组和规范 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/</id>
         <link href="https://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/"/>
-        <updated>2025-06-14T05:43:45.963Z</updated>
+        <updated>2025-06-14T17:40:16.365Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2729,7 +2729,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (10) - 服务发现(基于文件和基于 http 端点) (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/14/prometheus-10-sd/</id>
         <link href="https://kebingzao.com/2022/12/14/prometheus-10-sd/"/>
-        <updated>2025-06-14T05:43:45.964Z</updated>
+        <updated>2025-06-14T17:40:16.366Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/14/prometheus-10-sd/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2887,7 +2887,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (9) - 借助 pushgateway 主动 push 数据 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/14/prometheus-9-push/</id>
         <link href="https://kebingzao.com/2022/12/14/prometheus-9-push/"/>
-        <updated>2025-06-14T05:43:45.966Z</updated>
+        <updated>2025-06-14T17:40:16.370Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/14/prometheus-9-push/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3050,7 +3050,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (8) - 业务程序自定义添加指标 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/12/prometheus-8-customize/</id>
         <link href="https://kebingzao.com/2022/12/12/prometheus-8-customize/"/>
-        <updated>2025-06-14T05:43:45.968Z</updated>
+        <updated>2025-06-14T17:40:16.372Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/12/prometheus-8-customize/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3208,7 +3208,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (7) - grafana 后台创建警报 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/</id>
         <link href="https://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/"/>
-        <updated>2025-06-14T05:43:45.969Z</updated>
+        <updated>2025-06-14T17:40:16.374Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3365,7 +3365,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (6) - 记录规则(recording rule) (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/07/prometheus-6-record-rule/</id>
         <link href="https://kebingzao.com/2022/12/07/prometheus-6-record-rule/"/>
-        <updated>2025-06-14T05:43:45.971Z</updated>
+        <updated>2025-06-14T17:40:16.375Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/07/prometheus-6-record-rule/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
