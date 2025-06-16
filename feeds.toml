@@ -27,3 +27,10 @@ url = "https://kebingzao.com/"
 entrySelector = "article.post > div.post-block"
 titleSelector = "a.post-title-link"
 linkSelector = "a.post-title-link"
+
+[www_debugwar_com]
+title = "Debugwar - Step in or Step over, this is a problem ..."
+url = "https://www.debugwar.com/"
+entrySelector = "div.MuiPaper-root.MuiCard-root"
+titleSelector = "h1.a"
+linkSelector = "h1.a"
