@@ -34,3 +34,10 @@ url = "https://www.debugwar.com/"
 entrySelector = "div.MuiPaper-root.MuiCard-root"
 titleSelector = "h1 > a"
 linkSelector = "h1 > a"
+
+[mouri_moe]
+title = "大贤者初春令月 Mouri_Naruto"
+url = "https://mouri.moe/zh/"
+entrySelector = "article"
+titleSelector = "h1 > a"
+linkSelector = "h1 > a"
