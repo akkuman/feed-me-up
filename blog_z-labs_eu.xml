@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.z-labs.eu/</id>
     <title>Z - Labs Blog</title>
-    <updated>2025-06-22T05:43:42.591Z</updated>
+    <updated>2025-06-22T17:43:36.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.z-labs.eu/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[So you want to rapidly run a BOF? Let's look at this 'cli4bofs' thing then]]></title>
         <id>https://blog.z-labs.eu/2025/06/04/all-about-cli4bofs-tool.html</id>
         <link href="https://blog.z-labs.eu/2025/06/04/all-about-cli4bofs-tool.html"/>
-        <updated>2025-06-22T05:43:30.191Z</updated>
+        <updated>2025-06-22T17:43:22.623Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jun 4, 2025</span> <a class="post-link" href="/2025/06/04/all-about-cli4bofs-tool.html">So you want to rapidly run a BOF? Let's look at this 'cli4bofs' thing then</a><p>While working with BOFs in Cobalt Strike environment one has an aggressor script file (<code class="language-plaintext highlighter-rouge">.cna</code>) for each BOF in his disposal. Among other things, the script registers given BOF as Beacon command, provides its usage syntax, types of arguments and often usage examples and other essential documentation.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -17,7 +17,7 @@
         <title type="html"><![CDATA[Write, debug and execute BOFs using bof-launcher (part 2)]]></title>
         <id>https://blog.z-labs.eu/2025/01/15/write-debug-and-execute-bofs-part2.html</id>
         <link href="https://blog.z-labs.eu/2025/01/15/write-debug-and-execute-bofs-part2.html"/>
-        <updated>2025-06-22T05:43:30.196Z</updated>
+        <updated>2025-06-22T17:43:22.623Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jan 15, 2025</span> <a class="post-link" href="/2025/01/15/write-debug-and-execute-bofs-part2.html">Write, debug and execute BOFs using bof-launcher (part 2)</a><p>In <a href="https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html">part 1</a> we have showed how to build <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a> and how to write/debug very simple BOF.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -25,7 +25,7 @@
         <title type="html"><![CDATA[cli4bofs v0.9.0 Release Notes]]></title>
         <id>https://blog.z-labs.eu/2024/12/27/cli4bofs-0-9-0-release-notes.html</id>
         <link href="https://blog.z-labs.eu/2024/12/27/cli4bofs-0-9-0-release-notes.html"/>
-        <updated>2025-06-22T05:43:30.196Z</updated>
+        <updated>2025-06-22T17:43:22.624Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Dec 27, 2024</span> <a class="post-link" href="/2024/12/27/cli4bofs-0-9-0-release-notes.html">cli4bofs v0.9.0 Release Notes</a><p><a href="https://github.com/The-Z-Labs/cli4bofs/releases/tag/v0.9.0">Download</a></p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
