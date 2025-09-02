@@ -2,143 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akkuman.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-01T17:39:24.347Z</updated>
+    <updated>2025-09-02T05:43:11.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[全量包分区说明（payload.bin） (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8657/</id>
-        <link href="https://www.daxiaamu.com/8657/"/>
-        <updated>2025-09-01T17:39:08.778Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8657/" class="mdui-text-color-theme ainList"><h1>全量包分区说明（payload.bin）</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">I welcome anyone with developer-level expertise to offer corrections to improve this writeup. My hope is the below information will enable users on this forum to avoid flashing errors and to recover more easily from soft bricks (where OEM unlocking …</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 3,731&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-07-24&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8657/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共田风扇各型号区别和异同点 | F95D (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8636/</id>
-        <link href="https://www.daxiaamu.com/8636/"/>
-        <updated>2025-09-01T17:39:08.780Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8636/" class="mdui-text-color-theme ainList"><h1>共田风扇各型号区别和异同点 | F95D</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">买了一个F95D，附赠了说明书，早晚会丢，不如发网上，嘿嘿 我又给它设计了个简易的支架，开源地址：https://makerworld.com.cn/zh/models/1373668-gong-tian-f95shou-chi-xiao-feng-shan-ji-jian-zhi-j#profileId-1485850</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 3,188&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-06-26&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8636/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用OPLUS盒子APP，提取ColorOS收到更新的OTA全量包链接 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8624/</id>
-        <link href="https://www.daxiaamu.com/8624/"/>
-        <updated>2025-09-01T17:39:08.782Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8624/" class="mdui-text-color-theme ainList"><h1>使用OPLUS盒子APP，提取ColorOS收到更新的OTA全量包链接</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">本教程的目的 当你收到全量包更新时，除了直接安装更新之外，同时你也可以将收到的OTA全量包链接提取出来，自动上报给大侠阿木以供网站收录，亦可以分享给其他人。 一些你可能会问的问题 其他人没有么？为什么需要我分享？ 是的，其他人没有 为什么其他人没收到更新…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 43,259&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-06-15&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8624/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加官方ROM网址oxygenos.oneplus.net服务器关闭，如何下载这个服务器上的ROM (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8608/</id>
-        <link href="https://www.daxiaamu.com/8608/"/>
-        <updated>2025-09-01T17:39:08.783Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8608/" class="mdui-text-color-theme ainList"><h1>一加官方ROM网址oxygenos.oneplus.net服务器关闭，如何下载这个服务器上的ROM</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">实际上没有关闭，只是进行了一些权限限制，通过这个方法可以下载 修改系统的hosts文件，增加一行 23.48.224.239 oxygenos.oneplus.net 命令行中使用如下命令即可下载这个域名下的ROM了 curl -C - -LO --resolve oxygenos.oneplus.net:443:23.48.224.239 &lt;url&gt;</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 11,546&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-06-03&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8608/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首发 | 一加平板Pro ColorOS/氧OS互刷懒人包（TWRP卡刷方案） (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8596/</id>
-        <link href="https://www.daxiaamu.com/8596/"/>
-        <updated>2025-09-01T17:39:08.785Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8596/" class="mdui-text-color-theme ainList"><h1>全球首发 | 一加平板Pro ColorOS/氧OS互刷懒人包（TWRP卡刷方案）</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">之前做了一加11、一加12****的ColorOS/氧OS互刷方案，稳定可靠，反响很好。本次发布的是一加平板Pro（海外叫OnePlus Pad 2）的。其他型号的包我会陆陆续续制作，请大家耐心等待。 方案优势 人人都熟悉的TWRP卡刷操作，避免内心恐惧 安全可靠的TWRP卡刷方案，完全不存…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 14,401&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-05-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8596/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首发 | 一加ACE 2 ColorOS/氧OS互刷懒人包（TWRP卡刷方案） (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8591/</id>
-        <link href="https://www.daxiaamu.com/8591/"/>
-        <updated>2025-09-01T17:39:08.787Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8591/" class="mdui-text-color-theme ainList"><h1>全球首发 | 一加ACE 2 ColorOS/氧OS互刷懒人包（TWRP卡刷方案）</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">之前做了一加11和一加12的ColorOS/氧OS互刷方案，稳定可靠，反响很好。本次发布的是一加ACE2（海外叫11R）的。其他型号的包我会陆陆续续制作，请大家耐心等待。 方案优势 人人都熟悉的TWRP卡刷操作，避免内心恐惧 安全可靠的TWRP卡刷方案，完全不存在失败和变砖风险 …</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 7,529&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-05-11&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8591/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ColorOS 15（Android 15）及以上系统屏幕常亮的adb shell命令 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8585/</id>
-        <link href="https://www.daxiaamu.com/8585/"/>
-        <updated>2025-09-01T17:39:08.790Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8585/" class="mdui-text-color-theme ainList"><h1>ColorOS 15（Android 15）及以上系统屏幕常亮的adb shell命令</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">前几年经常会遇到需要屏幕保持常亮的情况，但是play市场下载了一大堆应用，都没用。我以为是ColorOS相较原生系统差距较大导致的，所以也就放弃了，但是没想到近期发现了一个方法可以真正实现屏幕常亮。 保持屏幕常亮不锁定方法 电脑上用adb执行 adb shell settings pu…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 5,913&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-05-09&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8585/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加ACE5至尊、一加ACE5竞速、一加平板2 Pro、13T OnePlus PKX110一键ROOT教程|Magisk|Kitsune|Alpha面具|Apatch|KernelSU|KernelSU-Next (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8573/</id>
-        <link href="https://www.daxiaamu.com/8573/"/>
-        <updated>2025-09-01T17:39:08.792Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8573/" class="mdui-text-color-theme ainList"><h1>一加ACE5至尊、一加ACE5竞速、一加平板2 Pro、13T OnePlus PKX110一键ROOT教程|Magisk|Kitsune|Alpha面具|Apatch|KernelSU|KernelSU-Next</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">大家好，我是一加全能工具箱的作者大侠阿木。每逢有新机出来，大家都会催促我更新工具箱来支持一键ROOT。 但实际上，基于优化的设计和CS架构，工具箱已经实现通刷，无需专门适配。 但是，架不住大家不知道，老有人问，所以还是弄个帖子在这里，方便大家搜索过来。 实际…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 15,666&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-28&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8573/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加7 Pro 5G Sprint版（GM1925）刷原生ROM（YAAP）教程 (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8554/</id>
-        <link href="https://www.daxiaamu.com/8554/"/>
-        <updated>2025-09-01T17:39:08.794Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8554/" class="mdui-text-color-theme ainList"><h1>一加7 Pro 5G Sprint版（GM1925）刷原生ROM（YAAP）教程</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">这台机子比较难搞，在我手头好几年了，第一次给它刷上原生系统，特此记录一下。 这台机子折腾过程 之前有文章研究过这台设备《一加7 Pro 5G GM1925 增量升级失败，手动安装全量包教程》。 这台机子本身到手时是网络锁已经解锁的。写上面文章时搞定了救砖、转国际版、解…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 7,258&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-14&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8554/">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首发 | 一加12 ColorOS/氧OS互刷懒人包（TWRP卡刷方案） (大侠阿木博客)]]></title>
-        <id>https://www.daxiaamu.com/8547/</id>
-        <link href="https://www.daxiaamu.com/8547/"/>
-        <updated>2025-09-01T17:39:08.796Z</updated>
-        <content type="html"><![CDATA[<div class="mdui-card-actions">
-        <a href="https://www.daxiaamu.com/8547/" class="mdui-text-color-theme ainList"><h1>全球首发 | 一加12 ColorOS/氧OS互刷懒人包（TWRP卡刷方案）</h1></a>
-        <p class="ct1-p mdui-text-color-black cont2">之前做了一加11的ColorOS和氧OS的完美互刷懒人包，大家反馈都不错，希望做其他型号的。我手头恰有有一加12，但是一加12的原理有所不同，好在经过一段时间的开发和测试也终于完成了。 方案优势 人人都熟悉的TWRP卡刷操作，避免内心恐惧 安全可靠的TWRP卡刷方案，完全不…</p>        <div class="mdui-divider underline"></div>
-                <span class="info">&nbsp;&nbsp;
-            <i class="mdui-icon material-icons info-icon"></i> 11,422&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i> 2025-04-12&nbsp;&nbsp;            <i class="mdui-icon material-icons info-icon"></i>         </span>
-        <a class="mdui-btn mdui-ripple mdui-ripple-white coun-read mdui-text-color-theme-accent" href="https://www.daxiaamu.com/8547/">阅读全文</a>
-    </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[So you want to rapidly run a BOF? Let's look at this 'cli4bofs' thing then (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2025/06/04/all-about-cli4bofs-tool.html</id>
         <link href="https://blog.z-labs.eu/2025/06/04/all-about-cli4bofs-tool.html"/>
-        <updated>2025-09-01T17:39:11.324Z</updated>
+        <updated>2025-09-02T05:42:58.321Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jun 4, 2025</span> <a class="post-link" href="/2025/06/04/all-about-cli4bofs-tool.html">So you want to rapidly run a BOF? Let's look at this 'cli4bofs' thing then</a><p>While working with BOFs in Cobalt Strike environment one has an aggressor script file (<code class="language-plaintext highlighter-rouge">.cna</code>) for each BOF in his disposal. Among other things, the script registers given BOF as Beacon command, provides its usage syntax, types of arguments and often usage examples and other essential documentation.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -146,7 +16,7 @@
         <title type="html"><![CDATA[Write, debug and execute BOFs using bof-launcher (part 2) (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2025/01/15/write-debug-and-execute-bofs-part2.html</id>
         <link href="https://blog.z-labs.eu/2025/01/15/write-debug-and-execute-bofs-part2.html"/>
-        <updated>2025-09-01T17:39:11.326Z</updated>
+        <updated>2025-09-02T05:42:58.322Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Jan 15, 2025</span> <a class="post-link" href="/2025/01/15/write-debug-and-execute-bofs-part2.html">Write, debug and execute BOFs using bof-launcher (part 2)</a><p>In <a href="https://blog.z-labs.eu/2024/12/02/write-debug-and-execute-bofs-part1.html">part 1</a> we have showed how to build <a href="https://github.com/The-Z-Labs/bof-launcher">bof-launcher project</a> and how to write/debug very simple BOF.</p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -154,7 +24,7 @@
         <title type="html"><![CDATA[cli4bofs v0.9.0 Release Notes (Z - Labs Blog)]]></title>
         <id>https://blog.z-labs.eu/2024/12/27/cli4bofs-0-9-0-release-notes.html</id>
         <link href="https://blog.z-labs.eu/2024/12/27/cli4bofs-0-9-0-release-notes.html"/>
-        <updated>2025-09-01T17:39:11.326Z</updated>
+        <updated>2025-09-02T05:42:58.324Z</updated>
         <content type="html"><![CDATA[<span class="post-date">Dec 27, 2024</span> <a class="post-link" href="/2024/12/27/cli4bofs-0-9-0-release-notes.html">cli4bofs v0.9.0 Release Notes</a><p><a href="https://github.com/The-Z-Labs/cli4bofs/releases/tag/v0.9.0">Download</a></p>
 <span class="post-tags">Tags: <a href="/tags/toolbox.html">toolbox</a>,&nbsp;<a href="/tags/adversarial-attack-simulation.html">adversarial-attack-simulation</a>,&nbsp;<a href="/tags/bof-launcher.html">bof-launcher</a>,&nbsp;<a href="/tags/BOF.html">BOF</a></span>]]></content>
     </entry>
@@ -283,7 +153,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[浅谈 - 数据库开发规范 & 最佳实践 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/04/30/db-best-practices/</id>
         <link href="https://kebingzao.com/2024/04/30/db-best-practices/"/>
-        <updated>2025-09-01T17:39:14.416Z</updated>
+        <updated>2025-09-02T05:43:01.260Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/04/30/db-best-practices/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -446,7 +316,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(4) - 使用计划任务主动抛送到 pushgateway (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/</id>
         <link href="https://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/"/>
-        <updated>2025-09-01T17:39:14.416Z</updated>
+        <updated>2025-09-02T05:43:01.260Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/02/22/prometheus-best-practices-4-cron-pushgateway/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -611,7 +481,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(3) - 使用 mtail 采集程序日志 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/</id>
         <link href="https://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/"/>
-        <updated>2025-09-01T17:39:14.419Z</updated>
+        <updated>2025-09-02T05:43:01.262Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2024/02/19/prometheus-best-practices-3-mtail/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -778,7 +648,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[使用签名算法来作为微服务内部调用或者开放 API 的请求权限验证 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/30/sig-auth/</id>
         <link href="https://kebingzao.com/2023/11/30/sig-auth/"/>
-        <updated>2025-09-01T17:39:14.421Z</updated>
+        <updated>2025-09-02T05:43:01.264Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/30/sig-auth/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -941,7 +811,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[php 开启 opcache 来降低负载并提高抗并发能力 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/21/php-opcache/</id>
         <link href="https://kebingzao.com/2023/11/21/php-opcache/"/>
-        <updated>2025-09-01T17:39:14.422Z</updated>
+        <updated>2025-09-02T05:43:01.266Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/21/php-opcache/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1101,7 +971,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[记一次 php-fpm 的配置调优 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/11/21/php-fpm-opt/</id>
         <link href="https://kebingzao.com/2023/11/21/php-fpm-opt/"/>
-        <updated>2025-09-01T17:39:14.423Z</updated>
+        <updated>2025-09-02T05:43:01.268Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/11/21/php-fpm-opt/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1255,7 +1125,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[浅谈 - 邮件服务最佳实践 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/10/19/mail-best-practices/</id>
         <link href="https://kebingzao.com/2023/10/19/mail-best-practices/"/>
-        <updated>2025-09-01T17:39:14.426Z</updated>
+        <updated>2025-09-02T05:43:01.269Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/10/19/mail-best-practices/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1420,7 +1290,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[npm 私有库开发和发布规范 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/09/21/npm-publish/</id>
         <link href="https://kebingzao.com/2023/09/21/npm-publish/"/>
-        <updated>2025-09-01T17:39:14.427Z</updated>
+        <updated>2025-09-02T05:43:01.270Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/09/21/npm-publish/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1589,7 +1459,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[使用 verdaccio 搭建前端内部私有 npm 仓库 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/09/19/npm-verdaccio/</id>
         <link href="https://kebingzao.com/2023/09/19/npm-verdaccio/"/>
-        <updated>2025-09-01T17:39:14.429Z</updated>
+        <updated>2025-09-02T05:43:01.272Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/09/19/npm-verdaccio/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1757,7 +1627,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[记一次大陆地区 VerneMQ 出现部分证书校验失败的情况 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/08/25/vernemq-ssl-err/</id>
         <link href="https://kebingzao.com/2023/08/25/vernemq-ssl-err/"/>
-        <updated>2025-09-01T17:39:14.431Z</updated>
+        <updated>2025-09-02T05:43:01.273Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/08/25/vernemq-ssl-err/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -1918,7 +1788,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[chatgpt 使用过程中常用的 prompt (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/05/31/gpt-use-prompt/</id>
         <link href="https://kebingzao.com/2023/05/31/gpt-use-prompt/"/>
-        <updated>2025-09-01T17:39:14.432Z</updated>
+        <updated>2025-09-02T05:43:01.275Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/05/31/gpt-use-prompt/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2077,7 +1947,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[web 安全之 - 使用 proxy 请求页面来绕过 X-Frame-Options 机制 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/02/03/web-bypass-x-frame-options/</id>
         <link href="https://kebingzao.com/2023/02/03/web-bypass-x-frame-options/"/>
-        <updated>2025-09-01T17:39:14.434Z</updated>
+        <updated>2025-09-02T05:43:01.276Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/02/03/web-bypass-x-frame-options/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2239,7 +2109,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[后端开发针对 aws 用户权限进行细分和设置 ip 白名单 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2023/01/18/aws-policy-deny-ip/</id>
         <link href="https://kebingzao.com/2023/01/18/aws-policy-deny-ip/"/>
-        <updated>2025-09-01T17:39:14.436Z</updated>
+        <updated>2025-09-02T05:43:01.277Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2023/01/18/aws-policy-deny-ip/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2405,7 +2275,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(2) - nginx (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/</id>
         <link href="https://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/"/>
-        <updated>2025-09-01T17:39:14.439Z</updated>
+        <updated>2025-09-02T05:43:01.281Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/30/prometheus-best-practices-2-nginx/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2565,7 +2435,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[prometheus + grafana 实战篇(1) - 定义标签组和规范 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/</id>
         <link href="https://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/"/>
-        <updated>2025-09-01T17:39:14.441Z</updated>
+        <updated>2025-09-02T05:43:01.282Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/30/prometheus-best-practices-1-labels/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2729,7 +2599,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (10) - 服务发现(基于文件和基于 http 端点) (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/14/prometheus-10-sd/</id>
         <link href="https://kebingzao.com/2022/12/14/prometheus-10-sd/"/>
-        <updated>2025-09-01T17:39:14.442Z</updated>
+        <updated>2025-09-02T05:43:01.284Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/14/prometheus-10-sd/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -2887,7 +2757,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (9) - 借助 pushgateway 主动 push 数据 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/14/prometheus-9-push/</id>
         <link href="https://kebingzao.com/2022/12/14/prometheus-9-push/"/>
-        <updated>2025-09-01T17:39:14.443Z</updated>
+        <updated>2025-09-02T05:43:01.285Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/14/prometheus-9-push/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3050,7 +2920,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (8) - 业务程序自定义添加指标 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/12/prometheus-8-customize/</id>
         <link href="https://kebingzao.com/2022/12/12/prometheus-8-customize/"/>
-        <updated>2025-09-01T17:39:14.444Z</updated>
+        <updated>2025-09-02T05:43:01.287Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/12/prometheus-8-customize/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3208,7 +3078,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (7) - grafana 后台创建警报 (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/</id>
         <link href="https://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/"/>
-        <updated>2025-09-01T17:39:14.446Z</updated>
+        <updated>2025-09-02T05:43:01.289Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/07/prometheus-7-grafana-alert/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3365,7 +3235,7 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[基于 prometheus 打造监控报警后台 (6) - 记录规则(recording rule) (Zach Ke's Notes)]]></title>
         <id>https://kebingzao.com/2022/12/07/prometheus-6-record-rule/</id>
         <link href="https://kebingzao.com/2022/12/07/prometheus-6-record-rule/"/>
-        <updated>2025-09-01T17:39:14.448Z</updated>
+        <updated>2025-09-02T05:43:01.290Z</updated>
         <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="http://kebingzao.com/2022/12/07/prometheus-6-record-rule/">
 
     <span hidden="" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
@@ -3522,140 +3392,140 @@ Zig, C and/or assembly language on Windows (x86/x64) and Linux (x86/x64/ARM/AARC
         <title type="html"><![CDATA[Solving the Issue of NodeJS Compression Library 'Compression' Not Working Effectively in Express (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/solving-nodejs-library-compression-do-not-compress-content-problem?lang=en-US</id>
         <link href="https://www.debugwar.com/article/solving-nodejs-library-compression-do-not-compress-content-problem?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.063Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/solving-nodejs-library-compression-do-not-compress-content-problem?lang=en-US">Solving the Issue of NodeJS Compression Library 'Compression' Not Working Effectively in Express</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2025-03-27 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_LJ9PAP4BCH7MB2JFBK6MKNAT78/_hup0_seS5BxnHUP1OSYijw?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">I &nbsp;have been&nbsp; made &nbsp;to optimize the loading speed of my blog recently, the mos</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.396Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/solving-nodejs-library-compression-do-not-compress-content-problem?lang=en-US">Solving the Issue of NodeJS Compression Library 'Compression' Not Working Effectively in Express</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2025-03-27<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_LJ9PAP4BCH7MB2JFBK6MKNAT78/_hup0_seS5BxnHUP1OSYijw?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">I &nbsp;have been&nbsp; made &nbsp;to optimize the loading speed of my blog recently, the mos</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BSOD dump：INVALID_PROCESS_ATTACH_ATTEMPT (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/Dump-Analysis-BSOD-While-Attach-to-Exited-Process?lang=en-US</id>
         <link href="https://www.debugwar.com/article/Dump-Analysis-BSOD-While-Attach-to-Exited-Process?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.065Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Dump-Analysis-BSOD-While-Attach-to-Exited-Process?lang=en-US">BSOD dump：INVALID_PROCESS_ATTACH_ATTEMPT</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2024-09-18 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_50M1E845916L53LRQF91MRB58O/_Ob88uwsQOhD4BUmThZYMvQ?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">Time flies, nearly a year has passed since the last article analyzing the blue</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.398Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Dump-Analysis-BSOD-While-Attach-to-Exited-Process?lang=en-US">BSOD dump：INVALID_PROCESS_ATTACH_ATTEMPT</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2024-09-18<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_50M1E845916L53LRQF91MRB58O/_Ob88uwsQOhD4BUmThZYMvQ?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">Time flies, nearly a year has passed since the last article analyzing the blue</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Compiling windows drivers using WinDDK on Linux with wine (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/Compile-Windows-Drivers-with-WinDDK-under-Linux?lang=en-US</id>
         <link href="https://www.debugwar.com/article/Compile-Windows-Drivers-with-WinDDK-under-Linux?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.069Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Compile-Windows-Drivers-with-WinDDK-under-Linux?lang=en-US">Compiling windows drivers using WinDDK on Linux with wine</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2024-08-31 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_RP8046OAND2TV9M2TD6QFPT45O/_DlKyfCpMBPadzFhHjTHj6A?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">Dear readers, please don’t be puzzled—because even I was a bit confused when I</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.400Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Compile-Windows-Drivers-with-WinDDK-under-Linux?lang=en-US">Compiling windows drivers using WinDDK on Linux with wine</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2024-08-31<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_RP8046OAND2TV9M2TD6QFPT45O/_DlKyfCpMBPadzFhHjTHj6A?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">Dear readers, please don’t be puzzled—because even I was a bit confused when I</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BSOD dump analysis: PageFault and stack out-of-bounds (DoubleFault) (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/Analyze-Two-Kernel-Dumps-PageFault-and-DoubleFault?lang=en-US</id>
         <link href="https://www.debugwar.com/article/Analyze-Two-Kernel-Dumps-PageFault-and-DoubleFault?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.069Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Analyze-Two-Kernel-Dumps-PageFault-and-DoubleFault?lang=en-US">BSOD dump analysis: PageFault and stack out-of-bounds (DoubleFault)</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-12-30 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_4U2GN7S9GT7B9BEL0VJGLC76H0/_BdV2Xv_9nom2cgWJeRpijw?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">Recently, I have received quite a few blue screen crash dumps, two of which ar</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.401Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Analyze-Two-Kernel-Dumps-PageFault-and-DoubleFault?lang=en-US">BSOD dump analysis: PageFault and stack out-of-bounds (DoubleFault)</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-12-30<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_4U2GN7S9GT7B9BEL0VJGLC76H0/_BdV2Xv_9nom2cgWJeRpijw?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">Recently, I have received quite a few blue screen crash dumps, two of which ar</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Build a command line working environment based on OpenSSH + WSL on Windows (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/Build-Command-Line-Working-Environment-with-OpenSSH-and-WSL-on-Windows?lang=en-US</id>
         <link href="https://www.debugwar.com/article/Build-Command-Line-Working-Environment-with-OpenSSH-and-WSL-on-Windows?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.075Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Build-Command-Line-Working-Environment-with-OpenSSH-and-WSL-on-Windows?lang=en-US">Build a command line working environment based on OpenSSH + WSL on Windows</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-07-19 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_T66I0VSDAP7UF7LG81LNM1IVFG/_RXM_Hs3NPynaqhdxngsV6g?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">The author’s main working environment has always been Linux, but in some scena</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.402Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Build-Command-Line-Working-Environment-with-OpenSSH-and-WSL-on-Windows?lang=en-US">Build a command line working environment based on OpenSSH + WSL on Windows</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-07-19<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_T66I0VSDAP7UF7LG81LNM1IVFG/_RXM_Hs3NPynaqhdxngsV6g?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">The author’s main working environment has always been Linux, but in some scena</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Construct flink HA cluster on kubernetes (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/Construct-Flink-HA-Cluster-on-Kubernetes?lang=en-US</id>
         <link href="https://www.debugwar.com/article/Construct-Flink-HA-Cluster-on-Kubernetes?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.076Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Construct-Flink-HA-Cluster-on-Kubernetes?lang=en-US">Construct flink HA cluster on kubernetes</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-05-23 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_PAPBU5FL257A1CABSBOR953NUO/_J0Sh6pEY7j5cajcQvI9reg?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">With the development and improvement of various IT infrastructures, various ma</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.405Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Construct-Flink-HA-Cluster-on-Kubernetes?lang=en-US">Construct flink HA cluster on kubernetes</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-05-23<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_PAPBU5FL257A1CABSBOR953NUO/_J0Sh6pEY7j5cajcQvI9reg?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">With the development and improvement of various IT infrastructures, various ma</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Multi thread illusion - analyze of a fake multi thread situation (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/Multi-Thread-Illusion-Analyze-of-a-Fake-Multi-Thread-Situation?lang=en-US</id>
         <link href="https://www.debugwar.com/article/Multi-Thread-Illusion-Analyze-of-a-Fake-Multi-Thread-Situation?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.078Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Multi-Thread-Illusion-Analyze-of-a-Fake-Multi-Thread-Situation?lang=en-US">Multi thread illusion - analyze of a fake multi thread situation</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-05-09 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_804TQ8LM7P10R6OP68UBP52NN8/__xc5ZXYGjCrUgyN3DZKQSw?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">Multithreading is a technique we often use in daily development. The general p</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.406Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Multi-Thread-Illusion-Analyze-of-a-Fake-Multi-Thread-Situation?lang=en-US">Multi thread illusion - analyze of a fake multi thread situation</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-05-09<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_804TQ8LM7P10R6OP68UBP52NN8/__xc5ZXYGjCrUgyN3DZKQSw?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">Multithreading is a technique we often use in daily development. The general p</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Iterate FSD driver dispatch functions and Hook detection (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/iterate-fsd-driver-dispatch-function-and-detect-hooks?lang=en-US</id>
         <link href="https://www.debugwar.com/article/iterate-fsd-driver-dispatch-function-and-detect-hooks?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.079Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/iterate-fsd-driver-dispatch-function-and-detect-hooks?lang=en-US">Iterate FSD driver dispatch functions and Hook detection</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-04-10 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_BBU6V4MOI131DE3CR2NUG0D2CC/_OyLvBylqyTlscORf3RpUpw?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">FSD (File System Drivers) is located at the bottom of the system, closest to t</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.407Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/iterate-fsd-driver-dispatch-function-and-detect-hooks?lang=en-US">Iterate FSD driver dispatch functions and Hook detection</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-04-10<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_BBU6V4MOI131DE3CR2NUG0D2CC/_OyLvBylqyTlscORf3RpUpw?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">FSD (File System Drivers) is located at the bottom of the system, closest to t</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Traverse the unloaded modules in the kernel (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/iterate-unloaded-modules-in-windows-kernel?lang=en-US</id>
         <link href="https://www.debugwar.com/article/iterate-unloaded-modules-in-windows-kernel?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.081Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/iterate-unloaded-modules-in-windows-kernel?lang=en-US">Traverse the unloaded modules in the kernel</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-03-26 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_SG5RV25TNH4M91UVOJ1DKGMNRK/_nkRro7Xk9pxM75meNMZ0LQ?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">In the process of malware analysis, we should not miss any clues. The devil is</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.411Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/iterate-unloaded-modules-in-windows-kernel?lang=en-US">Traverse the unloaded modules in the kernel</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-03-26<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_SG5RV25TNH4M91UVOJ1DKGMNRK/_nkRro7Xk9pxM75meNMZ0LQ?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">In the process of malware analysis, we should not miss any clues. The devil is</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GIMP image matting - Mask Method (Debugwar - Step in or Step over, this is a problem ...)]]></title>
         <id>https://www.debugwar.com/article/Image-Matting-with-GIMP-using-Mask-Layer?lang=en-US</id>
         <link href="https://www.debugwar.com/article/Image-Matting-with-GIMP-using-Mask-Layer?lang=en-US"/>
-        <updated>2025-09-01T17:39:19.083Z</updated>
-        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss95"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Image-Matting-with-GIMP-using-Mask-Layer?lang=en-US">GIMP image matting - Mask Method</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss96"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-01-18 @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss99" style="background-image: url(&quot;/api/image/1026_3U51RB6I95469FV44ETIQ4C2O0/_Gz5T829yTjG3S7KlwQYrjw?lang=en-US&quot;);" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss98 MuiTypography-body2">The blogger usually likes to look at military equipment. Recently, while brows</p></div>]]></content>
+        <updated>2025-09-02T05:43:06.412Z</updated>
+        <content type="html"><![CDATA[<div class="MuiCardHeader-root"><div class="MuiCardHeader-content"><span class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"><div class="jss45"><h1 class="MuiTypography-root MuiTypography-h1"><a href="/article/Image-Matting-with-GIMP-using-Mask-Layer?lang=en-US">GIMP image matting - Mask Method</a></h1></div></span><span class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"><div class="jss46"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"></path><path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z"></path></svg><span>2023-01-18<!-- --> @ UTC+0</span></div></span></div></div><div class="MuiCardMedia-root jss49" style="background-image:url(&quot;/api/image/1026_3U51RB6I95469FV44ETIQ4C2O0/_Gz5T829yTjG3S7KlwQYrjw?lang=en-US&quot;)" title="Paella dish"></div><div class="MuiCardContent-root"><p class="MuiTypography-root jss48 MuiTypography-body2">The blogger usually likes to look at military equipment. Recently, while brows</p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[暗影女仆 (Shadow Maiden) 1.0 (Build 113) (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/06/01/Shadow-Maiden-1.0.113/</id>
         <link href="https://mouri.moe/zh/2022/06/01/Shadow-Maiden-1.0.113/"/>
-        <updated>2025-09-01T17:39:23.269Z</updated>
+        <updated>2025-09-02T05:43:10.219Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/06/01/Shadow-Maiden-1.0.113/" target="_self">暗影女仆 (Shadow Maiden) 1.0 (Build 113)</a></h1><p class="index-excerpt"><a href="/zh/2022/06/01/Shadow-Maiden-1.0.113/" target="_self">由于为爱发电是不可持续的，我希望能找到一种方法来保持我对维护开源项目的热情。因此，我很自豪地介绍我的基于 Patreon 和爱发电的赞助服务，我认为这是实现这个目标的一个好方法。 Patreon：https://www.patreon.com/MouriNaruto 爱发电：https://afdian.net/a/MouriNaruto 在我的 Patreon 和爱发电页面，有三个级别可以</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-06-01 00:00" pubdate="">2022-06-01</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/Windows/">Windows</a> <a href="/zh/categories/Windows/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/categories/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%AE%A3%E5%B8%83/">宣布</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/Windows/">Windows</a> <a href="/zh/tags/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/tags/%E5%AE%A3%E5%B8%83/">宣布</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于为 C++ 项目选择 UI 框架的建议 (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/05/31/Suggestion-of-choosing-a-UI-framework-for-Cpp-projects/</id>
         <link href="https://mouri.moe/zh/2022/05/31/Suggestion-of-choosing-a-UI-framework-for-Cpp-projects/"/>
-        <updated>2025-09-01T17:39:23.271Z</updated>
+        <updated>2025-09-02T05:43:10.225Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/05/31/Suggestion-of-choosing-a-UI-framework-for-Cpp-projects/" target="_self">关于为 C++ 项目选择 UI 框架的建议</a></h1><p class="index-excerpt"><a href="/zh/2022/05/31/Suggestion-of-choosing-a-UI-framework-for-Cpp-projects/" target="_self">为 C++ 项目选择 UI 框架，我的建议是这样的： 仅支持 Windows 现代用户体验：XAML Islands (Windows Runtime XAML) 和 Windows UI Library 2 的组合 支持传统平台：Qt (需要自绘界面)，WTL (需要小巧体积) 需要跨平台支持 商业应用开发：Qt (需要自绘界面)，wxWidgets (可以原生控件) 嵌入式设备：LV</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-05-31 20:27" pubdate="">2022-05-31</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/C/">C++</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/C/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/C/%E5%BC%80%E5%8F%91/%E4%BD%93%E9%AA%8C/">体验</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/tags/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/tags/%E4%BD%93%E9%AA%8C/">体验</a> <a href="/zh/tags/C/">C++</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[分享一个通过句柄值关闭特定窗口的简单命令行工具实现 (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/04/30/Share-a-simple-command-line-tool-implementation-for-closing-specific-window-by-its-handle-value/</id>
         <link href="https://mouri.moe/zh/2022/04/30/Share-a-simple-command-line-tool-implementation-for-closing-specific-window-by-its-handle-value/"/>
-        <updated>2025-09-01T17:39:23.272Z</updated>
+        <updated>2025-09-02T05:43:10.226Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/04/30/Share-a-simple-command-line-tool-implementation-for-closing-specific-window-by-its-handle-value/" target="_self">分享一个通过句柄值关闭特定窗口的简单命令行工具实现</a></h1><p class="index-excerpt"><a href="/zh/2022/04/30/Share-a-simple-command-line-tool-implementation-for-closing-specific-window-by-its-handle-value/" target="_self">在过去的一个月，我在研究 Windows 11 系统自带的已经通过 XAML Islands 现代化后的应用的自定义标题栏的实现。为了更加清晰的 了解其实现原理，于是需要关掉待研究应用的一些子窗口。然而暂时没有发现现成的工具，于是自己随便写了一个并分享出来，希望能 够帮助到一部分读者。 实现123456789101112131415#include &lt;windows.h&gt;#includ</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-04-30 23:10" pubdate="">2022-04-30</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/">Windows</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/%E4%BD%93%E9%AA%8C/">体验</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/tags/Windows/">Windows</a> <a href="/zh/tags/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/tags/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/tags/%E4%BD%93%E9%AA%8C/">体验</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[使 XAML Islands 托管的 UWP XAML 内容响应 Windows 明暗主题的更改 (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/04/16/Make-UWP-XAML-content-hosted-by-XAML-Islands-responsive-to-changes-in-Windows-Light-and-Dark-themes/</id>
         <link href="https://mouri.moe/zh/2022/04/16/Make-UWP-XAML-content-hosted-by-XAML-Islands-responsive-to-changes-in-Windows-Light-and-Dark-themes/"/>
-        <updated>2025-09-01T17:39:23.273Z</updated>
+        <updated>2025-09-02T05:43:10.227Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/04/16/Make-UWP-XAML-content-hosted-by-XAML-Islands-responsive-to-changes-in-Windows-Light-and-Dark-themes/" target="_self">使 XAML Islands 托管的 UWP XAML 内容响应 Windows 明暗主题的更改</a></h1><p class="index-excerpt"><a href="/zh/2022/04/16/Make-UWP-XAML-content-hosted-by-XAML-Islands-responsive-to-changes-in-Windows-Light-and-Dark-themes/" target="_self">在微软的 XAML Islands 的官方文档 中表明由 XAML Islands 托管的 UWP XAML 内容不支持响应 Windows 明暗主题的更改且没有变通方案，即文档中 Limitations and workarounds 的 Not supported 描述的 UWP XAML content in XAML Islands doesn't respond to Wind</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-04-16 17:43" pubdate="">2022-04-16</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/">Windows</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/%E4%BD%93%E9%AA%8C/">体验</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/tags/Windows/">Windows</a> <a href="/zh/tags/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/tags/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/tags/%E4%BD%93%E9%AA%8C/">体验</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[宣布我已成为一名 Microsoft MVP (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/02/16/Announcing-I-have-been-a-Microsoft-MVP/</id>
         <link href="https://mouri.moe/zh/2022/02/16/Announcing-I-have-been-a-Microsoft-MVP/"/>
-        <updated>2025-09-01T17:39:23.275Z</updated>
+        <updated>2025-09-02T05:43:10.230Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/02/16/Announcing-I-have-been-a-Microsoft-MVP/" target="_self">宣布我已成为一名 Microsoft MVP</a></h1><p class="index-excerpt"><a href="/zh/2022/02/16/Announcing-I-have-been-a-Microsoft-MVP/" target="_self">首先我自豪的宣布，我成功当选了 2022 年 2 月的 Windows Development 方向的 Microsoft MVP，顺便贴两张图证明一下。 P.S. 水晶奖杯挺帅的，还有就是真的可以用笔名兼英文名参与 Microsoft MVP 评选让自己的心结少了一些。</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-02-16 22:02" pubdate="">2022-02-16</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E5%85%AC%E5%91%8A/">公告</a> <a href="/zh/categories/%E5%85%AC%E5%91%8A/%E7%94%9F%E6%B4%BB/">生活</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E5%85%AC%E5%91%8A/">公告</a> <a href="/zh/tags/%E7%94%9F%E6%B4%BB/">生活</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[部署现代 Windows 应用的注意事项 (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/02/16/Notes-for-deploying-modern-Windows-apps/</id>
         <link href="https://mouri.moe/zh/2022/02/16/Notes-for-deploying-modern-Windows-apps/"/>
-        <updated>2025-09-01T17:39:23.279Z</updated>
+        <updated>2025-09-02T05:43:10.231Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/02/16/Notes-for-deploying-modern-Windows-apps/" target="_self">部署现代 Windows 应用的注意事项</a></h1><p class="index-excerpt"><a href="/zh/2022/02/16/Notes-for-deploying-modern-Windows-apps/" target="_self">在部署自己开发的 NanaZip 的时候，遇到了一些需要注意的事项。 由于希望后来者可以避坑，遂写了这篇文章。 使用 DISM 离线集成现代 Windows 应用需要获取对应应用的 Preinstallation Kit 包，因为里面包含了对应应用的许可证文件。 如果集成应用时没有指定或者使用正确的许可证文件，则该应用大概率会在系统映像第一次启动的时候会自动移除。 你要问，如果只有 msixbun</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-02-16 17:07" pubdate="">2022-02-16</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/">Windows</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/%E4%BD%93%E9%AA%8C/">体验</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/tags/Windows/">Windows</a> <a href="/zh/tags/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/tags/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/tags/%E4%BD%93%E9%AA%8C/">体验</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[当 VMware Workstation 与 Hyper-V 共存时的注意事项 (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/02/07/Notes-for-using-VMware-Workstation-with-Hyper-V-enabled/</id>
         <link href="https://mouri.moe/zh/2022/02/07/Notes-for-using-VMware-Workstation-with-Hyper-V-enabled/"/>
-        <updated>2025-09-01T17:39:23.281Z</updated>
+        <updated>2025-09-02T05:43:10.232Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/02/07/Notes-for-using-VMware-Workstation-with-Hyper-V-enabled/" target="_self">当 VMware Workstation 与 Hyper-V 共存时的注意事项</a></h1><p class="index-excerpt"><a href="/zh/2022/02/07/Notes-for-using-VMware-Workstation-with-Hyper-V-enabled/" target="_self">众所周知，VMware Workstation 在之前的很长一段时间内都不支持和 Hyper-V 共存，但因为越来越多的 Windows 组件需要在开启 Hyper-V 之后才能使用，VMware 终于在 VMware Workstation 15.5.5 开始支持和 Hyper-V 共存。 虽然的确添加了支持，但是也有一些限制，归纳这些问题是我写这篇文章的动机。 Windows 11 上 VM</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-02-07 19:45" pubdate="">2022-02-07</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/">Windows</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/%E4%BD%93%E9%AA%8C/">体验</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/tags/Windows/">Windows</a> <a href="/zh/tags/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/tags/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/tags/%E4%BD%93%E9%AA%8C/">体验</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 GitHub 仓库托管符号服务器 (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/02/06/Use-GitHub-repository-to-host-symbol-server/</id>
         <link href="https://mouri.moe/zh/2022/02/06/Use-GitHub-repository-to-host-symbol-server/"/>
-        <updated>2025-09-01T17:39:23.282Z</updated>
+        <updated>2025-09-02T05:43:10.234Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/02/06/Use-GitHub-repository-to-host-symbol-server/" target="_self">使用 GitHub 仓库托管符号服务器</a></h1><p class="index-excerpt"><a href="/zh/2022/02/06/Use-GitHub-repository-to-host-symbol-server/" target="_self">按照 Windows 调试符号服务器搭建的相关文档，在 GitHub 上做了个模板。 模板地址：https://github.com/ProjectMile/Mile.LocalSymbolStoreTemplate 笔者本意做这个模板本来是因为初雨技术群的猫总提到了可以自己搭建符号服务器，于是个人觉得也许可以白嫖一下 GitHub。 这样就能给自己的开源项目搞一个公共符号服务器，在每次发布新版本</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-02-06 22:11" pubdate="">2022-02-06</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/">Windows</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/%E4%BD%93%E9%AA%8C/">体验</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/tags/Windows/">Windows</a> <a href="/zh/tags/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/tags/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/tags/%E4%BD%93%E9%AA%8C/">体验</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[宣布 Mile.FFmpeg - 在 Windows 下使用的 FFmpeg 合并版动态链接库 (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2022/01/26/Introducing-Mile-FFmpeg-The-merged-FFmpeg-dynamic-linked-library-for-the-Windows/</id>
         <link href="https://mouri.moe/zh/2022/01/26/Introducing-Mile-FFmpeg-The-merged-FFmpeg-dynamic-linked-library-for-the-Windows/"/>
-        <updated>2025-09-01T17:39:23.284Z</updated>
+        <updated>2025-09-02T05:43:10.235Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2022/01/26/Introducing-Mile-FFmpeg-The-merged-FFmpeg-dynamic-linked-library-for-the-Windows/" target="_self">宣布 Mile.FFmpeg - 在 Windows 下使用的 FFmpeg 合并版动态链接库</a></h1><p class="index-excerpt"><a href="/zh/2022/01/26/Introducing-Mile-FFmpeg-The-merged-FFmpeg-dynamic-linked-library-for-the-Windows/" target="_self">最近，我创建了一个叫 Mile.FFmpeg 的新项目，是 FFmpegUniversal 的后继者，是一个在 Windows 下使用的 FFmpeg 合并版动态链接库。 我相信在阅读到这里的时候会问我一些问题，下述是可能的问题及其回答。 如果你不擅长中文，可以点此阅读英文版。 (翻译: If you are not good at Chinese, you can click on the li</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2022-01-26 22:03" pubdate="">2022-01-26</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/">Windows</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E5%BA%94%E7%94%A8/%E5%BC%80%E5%8F%91/%E5%AE%A3%E5%B8%83/">宣布</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/tags/Windows/">Windows</a> <a href="/zh/tags/Windows-%E5%BA%94%E7%94%A8/">Windows 应用</a> <a href="/zh/tags/%E5%BC%80%E5%8F%91/">开发</a> <a href="/zh/tags/%E5%AE%A3%E5%B8%83/">宣布</a></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[在你的 C++/WinRT UWP 项目中使用 VC-LTL (大贤者初春令月 Mouri_Naruto)]]></title>
         <id>https://mouri.moe/zh/2021/11/25/Use-VC-LTL-in-your-Cpp-WinRT-UWP-projects/</id>
         <link href="https://mouri.moe/zh/2021/11/25/Use-VC-LTL-in-your-Cpp-WinRT-UWP-projects/"/>
-        <updated>2025-09-01T17:39:23.285Z</updated>
+        <updated>2025-09-02T05:43:10.237Z</updated>
         <content type="html"><![CDATA[<h1 class="index-header"><a href="/zh/2021/11/25/Use-VC-LTL-in-your-Cpp-WinRT-UWP-projects/" target="_self">在你的 C++/WinRT UWP 项目中使用 VC-LTL</a></h1><p class="index-excerpt"><a href="/zh/2021/11/25/Use-VC-LTL-in-your-Cpp-WinRT-UWP-projects/" target="_self">VC-LTL 是一套可以让开发者优雅的使用 Windows 内置的 C 运行时库的编译工具链， 可使你编写的二进制在 C 运行库方面仅依赖 Windows 内置的 msvcrt.dll 或 ucrtbase.dll， 以达成无需额外部署 MSVC 运行库、解决 FLS 上限问题和大大缩减二进制体积的目标。 作为 VC-LTL 的忠实用户，同时也希望让自己的 UWP 实现零额外依赖，于是试着在 UW</a></p><div class="index-btm post-metas"><div class="post-meta mr-3"><i class="iconfont icon-date"></i> <time datetime="2021-11-25 22:47" pubdate="">2021-11-25</time></div><div class="post-meta mr-3"><i class="iconfont icon-category"></i> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/">Windows</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/">Windows 研究笔记</a> <a href="/zh/categories/%E6%8A%80%E6%9C%AF/Windows/Windows-%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/">开发环境</a></div><div class="post-meta"><i class="iconfont icon-tags"></i> <a href="/zh/tags/%E6%8A%80%E6%9C%AF/">技术</a> <a href="/zh/tags/Windows/">Windows</a> <a href="/zh/tags/Windows-%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/">Windows 研究笔记</a> <a href="/zh/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/">开发环境</a></div></div>]]></content>
     </entry>
 </feed>
